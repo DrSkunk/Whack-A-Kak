@@ -16,6 +16,7 @@ public class GameController : MonoBehaviour
     public Text TPlayer1Score;
     public Text TPlayer2Score;
 
+    // values for the endscreen with the scores and winner text
     public Text endPlayer1Score;
     public Text endPlayer2Score;
     public Text winnerText;
