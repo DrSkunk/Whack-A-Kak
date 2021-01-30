@@ -21,6 +21,7 @@ public class GameController : MonoBehaviour
     public Text endPlayer2Score;
     public Text winnerText;
 
+    // The popscreens for the info
     public GameObject beginScreen;
     public GameObject endScreen;
 
