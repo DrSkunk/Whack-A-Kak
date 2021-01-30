@@ -1,0 +1,1459 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-01-30T15:55:02.844+01:00
+  initializedAtString: 2021-01-30T15:55:02.844+01:00
+  log:
+  - commitID: 617ca3720762c814d9d7f0d30e03fce00bdd9e57
+    mergeA: 8ff87c2abc3b4b50be63f6a3b30a756a03c75dc8
+    mergeB: 8e99566625bdbe4e2339535be51b519629e6d6b9
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: Merge branch 'master' of https://github.com/Moongirl1207/Wack-a-Kak
+    description: 
+    timeString: 2021-01-30T15:44:44.000+01:00
+    commitTimeString: 2021-01-30T15:44:44.000+01:00
+    changes: []
+  - commitID: 8ff87c2abc3b4b50be63f6a3b30a756a03c75dc8
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: little change
+    description: 
+    timeString: 2021-01-30T15:44:28.000+01:00
+    commitTimeString: 2021-01-30T15:44:28.000+01:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .collabignore
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/ButtonPressController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/ButtonPressController.cs
+      projectPath: Assets/Scripts/ButtonPressController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/VersionControlSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/VersionControlSettings.asset
+      projectPath: ProjectSettings/VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8e99566625bdbe4e2339535be51b519629e6d6b9
+    mergeA: 55a8fb3a9088172ef3a3d5f134b5e4a8e85a6ec5
+    mergeB: dd5fcf24ddf08e8f3cfba869f25cc1255532ffd9
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: Merge branch 'master' of https://github.com/Moongirl1207/Wack-a-Kak
+    description: 
+    timeString: 2021-01-30T14:30:09.000+01:00
+    commitTimeString: 2021-01-30T14:30:09.000+01:00
+    changes: []
+  - commitID: 55a8fb3a9088172ef3a3d5f134b5e4a8e85a6ec5
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: tryout get  github working
+    description: 
+    timeString: 2021-01-30T14:28:50.000+01:00
+    commitTimeString: 2021-01-30T14:28:50.000+01:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .collabignore
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: dd5fcf24ddf08e8f3cfba869f25cc1255532ffd9
+    mergeA: 
+    mergeB: 
+    authorName: Amber
+    authorEmail: 56625081+Moongirl1207@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Tryout get assets working
+    description: 
+    timeString: 2021-01-30T14:28:23.000+01:00
+    commitTimeString: 2021-01-30T14:28:23.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 591446b13595720eec55bf91fdb535a6eae2c0bb
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: Changed timer to 90 sec
+    description: 
+    timeString: 2021-01-30T13:25:00.000+01:00
+    commitTimeString: 2021-01-30T13:25:00.000+01:00
+    changes:
+    - path: Assets/Scenes/GameScene.unity
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/GameScene.unity
+      projectPath: Assets/Scenes/GameScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/OnScreenTimerController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/OnScreenTimerController.cs
+      projectPath: Assets/Scripts/OnScreenTimerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets.meta
+      projectPath: Assets/SpriteSheets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_Kakje.anim
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_Kakje.anim
+      projectPath: Assets/SpriteSheets/Idle_Kakje.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_Kakje.anim.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_Kakje.anim.meta
+      projectPath: Assets/SpriteSheets/Idle_Kakje.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_kakje.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_kakje.png
+      projectPath: Assets/SpriteSheets/Idle_kakje.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_kakje.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_kakje.png.meta
+      projectPath: Assets/SpriteSheets/Idle_kakje.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_kakje.tpsheet
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_kakje.tpsheet
+      projectPath: Assets/SpriteSheets/Idle_kakje.tpsheet
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_kakje.tpsheet.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_kakje.tpsheet.meta
+      projectPath: Assets/SpriteSheets/Idle_kakje.tpsheet.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_kakje_0.controller
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_kakje_0.controller
+      projectPath: Assets/SpriteSheets/Idle_kakje_0.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/SpriteSheets/Idle_kakje_0.controller.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/SpriteSheets/Idle_kakje_0.controller.meta
+      projectPath: Assets/SpriteSheets/Idle_kakje_0.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: ebcbbbf673913e4e7e3f1f1cc8c6d829e4e76084
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: Added working end screen exept image indication
+    description: 
+    timeString: 2021-01-29T17:55:42.000+01:00
+    commitTimeString: 2021-01-29T17:55:42.000+01:00
+    changes:
+    - path: Assets/Scenes/GameScene.unity
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/GameScene.unity
+      projectPath: Assets/Scenes/GameScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/ButtonPressController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/ButtonPressController.cs
+      projectPath: Assets/Scripts/ButtonPressController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/GameController.cs
+      projectPath: Assets/Scripts/GameController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/OnScreenTimerController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/OnScreenTimerController.cs
+      projectPath: Assets/Scripts/OnScreenTimerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/PopUpController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/PopUpController.cs
+      projectPath: Assets/Scripts/PopUpController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/RandomPopUpObject.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/RandomPopUpObject.cs
+      projectPath: Assets/Scripts/RandomPopUpObject.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 9d7fabe7cd7b3b832a162fec758e97b3595ef6bf
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: Change keyboard + added intro and start en end screen
+    description: Keyboard changed from azerty to qwerty  and added the intro video
+      and showed the start explenation and end result with the winner
+    timeString: 2021-01-29T09:57:23.000+01:00
+    commitTimeString: 2021-01-29T09:57:23.000+01:00
+    changes:
+    - path: Assets/DesignAssets/BackgroundWack-A-Kak.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BackgroundWack-A-Kak.png
+      projectPath: Assets/DesignAssets/BackgroundWack-A-Kak.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BackgroundWack-A-Kak.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BackgroundWack-A-Kak.png.meta
+      projectPath: Assets/DesignAssets/BackgroundWack-A-Kak.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Lose.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Lose.png
+      projectPath: Assets/DesignAssets/Lose.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Lose.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Lose.png.meta
+      projectPath: Assets/DesignAssets/Lose.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/StartScreen.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/StartScreen.png
+      projectPath: Assets/DesignAssets/StartScreen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/StartScreen.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/StartScreen.png.meta
+      projectPath: Assets/DesignAssets/StartScreen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Win.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Win.png
+      projectPath: Assets/DesignAssets/Win.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Win.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Win.png.meta
+      projectPath: Assets/DesignAssets/Win.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/_main+sound.mp4
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/_main+sound.mp4
+      projectPath: Assets/DesignAssets/_main+sound.mp4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/_main+sound.mp4.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/_main+sound.mp4.meta
+      projectPath: Assets/DesignAssets/_main+sound.mp4.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/backscreen.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/backscreen.png
+      projectPath: Assets/DesignAssets/backscreen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/backscreen.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/backscreen.png.meta
+      projectPath: Assets/DesignAssets/backscreen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/VCR_OSD_MONO_1.001 (2).ttf
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/VCR_OSD_MONO_1.001
+        (2).ttf
+      projectPath: Assets/Fonts/VCR_OSD_MONO_1.001 (2).ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/VCR_OSD_MONO_1.001 (2).ttf.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/VCR_OSD_MONO_1.001
+        (2).ttf.meta
+      projectPath: Assets/Fonts/VCR_OSD_MONO_1.001 (2).ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/GameScene.unity
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/GameScene.unity
+      projectPath: Assets/Scenes/GameScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scenes/StartScene.unity
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/StartScene.unity
+      projectPath: Assets/Scenes/StartScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/StartScene.unity.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/StartScene.unity.meta
+      projectPath: Assets/Scenes/StartScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/ButtonPressController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/ButtonPressController.cs
+      projectPath: Assets/Scripts/ButtonPressController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/GameController.cs
+      projectPath: Assets/Scripts/GameController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/MoveScene.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/MoveScene.cs
+      projectPath: Assets/Scripts/MoveScene.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/MoveScene.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/MoveScene.cs.meta
+      projectPath: Assets/Scripts/MoveScene.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/OnScreenTimerController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/OnScreenTimerController.cs
+      projectPath: Assets/Scripts/OnScreenTimerController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/OnScreenTimerController.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/OnScreenTimerController.cs.meta
+      projectPath: Assets/Scripts/OnScreenTimerController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: e47bbcf2742b8068a3ebc57c38732d06ee422971
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: first mvp commit
+    description: first mvp commit to github
+    timeString: 2021-01-27T14:13:53.000+01:00
+    commitTimeString: 2021-01-27T14:13:53.000+01:00
+    changes:
+    - path: Assets/DesignAssets.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets.meta
+      projectPath: Assets/DesignAssets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/-1BotHoudini.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/-1BotHoudini.png
+      projectPath: Assets/DesignAssets/-1BotHoudini.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/-1BotHoudini.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/-1BotHoudini.png.meta
+      projectPath: Assets/DesignAssets/-1BotHoudini.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/-1BotLayer.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/-1BotLayer.png
+      projectPath: Assets/DesignAssets/-1BotLayer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/-1BotLayer.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/-1BotLayer.png.meta
+      projectPath: Assets/DesignAssets/-1BotLayer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/2nd Layer.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/2nd
+        Layer.png
+      projectPath: Assets/DesignAssets/2nd Layer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/2nd Layer.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/2nd
+        Layer.png.meta
+      projectPath: Assets/DesignAssets/2nd Layer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/2ndBotHoudini.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/2ndBotHoudini.png
+      projectPath: Assets/DesignAssets/2ndBotHoudini.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/2ndBotHoudini.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/2ndBotHoudini.png.meta
+      projectPath: Assets/DesignAssets/2ndBotHoudini.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/2ndBotLayer.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/2ndBotLayer.png
+      projectPath: Assets/DesignAssets/2ndBotLayer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/2ndBotLayer.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/2ndBotLayer.png.meta
+      projectPath: Assets/DesignAssets/2ndBotLayer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Backtrees.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Backtrees.png
+      projectPath: Assets/DesignAssets/Backtrees.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Backtrees.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Backtrees.png.meta
+      projectPath: Assets/DesignAssets/Backtrees.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarLeft1.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarLeft1.png
+      projectPath: Assets/DesignAssets/BarLeft1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarLeft1.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarLeft1.png.meta
+      projectPath: Assets/DesignAssets/BarLeft1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarLeft2.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarLeft2.png
+      projectPath: Assets/DesignAssets/BarLeft2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarLeft2.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarLeft2.png.meta
+      projectPath: Assets/DesignAssets/BarLeft2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarRight1.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarRight1.png
+      projectPath: Assets/DesignAssets/BarRight1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarRight1.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarRight1.png.meta
+      projectPath: Assets/DesignAssets/BarRight1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarRight2.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarRight2.png
+      projectPath: Assets/DesignAssets/BarRight2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BarRight2.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BarRight2.png.meta
+      projectPath: Assets/DesignAssets/BarRight2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BotHoudini.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BotHoudini.png
+      projectPath: Assets/DesignAssets/BotHoudini.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/BotHoudini.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/BotHoudini.png.meta
+      projectPath: Assets/DesignAssets/BotHoudini.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/COW.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/COW.png
+      projectPath: Assets/DesignAssets/COW.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/COW.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/COW.png.meta
+      projectPath: Assets/DesignAssets/COW.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/COWDUO.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/COWDUO.png
+      projectPath: Assets/DesignAssets/COWDUO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/COWDUO.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/COWDUO.png.meta
+      projectPath: Assets/DesignAssets/COWDUO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Clouds.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Clouds.png
+      projectPath: Assets/DesignAssets/Clouds.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Clouds.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Clouds.png.meta
+      projectPath: Assets/DesignAssets/Clouds.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Fronttrees.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Fronttrees.png
+      projectPath: Assets/DesignAssets/Fronttrees.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Fronttrees.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Fronttrees.png.meta
+      projectPath: Assets/DesignAssets/Fronttrees.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/HekjesB.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/HekjesB.png
+      projectPath: Assets/DesignAssets/HekjesB.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/HekjesB.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/HekjesB.png.meta
+      projectPath: Assets/DesignAssets/HekjesB.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/HekjesL+R.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/HekjesL+R.png
+      projectPath: Assets/DesignAssets/HekjesL+R.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/HekjesL+R.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/HekjesL+R.png.meta
+      projectPath: Assets/DesignAssets/HekjesL+R.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Kakje.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Kakje.png
+      projectPath: Assets/DesignAssets/Kakje.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Kakje.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Kakje.png.meta
+      projectPath: Assets/DesignAssets/Kakje.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/KakjeL.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/KakjeL.png
+      projectPath: Assets/DesignAssets/KakjeL.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/KakjeL.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/KakjeL.png.meta
+      projectPath: Assets/DesignAssets/KakjeL.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/New Font.fontsettings
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/New
+        Font.fontsettings
+      projectPath: Assets/DesignAssets/New Font.fontsettings
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/New Font.fontsettings.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/New
+        Font.fontsettings.meta
+      projectPath: Assets/DesignAssets/New Font.fontsettings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Soil.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Soil.png
+      projectPath: Assets/DesignAssets/Soil.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Soil.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Soil.png.meta
+      projectPath: Assets/DesignAssets/Soil.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/TimerBoard.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/TimerBoard.png
+      projectPath: Assets/DesignAssets/TimerBoard.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/TimerBoard.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/TimerBoard.png.meta
+      projectPath: Assets/DesignAssets/TimerBoard.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/TopHoudini.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/TopHoudini.png
+      projectPath: Assets/DesignAssets/TopHoudini.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/TopHoudini.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/TopHoudini.png.meta
+      projectPath: Assets/DesignAssets/TopHoudini.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/TopLayer.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/TopLayer.png
+      projectPath: Assets/DesignAssets/TopLayer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/TopLayer.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/TopLayer.png.meta
+      projectPath: Assets/DesignAssets/TopLayer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Tree.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Tree.png
+      projectPath: Assets/DesignAssets/Tree.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/Tree.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/Tree.png.meta
+      projectPath: Assets/DesignAssets/Tree.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/background.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/background.png
+      projectPath: Assets/DesignAssets/background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/background.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/background.png.meta
+      projectPath: Assets/DesignAssets/background.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/bottomCows.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/bottomCows.png
+      projectPath: Assets/DesignAssets/bottomCows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/bottomCows.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/bottomCows.png.meta
+      projectPath: Assets/DesignAssets/bottomCows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/bottomLayer.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/bottomLayer.png
+      projectPath: Assets/DesignAssets/bottomLayer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/bottomLayer.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/bottomLayer.png.meta
+      projectPath: Assets/DesignAssets/bottomLayer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/bushes.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/bushes.png
+      projectPath: Assets/DesignAssets/bushes.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/bushes.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/bushes.png.meta
+      projectPath: Assets/DesignAssets/bushes.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/cows.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/cows.png
+      projectPath: Assets/DesignAssets/cows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/cows.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/cows.png.meta
+      projectPath: Assets/DesignAssets/cows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/hekjes.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/hekjes.png
+      projectPath: Assets/DesignAssets/hekjes.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/hekjes.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/hekjes.png.meta
+      projectPath: Assets/DesignAssets/hekjes.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/kakjeR.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/kakjeR.png
+      projectPath: Assets/DesignAssets/kakjeR.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/kakjeR.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/kakjeR.png.meta
+      projectPath: Assets/DesignAssets/kakjeR.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/timer.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/timer.png
+      projectPath: Assets/DesignAssets/timer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/timer.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/timer.png.meta
+      projectPath: Assets/DesignAssets/timer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/trees.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/trees.png
+      projectPath: Assets/DesignAssets/trees.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/DesignAssets/trees.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/DesignAssets/trees.png.meta
+      projectPath: Assets/DesignAssets/trees.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts.meta
+      projectPath: Assets/Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/Arkakia_front-Regular.otf
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/Arkakia_front-Regular.otf
+      projectPath: Assets/Fonts/Arkakia_front-Regular.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/Arkakia_front-Regular.otf.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/Arkakia_front-Regular.otf.meta
+      projectPath: Assets/Fonts/Arkakia_front-Regular.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/Arkakia_side-Regular.otf
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/Arkakia_side-Regular.otf
+      projectPath: Assets/Fonts/Arkakia_side-Regular.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/Arkakia_side-Regular.otf.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/Arkakia_side-Regular.otf.meta
+      projectPath: Assets/Fonts/Arkakia_side-Regular.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/Arkakia_top-Regular.otf
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/Arkakia_top-Regular.otf
+      projectPath: Assets/Fonts/Arkakia_top-Regular.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/Arkakia_top-Regular.otf.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Fonts/Arkakia_top-Regular.otf.meta
+      projectPath: Assets/Fonts/Arkakia_top-Regular.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes.meta
+      projectPath: Assets/Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/GameScene.unity
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/GameScene.unity
+      projectPath: Assets/Scenes/GameScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/GameScene.unity.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scenes/GameScene.unity.meta
+      projectPath: Assets/Scenes/GameScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/ButtonPressController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/ButtonPressController.cs
+      projectPath: Assets/Scripts/ButtonPressController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/ButtonPressController.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/ButtonPressController.cs.meta
+      projectPath: Assets/Scripts/ButtonPressController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/GameController.cs
+      projectPath: Assets/Scripts/GameController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameController.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/GameController.cs.meta
+      projectPath: Assets/Scripts/GameController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PopUpController.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/PopUpController.cs
+      projectPath: Assets/Scripts/PopUpController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PopUpController.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/PopUpController.cs.meta
+      projectPath: Assets/Scripts/PopUpController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/RandomPopUpObject.cs
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/RandomPopUpObject.cs
+      projectPath: Assets/Scripts/RandomPopUpObject.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/RandomPopUpObject.cs.meta
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/Scripts/RandomPopUpObject.cs.meta
+      projectPath: Assets/Scripts/RandomPopUpObject.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Packages/manifest.json
+      projectPath: Packages/manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages/packages-lock.json
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Packages/packages-lock.json
+      projectPath: Packages/packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/ClusterInputManager.asset
+      projectPath: ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/NetworkManager.asset
+      projectPath: ProjectSettings/NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/PackageManagerSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/PackageManagerSettings.asset
+      projectPath: ProjectSettings/PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/PresetManager.asset
+      projectPath: ProjectSettings/PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/VFXManager.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/VFXManager.asset
+      projectPath: ProjectSettings/VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/VersionControlSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/VersionControlSettings.asset
+      projectPath: ProjectSettings/VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/XRSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/ProjectSettings/XRSettings.asset
+      projectPath: ProjectSettings/XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings/EditorUserSettings.asset
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/UserSettings/EditorUserSettings.asset
+      projectPath: UserSettings/EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 69e089e30061bf6075507d450d4039650b198783
+    mergeA: 
+    mergeB: 
+    authorName: Moongirl1207
+    authorEmail: amber.perard@student.howest.be
+    commitEmail: amber.perard@student.howest.be
+    commitName: Moongirl1207
+    summary: Initial commit
+    description: 
+    timeString: 2021-01-26T18:25:08.000+01:00
+    commitTimeString: 2021-01-26T18:25:08.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/amberperard/wkspaces/Wack-a-kak/WackAKak2DFlat/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
