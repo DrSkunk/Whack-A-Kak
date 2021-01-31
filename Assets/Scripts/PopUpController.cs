@@ -12,6 +12,8 @@ public class PopUpController : MonoBehaviour
     private bool hasSetActive = false;
     private RandomPopUpObject activeElement;
 
+
+
     void Update()
     {
         if (gameController.gameIsActive == true)
@@ -23,6 +25,9 @@ public class PopUpController : MonoBehaviour
                 //choose random moment to choose a other item.
                 nextActiveCycle = Time.time + Random.Range(0.5f, 2.0f); ;
                 hasSetActive = false;
+                }
+           
+
             }
 
             //check if an item can popup
@@ -49,5 +54,5 @@ public class PopUpController : MonoBehaviour
             }
         }
     }
-}
+
 
