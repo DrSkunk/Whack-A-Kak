@@ -1,0 +1,121 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a3394dbde9a9f4e4c4c9c5005f9e0b20:98880c800fa994ae0f6c2914de923d2a:4b7aa5f7c42134a1e87d11707dbafd58$
+#
+:format=40300
+:texture=BlinkKakje.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+4Kak_1_knipoog-4Kak_1_knipoog_00000;1;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00001;1;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00002;1;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00003;1;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00004;1;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00005;1;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00006;1;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00007;1;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00008;1;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00009;1;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00010;178;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00011;355;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00012;532;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00013;709;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00014;886;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00015;1063;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00016;1240;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00017;1417;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00018;1594;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00019;1771;1847;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00020;178;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00021;178;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00022;178;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00023;178;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00024;178;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00025;178;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00026;178;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00027;178;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00028;178;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00029;355;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00030;532;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00031;709;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00032;886;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00033;1063;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00034;1240;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00035;1417;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00036;1594;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00037;1771;1645;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00038;355;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00039;355;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00040;355;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00041;355;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00042;355;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00043;355;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00044;355;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00045;355;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00046;532;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00047;709;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00048;886;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00049;1063;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00050;1240;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00051;1417;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00052;1594;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00053;1771;1443;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00054;532;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00055;532;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00056;532;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00057;532;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00058;532;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00059;532;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00060;532;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00061;709;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00062;886;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00063;1063;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00064;1240;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00065;1417;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00066;1594;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00067;1771;1241;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00068;709;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00069;709;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00070;709;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00071;709;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00072;709;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00073;709;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00074;886;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00075;1063;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00076;1240;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00077;1417;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00078;1594;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00079;1771;1039;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00080;886;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00081;886;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00082;886;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00083;886;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00084;886;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00085;1063;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00086;1240;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00087;1417;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00088;1594;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00089;1771;837;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00090;1063;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00091;1063;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00092;1063;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00093;1063;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00094;1240;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00095;1240;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00096;1240;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00097;1240;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00098;1417;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00099;1594;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00100;1771;635;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00101;1417;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00102;1417;231;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00103;1417;29;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00104;1594;433;175;200; 0.5;0.5; 0;0;0;0
+4Kak_1_knipoog-4Kak_1_knipoog_00105;1771;433;175;200; 0.5;0.5; 0;0;0;0

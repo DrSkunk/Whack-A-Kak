@@ -1,0 +1,2683 @@
+fileFormatVersion: 2
+guid: 2cfa2f09ac8644253a75ecd4cb40750d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3570463709221897523
+    second: BlinkKakje_0
+  - first:
+      213: 5676874786238611176
+    second: BlinkKakje_1
+  - first:
+      213: -5607586906541529636
+    second: BlinkKakje_2
+  - first:
+      213: -7062412622704483016
+    second: BlinkKakje_3
+  - first:
+      213: -8431179351543009689
+    second: BlinkKakje_4
+  - first:
+      213: 658592998265065691
+    second: BlinkKakje_5
+  - first:
+      213: 4721997561445805589
+    second: BlinkKakje_6
+  - first:
+      213: 5346627469020713920
+    second: BlinkKakje_7
+  - first:
+      213: 2053170874467688423
+    second: BlinkKakje_8
+  - first:
+      213: 1597985910414557720
+    second: BlinkKakje_9
+  - first:
+      213: 6175785533566259250
+    second: BlinkKakje_10
+  - first:
+      213: -6632340010319596747
+    second: BlinkKakje_11
+  - first:
+      213: 4752392721054207871
+    second: BlinkKakje_12
+  - first:
+      213: 118290465921163789
+    second: BlinkKakje_13
+  - first:
+      213: -2341985855610735297
+    second: BlinkKakje_14
+  - first:
+      213: 6268804640508502669
+    second: BlinkKakje_15
+  - first:
+      213: -4566596284979608974
+    second: BlinkKakje_16
+  - first:
+      213: -6331465533141789961
+    second: BlinkKakje_17
+  - first:
+      213: -4049339726295510719
+    second: BlinkKakje_18
+  - first:
+      213: -5245752747298502766
+    second: BlinkKakje_19
+  - first:
+      213: -8278578467346755107
+    second: BlinkKakje_20
+  - first:
+      213: 481925057942785960
+    second: BlinkKakje_21
+  - first:
+      213: -3404016699548471045
+    second: BlinkKakje_22
+  - first:
+      213: -2503189403691030504
+    second: BlinkKakje_23
+  - first:
+      213: -4187429528022765815
+    second: BlinkKakje_24
+  - first:
+      213: -438892244118127896
+    second: BlinkKakje_25
+  - first:
+      213: 8288247673618917361
+    second: BlinkKakje_26
+  - first:
+      213: -8526440502526764313
+    second: BlinkKakje_27
+  - first:
+      213: 8610357427339049659
+    second: BlinkKakje_28
+  - first:
+      213: -2241627352576579488
+    second: BlinkKakje_29
+  - first:
+      213: 3816913887932714877
+    second: BlinkKakje_30
+  - first:
+      213: -5109314343238441926
+    second: BlinkKakje_31
+  - first:
+      213: 7767345475980121531
+    second: BlinkKakje_32
+  - first:
+      213: 6652695366203396453
+    second: BlinkKakje_33
+  - first:
+      213: 3682707161147072794
+    second: BlinkKakje_34
+  - first:
+      213: 2510557999951328134
+    second: BlinkKakje_35
+  - first:
+      213: -4171383709580249527
+    second: BlinkKakje_36
+  - first:
+      213: 2947100539234702122
+    second: BlinkKakje_37
+  - first:
+      213: -9101637457967141516
+    second: BlinkKakje_38
+  - first:
+      213: -4427793803802153584
+    second: BlinkKakje_39
+  - first:
+      213: 6448263975832557419
+    second: BlinkKakje_40
+  - first:
+      213: 7720293389126742109
+    second: BlinkKakje_41
+  - first:
+      213: 7406747901264252918
+    second: BlinkKakje_42
+  - first:
+      213: 8450111434071516912
+    second: BlinkKakje_43
+  - first:
+      213: -7696280078237772013
+    second: BlinkKakje_44
+  - first:
+      213: 1951898405951213139
+    second: BlinkKakje_45
+  - first:
+      213: 9042976497785068109
+    second: BlinkKakje_46
+  - first:
+      213: 1042677910305658747
+    second: BlinkKakje_47
+  - first:
+      213: 4723526419405132703
+    second: BlinkKakje_48
+  - first:
+      213: -7159460495601602150
+    second: BlinkKakje_49
+  - first:
+      213: -302586665929819776
+    second: BlinkKakje_50
+  - first:
+      213: -8283793228392393891
+    second: BlinkKakje_51
+  - first:
+      213: 5173038871946717880
+    second: BlinkKakje_52
+  - first:
+      213: 1827065797621938491
+    second: BlinkKakje_53
+  - first:
+      213: -3792109345192880471
+    second: BlinkKakje_54
+  - first:
+      213: -1886382718096683661
+    second: BlinkKakje_55
+  - first:
+      213: 5635542046664335841
+    second: BlinkKakje_56
+  - first:
+      213: 7172250697904057569
+    second: BlinkKakje_57
+  - first:
+      213: 2336234952112717971
+    second: BlinkKakje_58
+  - first:
+      213: 2586188780409361759
+    second: BlinkKakje_59
+  - first:
+      213: -7301578973587747949
+    second: BlinkKakje_60
+  - first:
+      213: 1043520839232475571
+    second: BlinkKakje_61
+  - first:
+      213: -866348718313992935
+    second: BlinkKakje_62
+  - first:
+      213: -6818854002508541871
+    second: BlinkKakje_63
+  - first:
+      213: -6844091403214094703
+    second: BlinkKakje_64
+  - first:
+      213: 858455235796274271
+    second: BlinkKakje_65
+  - first:
+      213: 3717820534953627864
+    second: BlinkKakje_66
+  - first:
+      213: 2759636619332540465
+    second: BlinkKakje_67
+  - first:
+      213: -6789940494901097855
+    second: BlinkKakje_68
+  - first:
+      213: -8029822108325479158
+    second: BlinkKakje_69
+  - first:
+      213: 1629734200860555524
+    second: BlinkKakje_70
+  - first:
+      213: 7741307726057904696
+    second: BlinkKakje_71
+  - first:
+      213: -3635895009490679236
+    second: BlinkKakje_72
+  - first:
+      213: -710731581938971002
+    second: BlinkKakje_73
+  - first:
+      213: 5130177123847826833
+    second: BlinkKakje_74
+  - first:
+      213: 9018401225471945012
+    second: BlinkKakje_75
+  - first:
+      213: 8344010241968540257
+    second: BlinkKakje_76
+  - first:
+      213: 2064169982622236433
+    second: BlinkKakje_77
+  - first:
+      213: -10937761070558037
+    second: BlinkKakje_78
+  - first:
+      213: 5073336942925258364
+    second: BlinkKakje_79
+  - first:
+      213: -3186590736551801559
+    second: BlinkKakje_80
+  - first:
+      213: 1282503187231858419
+    second: BlinkKakje_81
+  - first:
+      213: -6458611554802571244
+    second: BlinkKakje_82
+  - first:
+      213: -1584022519247368680
+    second: BlinkKakje_83
+  - first:
+      213: 519314560593154623
+    second: BlinkKakje_84
+  - first:
+      213: 8155717976602209180
+    second: BlinkKakje_85
+  - first:
+      213: 8961628113371982178
+    second: BlinkKakje_86
+  - first:
+      213: 5092212288760764573
+    second: BlinkKakje_87
+  - first:
+      213: -1646448610525155765
+    second: BlinkKakje_88
+  - first:
+      213: 7863015638841475304
+    second: BlinkKakje_89
+  - first:
+      213: -6313386839418652224
+    second: BlinkKakje_90
+  - first:
+      213: -5521544471684166095
+    second: BlinkKakje_91
+  - first:
+      213: -1584314984167173674
+    second: BlinkKakje_92
+  - first:
+      213: 4552406163956951478
+    second: BlinkKakje_93
+  - first:
+      213: 314554125349533521
+    second: BlinkKakje_94
+  - first:
+      213: -519884228718874381
+    second: BlinkKakje_95
+  - first:
+      213: 6817221840054657982
+    second: BlinkKakje_96
+  - first:
+      213: -6964750678879719261
+    second: BlinkKakje_97
+  - first:
+      213: -8616828052651149520
+    second: BlinkKakje_98
+  - first:
+      213: -3707177792588150998
+    second: BlinkKakje_99
+  - first:
+      213: -279825926520564211
+    second: BlinkKakje_100
+  - first:
+      213: 1931340042773667900
+    second: BlinkKakje_101
+  - first:
+      213: -6637162334433129102
+    second: BlinkKakje_102
+  - first:
+      213: -1054202195927849166
+    second: BlinkKakje_103
+  - first:
+      213: 1544647324102965644
+    second: BlinkKakje_104
+  - first:
+      213: 1762359756537636818
+    second: BlinkKakje_105
+  - first:
+      213: -7134945301265255953
+    second: BlinkKakje_106
+  - first:
+      213: 5464732339955893901
+    second: BlinkKakje_107
+  - first:
+      213: -286450494303341790
+    second: BlinkKakje_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlinkKakje_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcab7607c2a237ec0800000000000000
+      internalID: -3570463709221897523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eebf1c6a8f48ce40800000000000000
+      internalID: 5676874786238611176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5e5743b69dd22b0800000000000000
+      internalID: -5607586906541529636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e67e43254dfd90800000000000000
+      internalID: -7062412622704483016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eaba1dc0f6efa80800000000000000
+      internalID: -8431179351543009689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd01621b7dac32900800000000000000
+      internalID: 658592998265065691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eec3093c7e78140800000000000000
+      internalID: 4721997561445805589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_7
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3535dfa59033a40800000000000000
+      internalID: 5346627469020713920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_8
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef13db38045e7c10800000000000000
+      internalID: 2053170874467688423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_9
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c65218bf2d2610800000000000000
+      internalID: 1597985910414557720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_10
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1845
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309639d83cc4b550800000000000000
+      internalID: 6175785533566259250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333a4776e135f3a0800000000000000
+      internalID: -6632340010319596747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f86932004e3f140800000000000000
+      internalID: 4752392721054207871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02eb815d8044a100800000000000000
+      internalID: 118290465921163789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35355fc5489f7fd0800000000000000
+      internalID: -2341985855610735297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_15
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8264d36b944ff650800000000000000
+      internalID: 6268804640508502669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_16
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720c29afd030a0c0800000000000000
+      internalID: -4566596284979608974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_17
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f25475a4ad1228a0800000000000000
+      internalID: -6331465533141789961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_18
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141574729faddc7c0800000000000000
+      internalID: -4049339726295510719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_19
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974eb56ba75337b0800000000000000
+      internalID: -5245752747298502766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_20
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15998eeb49c1d80800000000000000
+      internalID: -8278578467346755107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_21
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1642
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0a0f694420b600800000000000000
+      internalID: 481925057942785960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf07ae5d8d082c0d0800000000000000
+      internalID: -3404016699548471045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186973ff72e24dd0800000000000000
+      internalID: -2503189403691030504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa83cb70343e5c0800000000000000
+      internalID: -4187429528022765815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3aae44ddb8e9f0800000000000000
+      internalID: -438892244118127896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_26
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7638c9855c50370800000000000000
+      internalID: 8288247673618917361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_27
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea9368b98ffba980800000000000000
+      internalID: -8526440502526764313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_28
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab0b5e5722e7770800000000000000
+      internalID: 8610357427339049659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_29
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068afdaacc324e0e0800000000000000
+      internalID: -2241627352576579488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_30
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0c7c45f668f430800000000000000
+      internalID: 3816913887932714877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_31
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e675dca11819b0800000000000000
+      internalID: -5109314343238441926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_32
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1439
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55887ae872bcb60800000000000000
+      internalID: 7767345475980121531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561d075203f135c50800000000000000
+      internalID: 6652695366203396453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1165f7b6aa9b1330800000000000000
+      internalID: 3682707161147072794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833d1f033b47d220800000000000000
+      internalID: 2510557999951328134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_36
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9463e98fd944c16c0800000000000000
+      internalID: -4171383709580249527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_37
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a235276735436e820800000000000000
+      internalID: 2947100539234702122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_38
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47daa7b54fc70b180800000000000000
+      internalID: -9101637457967141516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_39
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d62b1bef05d82c0800000000000000
+      internalID: -4427793803802153584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_40
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b679271fbe5dc7950800000000000000
+      internalID: 6448263975832557419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_41
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5032bcfeedf32b60800000000000000
+      internalID: 7720293389126742109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_42
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc9bb39fd0ac660800000000000000
+      internalID: 7406747901264252918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_43
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1236
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ac442493d44570800000000000000
+      internalID: 8450111434071516912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d8b4ab02513590800000000000000
+      internalID: -7696280078237772013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8f543249861b10800000000000000
+      internalID: 1951898405951213139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5fa6863b1f7d70800000000000000
+      internalID: 9042976497785068109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b775aeaf806587e00800000000000000
+      internalID: 1042677910305658747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d0db80465d8140800000000000000
+      internalID: 4723526419405132703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_49
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9179389c9c74ac90800000000000000
+      internalID: -7159460495601602150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_50
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089bb7fc70ffccbf0800000000000000
+      internalID: -302586665929819776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_51
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5392ecb2fd0a0d80800000000000000
+      internalID: -8283793228392393891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_52
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baeba332735ac740800000000000000
+      internalID: 5173038871946717880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_53
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397588a9aa0b5910800000000000000
+      internalID: 1827065797621938491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_54
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1033
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d65a54a8bf5bc0800000000000000
+      internalID: -3792109345192880471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d496199e832d5e0800000000000000
+      internalID: -1886382718096683661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a43012a7753e40800000000000000
+      internalID: 5635542046664335841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6e907204f88360800000000000000
+      internalID: 7172250697904057569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_58
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c780af49fb6020800000000000000
+      internalID: 2336234952112717971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_59
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55966a5efcf3e320800000000000000
+      internalID: 2586188780409361759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_60
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b47d3eb949baa90800000000000000
+      internalID: -7301578973587747949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_61
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b15b2aaca45b7e00800000000000000
+      internalID: 1043520839232475571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_62
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d87494e6c1af3f0800000000000000
+      internalID: -866348718313992935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_63
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505a3d99609e51a0800000000000000
+      internalID: -6818854002508541871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_64
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7e1d5127e401a0800000000000000
+      internalID: -6844091403214094703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_65
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 830
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c06391d78d9eb00800000000000000
+      internalID: 858455235796274271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05094241a589330800000000000000
+      internalID: 3717820534953627864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d97452e23c4620800000000000000
+      internalID: 2759636619332540465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a4163381945c1a0800000000000000
+      internalID: -6789940494901097855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_69
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d7ea71657509090800000000000000
+      internalID: -8029822108325479158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_70
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093998fe9afd9610800000000000000
+      internalID: 1629734200860555524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_71
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1ba49c56ae6b60800000000000000
+      internalID: 7741307726057904696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_72
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a41bea0c4ba8dc0800000000000000
+      internalID: -3635895009490679236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_73
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e40ef4469f226f0800000000000000
+      internalID: -710731581938971002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_74
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de8cdc9ec023740800000000000000
+      internalID: 5130177123847826833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_75
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e33e022cc72d70800000000000000
+      internalID: 9018401225471945012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_76
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 627
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a81ca4b11ebc370800000000000000
+      internalID: 8344010241968540257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff83aa9a765ac10800000000000000
+      internalID: 2064169982622236433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_78
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba450cc0a2429dff0800000000000000
+      internalID: -10937761070558037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_79
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1de4e11d186640800000000000000
+      internalID: 5073336942925258364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_80
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d874fbb94f6c3d0800000000000000
+      internalID: -3186590736551801559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_81
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed2429add5cc110800000000000000
+      internalID: 1282503187231858419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_82
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41862c592076e56a0800000000000000
+      internalID: -6458611554802571244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_83
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8a0849eb640ae0800000000000000
+      internalID: -1584022519247368680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_84
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d7d667d9f43700800000000000000
+      internalID: 519314560593154623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_85
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b64a3f94eee2170800000000000000
+      internalID: 8155717976602209180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_86
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e0b2d9491e5c70800000000000000
+      internalID: 8961628113371982178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_87
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 424
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98d670d81c2ba640800000000000000
+      internalID: 5092212288760764573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e66b446b3a629e0800000000000000
+      internalID: -1646448610525155765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0cc70401b0f1d60800000000000000
+      internalID: 7863015638841475304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c933da8e185268a0800000000000000
+      internalID: -6313386839418652224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_91
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e4eb1be888f53b0800000000000000
+      internalID: -5521544471684166095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_92
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1136c7ae1630ae0800000000000000
+      internalID: -1584314984167173674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_93
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e3f359456d2f30800000000000000
+      internalID: 4552406163956951478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_94
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157b7187f458d5400800000000000000
+      internalID: 314554125349533521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_95
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f032e66c0009c8f0800000000000000
+      internalID: -519884228718874381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_96
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 221
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32e73f423ab9e50800000000000000
+      internalID: 6817221840054657982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b63c882c385f90800000000000000
+      internalID: -6964750678879719261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_98
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0377b1f3a80ea6880800000000000000
+      internalID: -8616828052651149520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_99
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27019960757d8cc0800000000000000
+      internalID: -3707177792588150998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_100
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d061cca6dcbdd1cf0800000000000000
+      internalID: -279825926520564211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_101
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302306498f7dca10800000000000000
+      internalID: 1931340042773667900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_102
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc283a50014e3a0800000000000000
+      internalID: -6637162334433129102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_103
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a84e20b8be51f0800000000000000
+      internalID: -1054202195927849166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_104
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893a60be80bf6510800000000000000
+      internalID: 1544647324102965644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkKakje_105
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 18
+        width: 177
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7aed67cd8257810800000000000000
+      internalID: 1762359756537636818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
