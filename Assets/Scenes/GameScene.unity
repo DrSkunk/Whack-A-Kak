@@ -1773,6 +1773,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!212 &724227361
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2748,6 +2749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!212 &1248383041
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3407,6 +3409,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!212 &1559122572
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3908,6 +3911,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!1 &1649777338
 GameObject:
   m_ObjectHideFlags: 0
@@ -4033,6 +4037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!212 &1668954938
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4574,6 +4579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!1 &1746130380
 GameObject:
   m_ObjectHideFlags: 0
@@ -4750,6 +4756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!1 &1757367113
 GameObject:
   m_ObjectHideFlags: 0
@@ -4796,6 +4803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!212 &1757367116
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5123,7 +5131,6 @@ MonoBehaviour:
   - {fileID: 1668954935}
   - {fileID: 1748216164}
   nextActiveCycle: 0
-  serialController: {fileID: 0}
 --- !u!114 &1829995626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5371,6 +5378,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!1 &1902018143
 GameObject:
   m_ObjectHideFlags: 0
@@ -5417,6 +5425,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  serialController: {fileID: 0}
 --- !u!212 &1902018146
 SpriteRenderer:
   m_ObjectHideFlags: 0

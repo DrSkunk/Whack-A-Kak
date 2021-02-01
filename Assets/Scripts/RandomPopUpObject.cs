@@ -17,7 +17,6 @@ public class RandomPopUpObject : MonoBehaviour
     {
         //getting serial controller for arduino connection
         serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
-        Debug.Log("zoek de kak");
     }
 
     void Update()
