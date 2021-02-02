@@ -28,7 +28,7 @@ public class RandomPopUpObject : MonoBehaviour
             Down = false;
             gameObject.transform.Translate(Vector3.up * 2);
             // choose a random time to be active
-            loadTimer = Random.Range(0.5f, 1.3f);
+            loadTimer = Random.Range(3.0f, 5.0f);
             active = false;
 
             //arduino
