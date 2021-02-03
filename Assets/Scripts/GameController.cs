@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
@@ -27,6 +28,8 @@ public class GameController : MonoBehaviour
 
     public float startTimer = 10f;
     public Text StartTimer;
+
+    private float endTimer = 100f;
 
     public bool gameIsActive = false;
 
@@ -68,7 +71,7 @@ public class GameController : MonoBehaviour
             endScreen.SetActive(true);
             endPlayer1Score.text = Player1Score.ToString();
             endPlayer2Score.text = Player2Score.ToString();
-
+            endTimer -= Time.deltaTime;
             if (Player1Score > Player2Score)
             {
 
@@ -80,6 +83,12 @@ public class GameController : MonoBehaviour
                 WinnerName = "SPELER 2";
             }
             winnerText.text = "PROFICIAT " + WinnerName + "!";
+
+            //logic OR operator
+            if (endTimer <= 0 ^ Input.GetKeyDown("space"))
+            {
+                SceneManager.LoadScene(sceneName: "StartScene");
+            }
         }
     }
 }
