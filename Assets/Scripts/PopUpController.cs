@@ -10,7 +10,7 @@ public class PopUpController : MonoBehaviour
     public float nextActiveCycle;
 
     private bool hasSetActive = false;
-    private RandomPopUpObject activeElement;
+    private RandomPopUpObject randomElement;
 
 
 
@@ -21,9 +21,9 @@ public class PopUpController : MonoBehaviour
             if (Time.time > nextActiveCycle) // if time is greater than nextActiveCycle activate object
             {
                 //select a random element from al the game elements to pop up.
-                activeElement = GameElements[Random.Range(0, GameElements.Length)].GetComponent<RandomPopUpObject>();
+                randomElement = GameElements[Random.Range(0, GameElements.Length)].GetComponent<RandomPopUpObject>();
                 //choose random moment to choose a other item.
-                nextActiveCycle = Time.time + Random.Range(0.5f, 2.0f); ;
+                nextActiveCycle = Time.time + Random.Range(0.5f, 2.0f);
                 hasSetActive = false;
                 }
            
@@ -33,24 +33,30 @@ public class PopUpController : MonoBehaviour
             //check if an item can popup
             if (hasSetActive == false)
             {
-                foreach (GameObject GameElement in GameElements)
+            foreach (GameObject GameElement in GameElements)
+            {
+
+                //get the RandomPopUpObject script to check active variables on true
+                if (GameElement.GetComponent<RandomPopUpObject>() == randomElement)
                 {
-                    //get the RandomPopUpObject script to check active variables on true
-                    if(GameElement.GetComponent<RandomPopUpObject>() == activeElement)
-                    {
+                    //Debug.Log("randomChosen element = " + GameElement.name.ToString() + "this is the down state: " +randomElement.Down.ToString());
                         //if item is already active set it inactive else put it active so it pops up
-                        if(activeElement.active == true)
+                        if(randomElement.Down == false)
                         {
-                            activeElement.active = false;
+                            randomElement.active = false;
                         }
-                        else
+                        else if (randomElement.Down)
                         {
-                            activeElement.active = true;
-                        }
-                    }
+                            randomElement.active = true;
+
+                        //Debug.Log("randomChosen element = " + GameElement.name.ToString() + "this is the down state: " + randomElement.Down.ToString());
+                        //Debug.Log("item already active");
+                            //activeElement.active = true;
+                       }
                 }
-                //prevent infinite cycle without timer
-                hasSetActive = true;
+            }
+            //prevent infinite cycle without timer
+            hasSetActive = true;
             }
         }
     }

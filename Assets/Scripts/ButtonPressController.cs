@@ -43,7 +43,7 @@ public class ButtonPressController : MonoBehaviour
                     P1Score++;
 
                     //send to arduino that hit happened
-                    Debug.Log("Sending 0");
+                    //Debug.Log("Sending 0");
                     serialController.SendSerialMessage("01");
 
                     //save the score in the PlayerPrefs for display of the score
@@ -64,7 +64,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 1");
+                    //Debug.Log("Sending 1");
                     serialController.SendSerialMessage("11");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -84,7 +84,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 2");
+                    //Debug.Log("Sending 2");
                     serialController.SendSerialMessage("21");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -103,7 +103,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 3");
+                    //Debug.Log("Sending 3");
                     serialController.SendSerialMessage("31");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -122,7 +122,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 4");
+                    //Debug.Log("Sending 4");
                     serialController.SendSerialMessage("41");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -142,7 +142,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 5");
+                    //Debug.Log("Sending 5");
                     serialController.SendSerialMessage("51");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -161,7 +161,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 6");
+                    //Debug.Log("Sending 6");
                     serialController.SendSerialMessage("61");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -180,7 +180,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 7");
+                    //Debug.Log("Sending 7");
                     serialController.SendSerialMessage("71");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -200,7 +200,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 8");
+                    //Debug.Log("Sending 8");
                     serialController.SendSerialMessage("81");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -219,7 +219,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    Debug.Log("Sending 9");
+                    //Debug.Log("Sending 9");
                     serialController.SendSerialMessage("91");
 
                     PlayerPrefs.SetInt("Player1Score", P1Score);
@@ -242,7 +242,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 0");
+                    //Debug.Log("Sending 0");
                     serialController.SendSerialMessage("02");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -261,7 +261,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 1");
+                    //Debug.Log("Sending 1");
                     serialController.SendSerialMessage("12");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -281,7 +281,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 2");
+                    //Debug.Log("Sending 2");
                     serialController.SendSerialMessage("22");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -299,7 +299,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 3");
+                    //Debug.Log("Sending 3");
                     serialController.SendSerialMessage("32");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -317,7 +317,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 4");
+                    //Debug.Log("Sending 4");
                     serialController.SendSerialMessage("42");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -337,7 +337,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 5");
+                    //Debug.Log("Sending 5");
                     serialController.SendSerialMessage("52");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -356,7 +356,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 6");
+                    //Debug.Log("Sending 6");
                     serialController.SendSerialMessage("62");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -375,7 +375,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 7");
+                    //Debug.Log("Sending 7");
                     serialController.SendSerialMessage("72");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -395,7 +395,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 8");
+                    //Debug.Log("Sending 8");
                     serialController.SendSerialMessage("82");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
@@ -414,7 +414,7 @@ public class ButtonPressController : MonoBehaviour
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
-                    Debug.Log("Sending 9");
+                    //Debug.Log("Sending 9");
                     serialController.SendSerialMessage("92");
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
