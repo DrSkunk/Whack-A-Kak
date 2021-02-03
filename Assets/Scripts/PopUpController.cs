@@ -23,7 +23,7 @@ public class PopUpController : MonoBehaviour
                 //select a random element from al the game elements to pop up.
                 randomElement = GameElements[Random.Range(0, GameElements.Length)].GetComponent<RandomPopUpObject>();
                 //choose random moment to choose a other item.
-                nextActiveCycle = Time.time + Random.Range(0.5f, 2.0f);
+                nextActiveCycle = Time.time + Random.Range(1.0f, 1.0f);
                 hasSetActive = false;
                 }
            
