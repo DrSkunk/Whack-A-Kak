@@ -30,7 +30,7 @@ public class ButtonPressController : MonoBehaviour
             //Get keyinputs For the 1st player
 
             //1ste row of object
-            if (Input.GetKeyUp("q"))
+            if (Input.GetKeyDown("q"))
             {
                 //find item that you want to activate with the key and select the script
                 ActiveElement = GameObject.Find("BL-Popup");
@@ -67,7 +67,7 @@ public class ButtonPressController : MonoBehaviour
             }
             //repeat for every gameobject and button
 
-            if (Input.GetKeyUp("w"))
+            if (Input.GetKeyDown("w"))
             {
                 ActiveElement = GameObject.Find("BM-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -97,7 +97,7 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //2nd row of objects
-            if (Input.GetKeyUp("e"))
+            if (Input.GetKeyDown("e"))
             {
                 ActiveElement = GameObject.Find("BR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -126,7 +126,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("r"))
+            if (Input.GetKeyDown("r"))
             {
                 ActiveElement = GameObject.Find("M1L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -155,7 +155,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("t"))
+            if (Input.GetKeyDown("t"))
             {
                 ActiveElement = GameObject.Find("M1R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -185,7 +185,7 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //3rd row of objects
-            if (Input.GetKeyUp("y"))
+            if (Input.GetKeyDown("y"))
             {
                 ActiveElement = GameObject.Find("M2L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -214,7 +214,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("u"))
+            if (Input.GetKeyDown("u"))
             {
                 ActiveElement = GameObject.Find("M2M-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -243,7 +243,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("i"))
+            if (Input.GetKeyDown("i"))
             {
                 ActiveElement = GameObject.Find("M2R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -273,7 +273,7 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //4th row of objects
-            if (Input.GetKeyUp("o"))
+            if (Input.GetKeyDown("o"))
             {
                 ActiveElement = GameObject.Find("TL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -302,7 +302,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("p"))
+            if (Input.GetKeyDown("p"))
             {
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -335,7 +335,7 @@ public class ButtonPressController : MonoBehaviour
 
             // get keyinputs for the 2nd player
             //1ste row of object 
-            if (Input.GetKeyUp("a"))
+            if (Input.GetKeyDown("a"))
             {
                 ActiveElement = GameObject.Find("BL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -364,7 +364,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("s"))
+            if (Input.GetKeyDown("s"))
             {
                 ActiveElement = GameObject.Find("BM-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -394,7 +394,7 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //2nd row of objects
-            if (Input.GetKeyUp("d"))
+            if (Input.GetKeyDown("d"))
             {
                 ActiveElement = GameObject.Find("BR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -422,7 +422,7 @@ public class ButtonPressController : MonoBehaviour
                     PlayerPrefs.Save();
                 }
             }
-            if (Input.GetKeyUp("f"))
+            if (Input.GetKeyDown("f"))
             {
                 ActiveElement = GameObject.Find("M1L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -450,7 +450,7 @@ public class ButtonPressController : MonoBehaviour
                     PlayerPrefs.Save();
                 }
             }
-            if (Input.GetKeyUp("g"))
+            if (Input.GetKeyDown("g"))
             {
                 ActiveElement = GameObject.Find("M1R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -480,7 +480,7 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //3rd row of objects
-            if (Input.GetKeyUp("h"))
+            if (Input.GetKeyDown("h"))
             {
                 ActiveElement = GameObject.Find("M2L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -509,7 +509,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("j"))
+            if (Input.GetKeyDown("j"))
             {
                 ActiveElement = GameObject.Find("M2M-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -538,7 +538,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp("k"))
+            if (Input.GetKeyDown("k"))
             {
                 ActiveElement = GameObject.Find("M2R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -568,7 +568,7 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //4th row of objects
-            if (Input.GetKeyUp("l"))
+            if (Input.GetKeyDown("l"))
             {
                 ActiveElement = GameObject.Find("TL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
@@ -596,7 +596,7 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyUp(","))
+            if (Input.GetKeyDown(","))
             {
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
