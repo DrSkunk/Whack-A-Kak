@@ -1,0 +1,4420 @@
+fileFormatVersion: 2
+guid: 2b899a79c8c984a33ad7365459a304a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6033480063157674893
+    second: IdleKakje_0
+  - first:
+      213: 2538962937724241132
+    second: IdleKakje_1
+  - first:
+      213: -797254217719522532
+    second: IdleKakje_2
+  - first:
+      213: -2913521178996167542
+    second: IdleKakje_3
+  - first:
+      213: 651106144605543787
+    second: IdleKakje_4
+  - first:
+      213: -4811530504655878036
+    second: IdleKakje_5
+  - first:
+      213: -7514322426559523359
+    second: IdleKakje_6
+  - first:
+      213: 4101942497872179736
+    second: IdleKakje_7
+  - first:
+      213: -5764795175562820807
+    second: IdleKakje_8
+  - first:
+      213: 1833939379034911058
+    second: IdleKakje_9
+  - first:
+      213: -1539568449077471946
+    second: IdleKakje_10
+  - first:
+      213: 274079494755584292
+    second: IdleKakje_11
+  - first:
+      213: 1333363078571033570
+    second: IdleKakje_12
+  - first:
+      213: 8721458657734014126
+    second: IdleKakje_13
+  - first:
+      213: 1317658731026399569
+    second: IdleKakje_14
+  - first:
+      213: -8924839379660448490
+    second: IdleKakje_15
+  - first:
+      213: 4222869608087972899
+    second: IdleKakje_16
+  - first:
+      213: 8097159417025611411
+    second: IdleKakje_17
+  - first:
+      213: -8397800933665641736
+    second: IdleKakje_18
+  - first:
+      213: -6919466143969566875
+    second: IdleKakje_19
+  - first:
+      213: -2175849990976003062
+    second: IdleKakje_20
+  - first:
+      213: 2489584814266959349
+    second: IdleKakje_21
+  - first:
+      213: -7841463169601100690
+    second: IdleKakje_22
+  - first:
+      213: 1723038112289696565
+    second: IdleKakje_23
+  - first:
+      213: -3779248592761966866
+    second: IdleKakje_24
+  - first:
+      213: -5932619115548785248
+    second: IdleKakje_25
+  - first:
+      213: 1679586961938674497
+    second: IdleKakje_26
+  - first:
+      213: 5898421703658212311
+    second: IdleKakje_27
+  - first:
+      213: 6289420540800319722
+    second: IdleKakje_28
+  - first:
+      213: -7328321142964756372
+    second: IdleKakje_29
+  - first:
+      213: -4802253671619630779
+    second: IdleKakje_30
+  - first:
+      213: -494413601199143950
+    second: IdleKakje_31
+  - first:
+      213: 3652245924721157748
+    second: IdleKakje_32
+  - first:
+      213: 3004213982466308892
+    second: IdleKakje_33
+  - first:
+      213: 6785817217040150194
+    second: IdleKakje_34
+  - first:
+      213: 5943491405533309420
+    second: IdleKakje_35
+  - first:
+      213: 2150668512686495101
+    second: IdleKakje_36
+  - first:
+      213: -4463699188614890366
+    second: IdleKakje_37
+  - first:
+      213: 6300004940509295145
+    second: IdleKakje_38
+  - first:
+      213: -2766921337168702534
+    second: IdleKakje_39
+  - first:
+      213: -2403148768047575140
+    second: IdleKakje_40
+  - first:
+      213: -6679383097902456936
+    second: IdleKakje_41
+  - first:
+      213: 796900889319167076
+    second: IdleKakje_42
+  - first:
+      213: 6690638729647501537
+    second: IdleKakje_43
+  - first:
+      213: -3333541766522832503
+    second: IdleKakje_44
+  - first:
+      213: -2595569593329247508
+    second: IdleKakje_45
+  - first:
+      213: -1446668997154117586
+    second: IdleKakje_46
+  - first:
+      213: 1525577459815196009
+    second: IdleKakje_47
+  - first:
+      213: -1201818609101525589
+    second: IdleKakje_48
+  - first:
+      213: 8601945046839260953
+    second: IdleKakje_49
+  - first:
+      213: 4177336508461824506
+    second: IdleKakje_50
+  - first:
+      213: 6348782756981852363
+    second: IdleKakje_51
+  - first:
+      213: 3815222371560036252
+    second: IdleKakje_52
+  - first:
+      213: -8009348190042591884
+    second: IdleKakje_53
+  - first:
+      213: 6687714738090770677
+    second: IdleKakje_54
+  - first:
+      213: 334314773636438250
+    second: IdleKakje_55
+  - first:
+      213: -7901654233265298416
+    second: IdleKakje_56
+  - first:
+      213: -7257090862107684776
+    second: IdleKakje_57
+  - first:
+      213: 4592719034434856434
+    second: IdleKakje_58
+  - first:
+      213: 2068418014639517858
+    second: IdleKakje_59
+  - first:
+      213: -7058853241194804653
+    second: IdleKakje_60
+  - first:
+      213: 5712429399188525336
+    second: IdleKakje_61
+  - first:
+      213: -7525227752967488946
+    second: IdleKakje_62
+  - first:
+      213: 7276069918316133789
+    second: IdleKakje_63
+  - first:
+      213: -415065830041899091
+    second: IdleKakje_64
+  - first:
+      213: -2229546993148238983
+    second: IdleKakje_65
+  - first:
+      213: -9110453555292042901
+    second: IdleKakje_66
+  - first:
+      213: 2347320234320986397
+    second: IdleKakje_67
+  - first:
+      213: -8151088403239020778
+    second: IdleKakje_68
+  - first:
+      213: 4322999920855209623
+    second: IdleKakje_69
+  - first:
+      213: 8063021812155022209
+    second: IdleKakje_70
+  - first:
+      213: 7460449236604756346
+    second: IdleKakje_71
+  - first:
+      213: 2620300686564826010
+    second: IdleKakje_72
+  - first:
+      213: -8944588349590667680
+    second: IdleKakje_73
+  - first:
+      213: 7225362569664730173
+    second: IdleKakje_74
+  - first:
+      213: -3020198318714479590
+    second: IdleKakje_75
+  - first:
+      213: 897594578796891531
+    second: IdleKakje_76
+  - first:
+      213: -6098793104536370371
+    second: IdleKakje_77
+  - first:
+      213: 6451883727654809872
+    second: IdleKakje_78
+  - first:
+      213: 4136195642356559973
+    second: IdleKakje_79
+  - first:
+      213: -6435996166899343233
+    second: IdleKakje_80
+  - first:
+      213: 4445278556737664730
+    second: IdleKakje_81
+  - first:
+      213: 1066350056404651334
+    second: IdleKakje_82
+  - first:
+      213: 6242298873588176704
+    second: IdleKakje_83
+  - first:
+      213: 7804267986128360582
+    second: IdleKakje_84
+  - first:
+      213: -6708371883954824386
+    second: IdleKakje_85
+  - first:
+      213: 5617579700093153965
+    second: IdleKakje_86
+  - first:
+      213: 635154352985694840
+    second: IdleKakje_87
+  - first:
+      213: -422863092842328775
+    second: IdleKakje_88
+  - first:
+      213: -4090738694891361656
+    second: IdleKakje_89
+  - first:
+      213: -3105967301642770282
+    second: IdleKakje_90
+  - first:
+      213: 7919562239670670144
+    second: IdleKakje_91
+  - first:
+      213: -4306055161832092587
+    second: IdleKakje_92
+  - first:
+      213: -4327185854716729468
+    second: IdleKakje_93
+  - first:
+      213: -4158765029104030548
+    second: IdleKakje_94
+  - first:
+      213: 2757949220314502933
+    second: IdleKakje_95
+  - first:
+      213: -1810617702533056265
+    second: IdleKakje_96
+  - first:
+      213: -5575799027272078584
+    second: IdleKakje_97
+  - first:
+      213: -9050851890664691318
+    second: IdleKakje_98
+  - first:
+      213: 6925261969299714239
+    second: IdleKakje_99
+  - first:
+      213: 5965712607773503424
+    second: IdleKakje_100
+  - first:
+      213: 6950004355599977929
+    second: IdleKakje_101
+  - first:
+      213: 1415293862190083103
+    second: IdleKakje_102
+  - first:
+      213: 4876493120606020607
+    second: IdleKakje_103
+  - first:
+      213: -1262826633403666951
+    second: IdleKakje_104
+  - first:
+      213: 7455332694037695439
+    second: IdleKakje_105
+  - first:
+      213: -2563883104044739891
+    second: IdleKakje_106
+  - first:
+      213: -2782645432204461594
+    second: IdleKakje_107
+  - first:
+      213: -5132695021451216126
+    second: IdleKakje_108
+  - first:
+      213: 4221612385129668635
+    second: IdleKakje_109
+  - first:
+      213: -908785216901745163
+    second: IdleKakje_110
+  - first:
+      213: -839754173246823544
+    second: IdleKakje_111
+  - first:
+      213: 7459149094716519198
+    second: IdleKakje_112
+  - first:
+      213: -5168403775262147913
+    second: IdleKakje_113
+  - first:
+      213: 8271094932049665938
+    second: IdleKakje_114
+  - first:
+      213: 8875717966343202893
+    second: IdleKakje_115
+  - first:
+      213: -2322237055023288228
+    second: IdleKakje_116
+  - first:
+      213: 2555611787831631442
+    second: IdleKakje_117
+  - first:
+      213: 7664467423423167209
+    second: IdleKakje_118
+  - first:
+      213: 8323023193419306910
+    second: IdleKakje_119
+  - first:
+      213: 2172005085009669767
+    second: IdleKakje_120
+  - first:
+      213: 1937734402422215511
+    second: IdleKakje_121
+  - first:
+      213: 3080241462975402170
+    second: IdleKakje_122
+  - first:
+      213: -6418867770092904095
+    second: IdleKakje_123
+  - first:
+      213: 8240479317513817242
+    second: IdleKakje_124
+  - first:
+      213: -8462392146785640486
+    second: IdleKakje_125
+  - first:
+      213: 5576158843264002331
+    second: IdleKakje_126
+  - first:
+      213: -1186465124489505868
+    second: IdleKakje_127
+  - first:
+      213: 3035469218677816975
+    second: IdleKakje_128
+  - first:
+      213: 3862883659652496509
+    second: IdleKakje_129
+  - first:
+      213: 8224840608691984272
+    second: IdleKakje_130
+  - first:
+      213: 4254211832487942379
+    second: IdleKakje_131
+  - first:
+      213: -3352024281533566719
+    second: IdleKakje_132
+  - first:
+      213: -2737215727643818087
+    second: IdleKakje_133
+  - first:
+      213: 6208184529003458468
+    second: IdleKakje_134
+  - first:
+      213: -1573433994081182357
+    second: IdleKakje_135
+  - first:
+      213: -1594646644886940447
+    second: IdleKakje_136
+  - first:
+      213: -8883653136040919788
+    second: IdleKakje_137
+  - first:
+      213: 8057668501342800019
+    second: IdleKakje_138
+  - first:
+      213: 5797271992298561502
+    second: IdleKakje_139
+  - first:
+      213: 5634861770106167702
+    second: IdleKakje_140
+  - first:
+      213: 6662130366772931701
+    second: IdleKakje_141
+  - first:
+      213: 246050796162054113
+    second: IdleKakje_142
+  - first:
+      213: -8239288872039933082
+    second: IdleKakje_143
+  - first:
+      213: -337545924536435523
+    second: IdleKakje_144
+  - first:
+      213: 3921267305623094908
+    second: IdleKakje_145
+  - first:
+      213: 2800987995098447574
+    second: IdleKakje_146
+  - first:
+      213: 981597940319215269
+    second: IdleKakje_147
+  - first:
+      213: 368770331847177134
+    second: IdleKakje_148
+  - first:
+      213: -8398307395506712126
+    second: IdleKakje_149
+  - first:
+      213: -6426212930498844227
+    second: IdleKakje_150
+  - first:
+      213: 3899870497763411000
+    second: IdleKakje_151
+  - first:
+      213: -6295952408768610091
+    second: IdleKakje_152
+  - first:
+      213: 6750281601331891224
+    second: IdleKakje_153
+  - first:
+      213: -7039390589133212547
+    second: IdleKakje_154
+  - first:
+      213: -6830893743707613167
+    second: IdleKakje_155
+  - first:
+      213: 748267611126845482
+    second: IdleKakje_156
+  - first:
+      213: 1108672010046036195
+    second: IdleKakje_157
+  - first:
+      213: 252862699327634468
+    second: IdleKakje_158
+  - first:
+      213: 3071885922121768937
+    second: IdleKakje_159
+  - first:
+      213: 2961495945590739497
+    second: IdleKakje_160
+  - first:
+      213: -591617087756663296
+    second: IdleKakje_161
+  - first:
+      213: 2135907472600616823
+    second: IdleKakje_162
+  - first:
+      213: 7672167791249145965
+    second: IdleKakje_163
+  - first:
+      213: 2972849355636530890
+    second: IdleKakje_164
+  - first:
+      213: -1246086820892783709
+    second: IdleKakje_165
+  - first:
+      213: -166915442804049424
+    second: IdleKakje_166
+  - first:
+      213: -5470438777300295893
+    second: IdleKakje_167
+  - first:
+      213: -8624834124698928536
+    second: IdleKakje_168
+  - first:
+      213: 4391393328113351755
+    second: IdleKakje_169
+  - first:
+      213: 2137824024742788392
+    second: IdleKakje_170
+  - first:
+      213: -7514202552240462695
+    second: IdleKakje_171
+  - first:
+      213: 2067700405871408356
+    second: IdleKakje_172
+  - first:
+      213: -8746174459458527846
+    second: IdleKakje_173
+  - first:
+      213: 8642598251422276476
+    second: IdleKakje_174
+  - first:
+      213: -8100537161615752808
+    second: IdleKakje_175
+  - first:
+      213: 3842818161596843603
+    second: IdleKakje_176
+  - first:
+      213: -6175634286499844344
+    second: IdleKakje_177
+  - first:
+      213: -8474364247631017961
+    second: IdleKakje_178
+  - first:
+      213: 4503361590122410231
+    second: IdleKakje_179
+  - first:
+      213: -1346732248095039214
+    second: IdleKakje_180
+  - first:
+      213: -7732270894242148282
+    second: IdleKakje_181
+  - first:
+      213: -7400189766739867558
+    second: IdleKakje_182
+  - first:
+      213: -1005547890158009181
+    second: IdleKakje_183
+  - first:
+      213: 255197797237324584
+    second: IdleKakje_184
+  - first:
+      213: 5158378589962414853
+    second: IdleKakje_185
+  - first:
+      213: -4954313659560296558
+    second: IdleKakje_186
+  - first:
+      213: -7731643772940909101
+    second: IdleKakje_187
+  - first:
+      213: -6519591863581554120
+    second: IdleKakje_188
+  - first:
+      213: 5295748048017240189
+    second: IdleKakje_189
+  - first:
+      213: 7012678487975284516
+    second: IdleKakje_190
+  - first:
+      213: -5362611140506351811
+    second: IdleKakje_191
+  - first:
+      213: -73379566820253741
+    second: IdleKakje_192
+  - first:
+      213: -7406973370331487955
+    second: IdleKakje_193
+  - first:
+      213: -4767528979623044164
+    second: IdleKakje_194
+  - first:
+      213: 2353157173912874505
+    second: IdleKakje_195
+  - first:
+      213: -9007938042294495389
+    second: IdleKakje_196
+  - first:
+      213: -4964447198988292756
+    second: IdleKakje_197
+  - first:
+      213: 3081156109000787173
+    second: IdleKakje_198
+  - first:
+      213: -9041274232893458273
+    second: IdleKakje_199
+  - first:
+      213: 740280030599868443
+    second: IdleKakje_200
+  - first:
+      213: 7710938605008391518
+    second: IdleKakje_201
+  - first:
+      213: -1460563489499818550
+    second: IdleKakje_202
+  - first:
+      213: -4305719068369689647
+    second: IdleKakje_203
+  - first:
+      213: -7510488541896412498
+    second: IdleKakje_204
+  - first:
+      213: 6070290679521726203
+    second: IdleKakje_205
+  - first:
+      213: -6403500741348665372
+    second: IdleKakje_206
+  - first:
+      213: 4794135137846564596
+    second: IdleKakje_207
+  - first:
+      213: 1829136003174596447
+    second: IdleKakje_208
+  - first:
+      213: -711989651919847655
+    second: IdleKakje_209
+  - first:
+      213: 7486468609035536217
+    second: IdleKakje_210
+  - first:
+      213: -7052336343873179648
+    second: IdleKakje_211
+  - first:
+      213: -1550428198244680775
+    second: IdleKakje_212
+  - first:
+      213: -2876476870515384937
+    second: IdleKakje_213
+  - first:
+      213: 6524832380615926123
+    second: IdleKakje_214
+  - first:
+      213: -7341231692761298514
+    second: IdleKakje_215
+  - first:
+      213: -5927654914189844241
+    second: IdleKakje_216
+  - first:
+      213: 4914024542494379476
+    second: IdleKakje_217
+  - first:
+      213: 2646256479674189549
+    second: IdleKakje_218
+  - first:
+      213: 4647057399631031632
+    second: IdleKakje_219
+  - first:
+      213: -5292786263539779903
+    second: IdleKakje_220
+  - first:
+      213: -3982832177220434873
+    second: IdleKakje_221
+  - first:
+      213: 1363748629726163810
+    second: IdleKakje_222
+  - first:
+      213: 2695003187381490632
+    second: IdleKakje_223
+  - first:
+      213: 1283145451413151997
+    second: IdleKakje_224
+  - first:
+      213: 2557619155822548784
+    second: IdleKakje_225
+  - first:
+      213: -5457201357601357087
+    second: IdleKakje_226
+  - first:
+      213: -2190716162091515204
+    second: IdleKakje_227
+  - first:
+      213: -8477830669678243499
+    second: IdleKakje_228
+  - first:
+      213: 4049471783683541640
+    second: IdleKakje_229
+  - first:
+      213: 5103790004510718325
+    second: IdleKakje_230
+  - first:
+      213: -6550848126114936019
+    second: IdleKakje_231
+  - first:
+      213: -2926929569727389570
+    second: IdleKakje_232
+  - first:
+      213: -7136453407113887930
+    second: IdleKakje_233
+  - first:
+      213: -8638121464276807600
+    second: IdleKakje_234
+  - first:
+      213: -2767653382813395251
+    second: IdleKakje_235
+  - first:
+      213: -6816525783922368019
+    second: IdleKakje_236
+  - first:
+      213: 1919547743345522102
+    second: IdleKakje_237
+  - first:
+      213: -5476730487133928626
+    second: IdleKakje_238
+  - first:
+      213: 7656684911504912884
+    second: IdleKakje_239
+  - first:
+      213: -6845076503789809060
+    second: IdleKakje_240
+  - first:
+      213: -4832332917423068977
+    second: IdleKakje_241
+  - first:
+      213: 3668312113541815209
+    second: IdleKakje_242
+  - first:
+      213: 1543411515351177693
+    second: IdleKakje_243
+  - first:
+      213: 7357444695328539416
+    second: IdleKakje_244
+  - first:
+      213: -3345206045338826998
+    second: IdleKakje_245
+  - first:
+      213: 6512184063739106086
+    second: IdleKakje_246
+  - first:
+      213: -5849746656300654586
+    second: IdleKakje_247
+  - first:
+      213: 3529893169042818637
+    second: IdleKakje_248
+  - first:
+      213: 3245675285855065017
+    second: IdleKakje_249
+  - first:
+      213: 1342311198161160959
+    second: IdleKakje_250
+  - first:
+      213: -2757861756674786691
+    second: IdleKakje_251
+  - first:
+      213: 6918529502883365361
+    second: IdleKakje_252
+  - first:
+      213: 287265182695429935
+    second: IdleKakje_253
+  - first:
+      213: -6796774989011778832
+    second: IdleKakje_254
+  - first:
+      213: 5567963820058500935
+    second: IdleKakje_255
+  - first:
+      213: -3169844290498162991
+    second: IdleKakje_256
+  - first:
+      213: -1885967323784263613
+    second: IdleKakje_257
+  - first:
+      213: -7130122128872976535
+    second: IdleKakje_258
+  - first:
+      213: -5386917675228274093
+    second: IdleKakje_259
+  - first:
+      213: -7286878851543762495
+    second: IdleKakje_260
+  - first:
+      213: -3909486873316922160
+    second: IdleKakje_261
+  - first:
+      213: 3189449645073002160
+    second: IdleKakje_262
+  - first:
+      213: -8122849201206997787
+    second: IdleKakje_263
+  - first:
+      213: -8441271470204151605
+    second: IdleKakje_264
+  - first:
+      213: -5775508513064313240
+    second: IdleKakje_265
+  - first:
+      213: 6628567385490446242
+    second: IdleKakje_266
+  - first:
+      213: -2506099267811584330
+    second: IdleKakje_267
+  - first:
+      213: -8619799471571853014
+    second: IdleKakje_268
+  - first:
+      213: -8773600745293353522
+    second: IdleKakje_269
+  - first:
+      213: -7217635438240368213
+    second: IdleKakje_270
+  - first:
+      213: -7670434281857366638
+    second: IdleKakje_271
+  - first:
+      213: 7694470596023014983
+    second: IdleKakje_272
+  - first:
+      213: -1044541521554609507
+    second: IdleKakje_273
+  - first:
+      213: 5304445375895306998
+    second: IdleKakje_274
+  - first:
+      213: -256553406828885931
+    second: IdleKakje_275
+  - first:
+      213: 4834943888152738296
+    second: IdleKakje_276
+  - first:
+      213: 2191492222286779578
+    second: IdleKakje_277
+  - first:
+      213: -3058858259442978885
+    second: IdleKakje_278
+  - first:
+      213: -5994213486687140435
+    second: IdleKakje_279
+  - first:
+      213: -4961222095251258310
+    second: IdleKakje_280
+  - first:
+      213: -8564668664879869899
+    second: IdleKakje_281
+  - first:
+      213: -7355907445693561629
+    second: IdleKakje_282
+  - first:
+      213: -3149721432429749873
+    second: IdleKakje_283
+  - first:
+      213: -7673053043706244451
+    second: IdleKakje_284
+  - first:
+      213: 1846475955631232407
+    second: IdleKakje_285
+  - first:
+      213: -7475638045623691534
+    second: IdleKakje_286
+  - first:
+      213: 7873965353587665693
+    second: IdleKakje_287
+  - first:
+      213: 5492582817795021652
+    second: IdleKakje_288
+  - first:
+      213: 7949994908134138417
+    second: IdleKakje_289
+  - first:
+      213: 4814298518465614696
+    second: IdleKakje_290
+  - first:
+      213: 2519399977709409091
+    second: IdleKakje_291
+  - first:
+      213: -5569456690289143655
+    second: IdleKakje_292
+  - first:
+      213: -6903890798590237299
+    second: IdleKakje_293
+  - first:
+      213: -6532931789188779816
+    second: IdleKakje_294
+  - first:
+      213: 1286741594737629696
+    second: IdleKakje_295
+  - first:
+      213: 2410318687172814343
+    second: IdleKakje_296
+  - first:
+      213: 1073847777536197277
+    second: IdleKakje_297
+  - first:
+      213: 144960759807314468
+    second: IdleKakje_298
+  - first:
+      213: -1614873324236842819
+    second: IdleKakje_299
+  - first:
+      213: -7426053523737775162
+    second: IdleKakje_300
+  - first:
+      213: -375071808044547495
+    second: IdleKakje_301
+  - first:
+      213: 8292596143110152067
+    second: IdleKakje_302
+  - first:
+      213: 3471842459399827836
+    second: IdleKakje_303
+  - first:
+      213: -7780923289820534804
+    second: IdleKakje_304
+  - first:
+      213: -6573474036685341905
+    second: IdleKakje_305
+  - first:
+      213: -3430403883471900838
+    second: IdleKakje_306
+  - first:
+      213: 6310681134325125444
+    second: IdleKakje_307
+  - first:
+      213: 5783106966687120157
+    second: IdleKakje_308
+  - first:
+      213: -7869168385643270604
+    second: IdleKakje_309
+  - first:
+      213: -5024878148894380442
+    second: IdleKakje_310
+  - first:
+      213: 8902295991724957339
+    second: IdleKakje_311
+  - first:
+      213: -4818515268425604253
+    second: IdleKakje_312
+  - first:
+      213: -1589553881502629524
+    second: IdleKakje_313
+  - first:
+      213: 3641656732491108787
+    second: IdleKakje_314
+  - first:
+      213: 2194305975363094092
+    second: IdleKakje_315
+  - first:
+      213: 1496715705179788508
+    second: IdleKakje_316
+  - first:
+      213: -1918170697484890808
+    second: IdleKakje_317
+  - first:
+      213: 2984444202067953042
+    second: IdleKakje_318
+  - first:
+      213: -980829352965255366
+    second: IdleKakje_319
+  - first:
+      213: -2429636988113441227
+    second: IdleKakje_320
+  - first:
+      213: -1938897024522780451
+    second: IdleKakje_321
+  - first:
+      213: 805052805255078806
+    second: IdleKakje_322
+  - first:
+      213: 7395998799888345721
+    second: IdleKakje_323
+  - first:
+      213: -1381200765802386057
+    second: IdleKakje_324
+  - first:
+      213: -501935728910856777
+    second: IdleKakje_325
+  - first:
+      213: -5622322886848127556
+    second: IdleKakje_326
+  - first:
+      213: -6731713405080381005
+    second: IdleKakje_327
+  - first:
+      213: -5507764338681015483
+    second: IdleKakje_328
+  - first:
+      213: -1210532282545474802
+    second: IdleKakje_329
+  - first:
+      213: 428455594481144703
+    second: IdleKakje_330
+  - first:
+      213: 7922738987684114953
+    second: IdleKakje_331
+  - first:
+      213: -259355708148468944
+    second: IdleKakje_332
+  - first:
+      213: 5584248719249480206
+    second: IdleKakje_333
+  - first:
+      213: -4521100847784703602
+    second: IdleKakje_334
+  - first:
+      213: 6937094729451010489
+    second: IdleKakje_335
+  - first:
+      213: 2523206620003765775
+    second: IdleKakje_336
+  - first:
+      213: 6671972286389901070
+    second: IdleKakje_337
+  - first:
+      213: 490834125344342138
+    second: IdleKakje_338
+  - first:
+      213: -4657745846230430048
+    second: IdleKakje_339
+  - first:
+      213: -2084783836962351592
+    second: IdleKakje_340
+  - first:
+      213: -9118560140642617701
+    second: IdleKakje_341
+  - first:
+      213: 8399798467032774048
+    second: IdleKakje_342
+  - first:
+      213: 1070562610931577596
+    second: IdleKakje_343
+  - first:
+      213: 4609275247176590767
+    second: IdleKakje_344
+  - first:
+      213: 3877119659531485592
+    second: IdleKakje_345
+  - first:
+      213: 8958570356097422989
+    second: IdleKakje_346
+  - first:
+      213: -1483984399453941658
+    second: IdleKakje_347
+  - first:
+      213: -5828563462907971105
+    second: IdleKakje_348
+  - first:
+      213: -3266460317024789213
+    second: IdleKakje_349
+  - first:
+      213: -2223501710106024430
+    second: IdleKakje_350
+  - first:
+      213: -1708632836408162909
+    second: IdleKakje_351
+  - first:
+      213: -3584294783789515986
+    second: IdleKakje_352
+  - first:
+      213: -2920888758274090506
+    second: IdleKakje_353
+  - first:
+      213: 6929762709794288570
+    second: IdleKakje_354
+  - first:
+      213: 2690412731854173401
+    second: IdleKakje_355
+  - first:
+      213: 5841801691771173083
+    second: IdleKakje_356
+  - first:
+      213: -6754960109765652039
+    second: IdleKakje_357
+  - first:
+      213: 6829192130834440367
+    second: IdleKakje_358
+  - first:
+      213: -5874760419275243959
+    second: IdleKakje_359
+  - first:
+      213: 8819187392886815456
+    second: IdleKakje_360
+  - first:
+      213: 3436950409286375327
+    second: IdleKakje_361
+  - first:
+      213: 1433576182677304382
+    second: IdleKakje_362
+  - first:
+      213: 5272864836648689188
+    second: IdleKakje_363
+  - first:
+      213: -67911778785879609
+    second: IdleKakje_364
+  - first:
+      213: 5179431520287252392
+    second: IdleKakje_365
+  - first:
+      213: -8616485292127367555
+    second: IdleKakje_366
+  - first:
+      213: -6054457197113600176
+    second: IdleKakje_367
+  - first:
+      213: -43701963814181190
+    second: IdleKakje_368
+  - first:
+      213: -49035619720020548
+    second: IdleKakje_369
+  - first:
+      213: 1079920934912489784
+    second: IdleKakje_370
+  - first:
+      213: 9176744903706751890
+    second: IdleKakje_371
+  - first:
+      213: 5451783022628186115
+    second: IdleKakje_372
+  - first:
+      213: -3404942012481719687
+    second: IdleKakje_373
+  - first:
+      213: -3713289136447142564
+    second: IdleKakje_374
+  - first:
+      213: 2318850812933391505
+    second: IdleKakje_375
+  - first:
+      213: 5277790725527969162
+    second: IdleKakje_376
+  - first:
+      213: 3886090388503730038
+    second: IdleKakje_377
+  - first:
+      213: 6845415744557724634
+    second: IdleKakje_378
+  - first:
+      213: -4004011414488627389
+    second: IdleKakje_379
+  - first:
+      213: 2393017533358525792
+    second: IdleKakje_380
+  - first:
+      213: -3168692879871044968
+    second: IdleKakje_381
+  - first:
+      213: 8455924932002521612
+    second: IdleKakje_382
+  - first:
+      213: -6840197644772709067
+    second: IdleKakje_383
+  - first:
+      213: -2839908380922877533
+    second: IdleKakje_384
+  - first:
+      213: -5304153664728477931
+    second: IdleKakje_385
+  - first:
+      213: -6961696404387511851
+    second: IdleKakje_386
+  - first:
+      213: -8542842684883420951
+    second: IdleKakje_387
+  - first:
+      213: -7372208873000810866
+    second: IdleKakje_388
+  - first:
+      213: 669762694526598709
+    second: IdleKakje_389
+  - first:
+      213: 6312536349732071171
+    second: IdleKakje_390
+  - first:
+      213: 47446516935184809
+    second: IdleKakje_391
+  - first:
+      213: 7221863277090985990
+    second: IdleKakje_392
+  - first:
+      213: -4952277754326593466
+    second: IdleKakje_393
+  - first:
+      213: 6810419162746018684
+    second: IdleKakje_394
+  - first:
+      213: 3136389194985924334
+    second: IdleKakje_395
+  - first:
+      213: -6339753425483640212
+    second: IdleKakje_396
+  - first:
+      213: 2177715435921537459
+    second: IdleKakje_397
+  - first:
+      213: 7088485459133927955
+    second: IdleKakje_398
+  - first:
+      213: 336683588799707905
+    second: IdleKakje_399
+  - first:
+      213: 5835820518276516948
+    second: IdleKakje_400
+  - first:
+      213: 8905299756437081571
+    second: IdleKakje_401
+  - first:
+      213: 3121266708088690119
+    second: IdleKakje_402
+  - first:
+      213: -7565509641693436491
+    second: IdleKakje_403
+  - first:
+      213: -280367974445297332
+    second: IdleKakje_404
+  - first:
+      213: -2666330044452744783
+    second: IdleKakje_405
+  - first:
+      213: 6287414752936331649
+    second: IdleKakje_406
+  - first:
+      213: -5297495311528458396
+    second: IdleKakje_407
+  - first:
+      213: 4403190274402799265
+    second: IdleKakje_408
+  - first:
+      213: -2403581190335078845
+    second: IdleKakje_409
+  - first:
+      213: 8554376688120976887
+    second: IdleKakje_410
+  - first:
+      213: -6419279031547478019
+    second: IdleKakje_411
+  - first:
+      213: 1558154966606276225
+    second: IdleKakje_412
+  - first:
+      213: -1003603843872078379
+    second: IdleKakje_413
+  - first:
+      213: -7489051356729101968
+    second: IdleKakje_414
+  - first:
+      213: 3578743282215181265
+    second: IdleKakje_415
+  - first:
+      213: -6632751261624364270
+    second: IdleKakje_416
+  - first:
+      213: 3729358819393135953
+    second: IdleKakje_417
+  - first:
+      213: 4396900436805395312
+    second: IdleKakje_418
+  - first:
+      213: 6127223329418765506
+    second: IdleKakje_419
+  - first:
+      213: -7889804009199554967
+    second: IdleKakje_420
+  - first:
+      213: 2377906140617787751
+    second: IdleKakje_421
+  - first:
+      213: 8969157438380937955
+    second: IdleKakje_422
+  - first:
+      213: 4497268344402752075
+    second: IdleKakje_423
+  - first:
+      213: 6461293022406256137
+    second: IdleKakje_424
+  - first:
+      213: -8047255338917566367
+    second: IdleKakje_425
+  - first:
+      213: -2296042383841776161
+    second: IdleKakje_426
+  - first:
+      213: -3904812779165258672
+    second: IdleKakje_427
+  - first:
+      213: -7740617049193799721
+    second: IdleKakje_428
+  - first:
+      213: 687905147208342726
+    second: IdleKakje_429
+  - first:
+      213: -1312534887267272034
+    second: IdleKakje_430
+  - first:
+      213: -902578881226923443
+    second: IdleKakje_431
+  - first:
+      213: 8534269141217699653
+    second: IdleKakje_432
+  - first:
+      213: -7909322600133260126
+    second: IdleKakje_433
+  - first:
+      213: 6030359234724808782
+    second: IdleKakje_434
+  - first:
+      213: -4178352373555077407
+    second: IdleKakje_435
+  - first:
+      213: 3147930856197358143
+    second: IdleKakje_436
+  - first:
+      213: -6992618176167777518
+    second: IdleKakje_437
+  - first:
+      213: -972742867367345994
+    second: IdleKakje_438
+  - first:
+      213: 6237037624666487302
+    second: IdleKakje_439
+  - first:
+      213: -4934722021593302365
+    second: IdleKakje_440
+  - first:
+      213: 8254054735198324933
+    second: IdleKakje_441
+  - first:
+      213: 224383110542081688
+    second: IdleKakje_442
+  - first:
+      213: -8498733608721366965
+    second: IdleKakje_443
+  - first:
+      213: 8623894305195381525
+    second: IdleKakje_444
+  - first:
+      213: 4113094232168801698
+    second: IdleKakje_445
+  - first:
+      213: 4126350851460665019
+    second: IdleKakje_446
+  - first:
+      213: -68647758148566765
+    second: IdleKakje_447
+  - first:
+      213: 2905802356692294872
+    second: IdleKakje_448
+  - first:
+      213: -3803871077640742805
+    second: IdleKakje_449
+  - first:
+      213: -2791920217913873639
+    second: IdleKakje_450
+  - first:
+      213: -7228030115084039222
+    second: IdleKakje_451
+  - first:
+      213: 6868016855699870339
+    second: IdleKakje_452
+  - first:
+      213: -5687090257494569698
+    second: IdleKakje_453
+  - first:
+      213: 3012159023283792047
+    second: IdleKakje_454
+  - first:
+      213: 1455253929575325868
+    second: IdleKakje_455
+  - first:
+      213: 616685070094626623
+    second: IdleKakje_456
+  - first:
+      213: -3725195151643505178
+    second: IdleKakje_457
+  - first:
+      213: -3231079996776660757
+    second: IdleKakje_458
+  - first:
+      213: 4605374507103904950
+    second: IdleKakje_459
+  - first:
+      213: 1906171268228631097
+    second: IdleKakje_460
+  - first:
+      213: -3282935201730682693
+    second: IdleKakje_461
+  - first:
+      213: -1020752470867943006
+    second: IdleKakje_462
+  - first:
+      213: 2102731576988676248
+    second: IdleKakje_463
+  - first:
+      213: -678270136328795735
+    second: IdleKakje_464
+  - first:
+      213: -3137713396848350727
+    second: IdleKakje_465
+  - first:
+      213: 5307256705219068361
+    second: IdleKakje_466
+  - first:
+      213: 9018502507148424750
+    second: IdleKakje_467
+  - first:
+      213: -2649373058863137455
+    second: IdleKakje_468
+  - first:
+      213: 2860724739462177722
+    second: IdleKakje_469
+  - first:
+      213: 1586300533784196256
+    second: IdleKakje_470
+  - first:
+      213: 4837397270564798253
+    second: IdleKakje_471
+  - first:
+      213: 4107079738388284740
+    second: IdleKakje_472
+  - first:
+      213: 812878410246825483
+    second: IdleKakje_473
+  - first:
+      213: 7055113009765214155
+    second: IdleKakje_474
+  - first:
+      213: 9173220379862694084
+    second: IdleKakje_475
+  - first:
+      213: 1387639019905532851
+    second: IdleKakje_476
+  - first:
+      213: -6577074731951912392
+    second: IdleKakje_477
+  - first:
+      213: -4003181908385524673
+    second: IdleKakje_478
+  - first:
+      213: -6395695427402721896
+    second: IdleKakje_479
+  - first:
+      213: 590476031512587860
+    second: IdleKakje_480
+  - first:
+      213: 3725113795863252063
+    second: IdleKakje_481
+  - first:
+      213: 1183455904790864941
+    second: IdleKakje_482
+  - first:
+      213: -6855250103079693125
+    second: IdleKakje_483
+  - first:
+      213: 7154993790907314507
+    second: IdleKakje_484
+  - first:
+      213: -7344482915321767207
+    second: IdleKakje_485
+  - first:
+      213: -7792764159329924049
+    second: IdleKakje_486
+  - first:
+      213: 7203009270915193781
+    second: IdleKakje_487
+  - first:
+      213: 1742225609558028293
+    second: IdleKakje_488
+  - first:
+      213: 8662288100665775902
+    second: IdleKakje_489
+  - first:
+      213: 8197607955501672611
+    second: IdleKakje_490
+  - first:
+      213: -3193272464303473673
+    second: IdleKakje_491
+  - first:
+      213: -8934542314999677987
+    second: IdleKakje_492
+  - first:
+      213: -2075225010343042269
+    second: IdleKakje_493
+  - first:
+      213: 7118788523438621410
+    second: IdleKakje_494
+  - first:
+      213: -3525670876011908776
+    second: IdleKakje_495
+  - first:
+      213: 1055627259283880479
+    second: IdleKakje_496
+  - first:
+      213: 4018339601071607138
+    second: IdleKakje_497
+  - first:
+      213: -8639940164394358278
+    second: IdleKakje_498
+  - first:
+      213: 8706714667503862987
+    second: IdleKakje_499
+  - first:
+      213: -4763773391660387103
+    second: IdleKakje_500
+  - first:
+      213: -9132183404920225189
+    second: IdleKakje_501
+  - first:
+      213: -4668075007429612989
+    second: IdleKakje_502
+  - first:
+      213: -5478200579945068922
+    second: IdleKakje_503
+  - first:
+      213: 7186164547329607691
+    second: IdleKakje_504
+  - first:
+      213: -3168371851935619067
+    second: IdleKakje_505
+  - first:
+      213: -8343660226258834897
+    second: IdleKakje_506
+  - first:
+      213: -2403880138839770312
+    second: IdleKakje_507
+  - first:
+      213: 3459666869102613315
+    second: IdleKakje_508
+  - first:
+      213: -3112270801062222024
+    second: IdleKakje_509
+  - first:
+      213: -7675196432527817751
+    second: IdleKakje_510
+  - first:
+      213: 1601666021594020781
+    second: IdleKakje_511
+  - first:
+      213: -5667463794201856403
+    second: IdleKakje_512
+  - first:
+      213: -5267106957484922051
+    second: IdleKakje_513
+  - first:
+      213: -757163287830366355
+    second: IdleKakje_514
+  - first:
+      213: -3050389227121685067
+    second: IdleKakje_515
+  - first:
+      213: 8604517805263576760
+    second: IdleKakje_516
+  - first:
+      213: -2273776579568842644
+    second: IdleKakje_517
+  - first:
+      213: 4911310955931862014
+    second: IdleKakje_518
+  - first:
+      213: -1745670201952899579
+    second: IdleKakje_519
+  - first:
+      213: -5575369730539838947
+    second: IdleKakje_520
+  - first:
+      213: 3320373273462845470
+    second: IdleKakje_521
+  - first:
+      213: 1396458600211772363
+    second: IdleKakje_522
+  - first:
+      213: 5876034400750972155
+    second: IdleKakje_523
+  - first:
+      213: 894663796264662555
+    second: IdleKakje_524
+  - first:
+      213: -43439289490273355
+    second: IdleKakje_525
+  - first:
+      213: 8857344837666081639
+    second: IdleKakje_526
+  - first:
+      213: 4628086612006927001
+    second: IdleKakje_527
+  - first:
+      213: -6810317971032091012
+    second: IdleKakje_528
+  - first:
+      213: 1499331096176010164
+    second: IdleKakje_529
+  - first:
+      213: 6353285517524206810
+    second: IdleKakje_530
+  - first:
+      213: 3910143535529190867
+    second: IdleKakje_531
+  - first:
+      213: -1533185158061434768
+    second: IdleKakje_532
+  - first:
+      213: 5963660801038162431
+    second: IdleKakje_533
+  - first:
+      213: -2323083926535088233
+    second: IdleKakje_534
+  - first:
+      213: 6957924448991646069
+    second: IdleKakje_535
+  - first:
+      213: -8713209727033017580
+    second: IdleKakje_536
+  - first:
+      213: 1401563991391015510
+    second: IdleKakje_537
+  - first:
+      213: 5320955157947250743
+    second: IdleKakje_538
+  - first:
+      213: 1848361768001614098
+    second: IdleKakje_539
+  - first:
+      213: 8117852554108517043
+    second: IdleKakje_540
+  - first:
+      213: -2225066061831680038
+    second: IdleKakje_541
+  - first:
+      213: -574236520940489310
+    second: IdleKakje_542
+  - first:
+      213: 2918992524604105171
+    second: IdleKakje_543
+  - first:
+      213: -5899733670429400942
+    second: IdleKakje_544
+  - first:
+      213: -6050346895237274275
+    second: IdleKakje_545
+  - first:
+      213: 2787782751781110758
+    second: IdleKakje_546
+  - first:
+      213: -1240265093830049249
+    second: IdleKakje_547
+  - first:
+      213: 6180352406217265328
+    second: IdleKakje_548
+  - first:
+      213: -2948252554808175209
+    second: IdleKakje_549
+  - first:
+      213: -8273943559457892616
+    second: IdleKakje_550
+  - first:
+      213: -6123651744620770273
+    second: IdleKakje_551
+  - first:
+      213: -5539381037129722883
+    second: IdleKakje_552
+  - first:
+      213: -3495958094554705987
+    second: IdleKakje_553
+  - first:
+      213: 1439833593818834461
+    second: IdleKakje_554
+  - first:
+      213: -831463516404672762
+    second: IdleKakje_555
+  - first:
+      213: 4943461495150965840
+    second: IdleKakje_556
+  - first:
+      213: 4266740143198109186
+    second: IdleKakje_557
+  - first:
+      213: 3510860180218171281
+    second: IdleKakje_558
+  - first:
+      213: -3424677677442368284
+    second: IdleKakje_559
+  - first:
+      213: -4495397656159911529
+    second: IdleKakje_560
+  - first:
+      213: 7235880390973486601
+    second: IdleKakje_561
+  - first:
+      213: 5174834943055546378
+    second: IdleKakje_562
+  - first:
+      213: -1033648775824588481
+    second: IdleKakje_563
+  - first:
+      213: 7284322837525998167
+    second: IdleKakje_564
+  - first:
+      213: -4176571131745922777
+    second: IdleKakje_565
+  - first:
+      213: -4885450565878614119
+    second: IdleKakje_566
+  - first:
+      213: 2845424404200252113
+    second: IdleKakje_567
+  - first:
+      213: -2019209217122881485
+    second: IdleKakje_568
+  - first:
+      213: 9159343913282379755
+    second: IdleKakje_569
+  - first:
+      213: -5117592792975926855
+    second: IdleKakje_570
+  - first:
+      213: -8427738501558312475
+    second: IdleKakje_571
+  - first:
+      213: -8225363338312063635
+    second: IdleKakje_572
+  - first:
+      213: -6940025878249088951
+    second: IdleKakje_573
+  - first:
+      213: 1663486512834355730
+    second: IdleKakje_574
+  - first:
+      213: -8688943735988534231
+    second: IdleKakje_575
+  - first:
+      213: 2618402832004818579
+    second: IdleKakje_576
+  - first:
+      213: -4520483855639839215
+    second: IdleKakje_577
+  - first:
+      213: -1091164219343335131
+    second: IdleKakje_578
+  - first:
+      213: 877127971132246710
+    second: IdleKakje_579
+  - first:
+      213: 6655226467543712633
+    second: IdleKakje_580
+  - first:
+      213: 5073386157237446396
+    second: IdleKakje_581
+  - first:
+      213: 5687176147208590035
+    second: IdleKakje_0
+  - first:
+      213: -5217640175059223623
+    second: IdleKakje_1
+  - first:
+      213: -7711852504163250404
+    second: IdleKakje_2
+  - first:
+      213: -1937791168913103050
+    second: IdleKakje_3
+  - first:
+      213: 306251701990990892
+    second: IdleKakje_4
+  - first:
+      213: -1491840494081077566
+    second: IdleKakje_5
+  - first:
+      213: -5718034958027189778
+    second: IdleKakje_6
+  - first:
+      213: -5538003000852363607
+    second: IdleKakje_7
+  - first:
+      213: -8065718300409389828
+    second: IdleKakje_8
+  - first:
+      213: 3868815000867083497
+    second: IdleKakje_9
+  - first:
+      213: 2863671416431849635
+    second: IdleKakje_10
+  - first:
+      213: -598179006335693949
+    second: IdleKakje_11
+  - first:
+      213: -2904966216512247151
+    second: IdleKakje_12
+  - first:
+      213: -2693143421754539775
+    second: IdleKakje_13
+  - first:
+      213: 7001401960417911948
+    second: IdleKakje_14
+  - first:
+      213: -4468218639533780266
+    second: IdleKakje_15
+  - first:
+      213: 6895246272392979921
+    second: IdleKakje_16
+  - first:
+      213: 3913543546301220586
+    second: IdleKakje_17
+  - first:
+      213: -5648067753899403002
+    second: IdleKakje_18
+  - first:
+      213: 1142312913632597678
+    second: IdleKakje_19
+  - first:
+      213: 2247480435541071264
+    second: IdleKakje_20
+  - first:
+      213: 3607807394125982154
+    second: IdleKakje_21
+  - first:
+      213: -583159163699793784
+    second: IdleKakje_22
+  - first:
+      213: -930968952181187160
+    second: IdleKakje_23
+  - first:
+      213: -1992496630690840852
+    second: IdleKakje_24
+  - first:
+      213: -4184002854101458060
+    second: IdleKakje_25
+  - first:
+      213: -3697170467490217849
+    second: IdleKakje_26
+  - first:
+      213: 3507518879892296006
+    second: IdleKakje_27
+  - first:
+      213: -1052318613975398923
+    second: IdleKakje_28
+  - first:
+      213: 227000903739115040
+    second: IdleKakje_29
+  - first:
+      213: -6387329501735078919
+    second: IdleKakje_30
+  - first:
+      213: 5870201345413617900
+    second: IdleKakje_31
+  - first:
+      213: 8041331765686407330
+    second: IdleKakje_32
+  - first:
+      213: 810850873410558056
+    second: IdleKakje_33
+  - first:
+      213: 411300131841633370
+    second: IdleKakje_34
+  - first:
+      213: -6278692485886098009
+    second: IdleKakje_35
+  - first:
+      213: 2582006002360436910
+    second: IdleKakje_36
+  - first:
+      213: 6004723323118798569
+    second: IdleKakje_37
+  - first:
+      213: -1672900962119011633
+    second: IdleKakje_38
+  - first:
+      213: 5980742889117183574
+    second: IdleKakje_39
+  - first:
+      213: 7348229730967368207
+    second: IdleKakje_40
+  - first:
+      213: 8978104274236830807
+    second: IdleKakje_41
+  - first:
+      213: -3594426450094484968
+    second: IdleKakje_42
+  - first:
+      213: -2614478335552497358
+    second: IdleKakje_43
+  - first:
+      213: 1705195301790870784
+    second: IdleKakje_44
+  - first:
+      213: -3615775034963589193
+    second: IdleKakje_45
+  - first:
+      213: -5131271039171204424
+    second: IdleKakje_46
+  - first:
+      213: 8554083419490158491
+    second: IdleKakje_47
+  - first:
+      213: 6397572500846624602
+    second: IdleKakje_48
+  - first:
+      213: 1426164555749087281
+    second: IdleKakje_49
+  - first:
+      213: 6167040879473206403
+    second: IdleKakje_50
+  - first:
+      213: 261181091941896931
+    second: IdleKakje_51
+  - first:
+      213: -3863289073001388659
+    second: IdleKakje_52
+  - first:
+      213: -7847072081182584202
+    second: IdleKakje_53
+  - first:
+      213: -7607062851428608602
+    second: IdleKakje_54
+  - first:
+      213: -5876879141096065600
+    second: IdleKakje_55
+  - first:
+      213: -8012231031769216679
+    second: IdleKakje_56
+  - first:
+      213: -6592806851376292399
+    second: IdleKakje_57
+  - first:
+      213: -2276358431552355152
+    second: IdleKakje_58
+  - first:
+      213: 7282966419390369126
+    second: IdleKakje_59
+  - first:
+      213: 8712975738740808560
+    second: IdleKakje_60
+  - first:
+      213: 8597928164916343876
+    second: IdleKakje_61
+  - first:
+      213: -8905149603149771568
+    second: IdleKakje_62
+  - first:
+      213: 2185286561269954575
+    second: IdleKakje_63
+  - first:
+      213: 1133851625099906690
+    second: IdleKakje_64
+  - first:
+      213: -4166545872064212793
+    second: IdleKakje_65
+  - first:
+      213: 5127174929503199650
+    second: IdleKakje_66
+  - first:
+      213: 7294858162059997977
+    second: IdleKakje_67
+  - first:
+      213: 4812228632070261517
+    second: IdleKakje_68
+  - first:
+      213: -9171555185829487785
+    second: IdleKakje_69
+  - first:
+      213: -4411267710712774000
+    second: IdleKakje_70
+  - first:
+      213: 7611954423400509840
+    second: IdleKakje_71
+  - first:
+      213: 3936416659925175760
+    second: IdleKakje_72
+  - first:
+      213: -791996084026250552
+    second: IdleKakje_73
+  - first:
+      213: 5353614906018342150
+    second: IdleKakje_74
+  - first:
+      213: 1319757184867539899
+    second: IdleKakje_75
+  - first:
+      213: -1455068851108148970
+    second: IdleKakje_76
+  - first:
+      213: 1896891207688600612
+    second: IdleKakje_77
+  - first:
+      213: 2014583435412267227
+    second: IdleKakje_78
+  - first:
+      213: 142644125770345666
+    second: IdleKakje_79
+  - first:
+      213: -2466397810645534146
+    second: IdleKakje_80
+  - first:
+      213: -7273665533032611848
+    second: IdleKakje_81
+  - first:
+      213: -25115415277369057
+    second: IdleKakje_82
+  - first:
+      213: 5415428226131822837
+    second: IdleKakje_83
+  - first:
+      213: -5384582327182444798
+    second: IdleKakje_84
+  - first:
+      213: -2739622099919852439
+    second: IdleKakje_85
+  - first:
+      213: 1367189284209296028
+    second: IdleKakje_86
+  - first:
+      213: -8716985321512697780
+    second: IdleKakje_87
+  - first:
+      213: 4351528033387216497
+    second: IdleKakje_88
+  - first:
+      213: -713943317645262724
+    second: IdleKakje_89
+  - first:
+      213: -1806777430422772708
+    second: IdleKakje_90
+  - first:
+      213: -7635779022431212451
+    second: IdleKakje_91
+  - first:
+      213: -7264898932237762495
+    second: IdleKakje_92
+  - first:
+      213: 1477546457881995686
+    second: IdleKakje_93
+  - first:
+      213: 3670620469834581691
+    second: IdleKakje_94
+  - first:
+      213: -8881831741014016964
+    second: IdleKakje_95
+  - first:
+      213: 6245177563348636850
+    second: IdleKakje_96
+  - first:
+      213: -3890488321544873079
+    second: IdleKakje_97
+  - first:
+      213: -2779124063974983277
+    second: IdleKakje_98
+  - first:
+      213: 1242139868438647971
+    second: IdleKakje_99
+  - first:
+      213: 1944543525264501004
+    second: IdleKakje_100
+  - first:
+      213: 5859750429769202895
+    second: IdleKakje_101
+  - first:
+      213: -4765886501370499717
+    second: IdleKakje_102
+  - first:
+      213: 7653619066869424289
+    second: IdleKakje_103
+  - first:
+      213: -430097817970037485
+    second: IdleKakje_104
+  - first:
+      213: -3801584634407157454
+    second: IdleKakje_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleKakje_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2517de298ecee40800000000000000
+      internalID: 5687176147208590035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb9cfa7e73797b0800000000000000
+      internalID: -5217640175059223623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f8421b10ff9f490800000000000000
+      internalID: -7711852504163250404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637ab00e2359b15e0800000000000000
+      internalID: -1937791168913103050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c242805ec46004400800000000000000
+      internalID: 306251701990990892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_5
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce01c889faeb4be0800000000000000
+      internalID: -1491840494081077566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_6
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11689408575a0b0800000000000000
+      internalID: -5718034958027189778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_7
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c521cc9f0523b0800000000000000
+      internalID: -5538003000852363607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_8
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1bb590ffc01090800000000000000
+      internalID: -8065718300409389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_9
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49264debac0b530800000000000000
+      internalID: 3868815000867083497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_10
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03cd91bfdcdb720800000000000000
+      internalID: 2863671416431849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bc34fec57d2b7f0800000000000000
+      internalID: -598179006335693949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae6440e9c7fa7d0800000000000000
+      internalID: -2904966216512247151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010429a35800aad0800000000000000
+      internalID: -2693143421754539775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84ee6cecf9f92160800000000000000
+      internalID: 7001401960417911948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_15
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25fcb22d2bdf1c0800000000000000
+      internalID: -4468218639533780266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_16
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e1d0c3f5d0bf50800000000000000
+      internalID: 6895246272392979921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_17
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae68e4ade13bf4630800000000000000
+      internalID: 3913543546301220586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_18
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609dc757d480e91b0800000000000000
+      internalID: -5648067753899403002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_19
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6996fea8f4adf00800000000000000
+      internalID: 1142312913632597678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_20
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d0186c87a03f10800000000000000
+      internalID: 2247480435541071264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_21
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac928e0c5b1811230800000000000000
+      internalID: 3607807394125982154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f82094d338e7f0800000000000000
+      internalID: -583159163699793784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9254aba88413f0800000000000000
+      internalID: -930968952181187160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee728ffeda3954e0800000000000000
+      internalID: -1992496630690840852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ef0e629f6fe5c0800000000000000
+      internalID: -4184002854101458060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804e2b5c0301bcc0800000000000000
+      internalID: -3697170467490217849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_27
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d4fe66d53da030800000000000000
+      internalID: 3507518879892296006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_28
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f50777cbc96561f0800000000000000
+      internalID: -1052318613975398923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_29
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02600178e18762300800000000000000
+      internalID: 227000903739115040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_30
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f335b1e8a5ab57a0800000000000000
+      internalID: -6387329501735078919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_31
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81661a505277150800000000000000
+      internalID: 5870201345413617900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_32
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09dc6d2ac889f60800000000000000
+      internalID: 8041331765686407330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689373c298b04b00800000000000000
+      internalID: 810850873410558056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ced7e6a4b35b500800000000000000
+      internalID: 411300131841633370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a548d4337a9dd8a0800000000000000
+      internalID: -6278692485886098009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_36
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ce9277c025d320800000000000000
+      internalID: 2582006002360436910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_37
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6cff84c00155350800000000000000
+      internalID: 6004723323118798569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_38
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2bc783079a8c8e0800000000000000
+      internalID: -1672900962119011633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_39
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ee5c668fddff250800000000000000
+      internalID: 5980742889117183574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_40
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02364af1082af560800000000000000
+      internalID: 7348229730967368207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_41
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547d46f442a89c70800000000000000
+      internalID: 8978104274236830807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_42
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81299de00380e1ec0800000000000000
+      internalID: -3594426450094484968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_43
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23950705ec187bbd0800000000000000
+      internalID: -2614478335552497358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de8eba7121aa710800000000000000
+      internalID: 1705195301790870784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7054d43cf22ddc0800000000000000
+      internalID: -3615775034963589193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba63ff2d201ac8b0800000000000000
+      internalID: -5131271039171204424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_47
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9705cd6c8536b670800000000000000
+      internalID: 8554083419490158491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_48
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f35c13b4eb8c850800000000000000
+      internalID: 6397572500846624602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_49
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1385da87b11cac310800000000000000
+      internalID: 1426164555749087281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_50
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842058610bb59550800000000000000
+      internalID: 6167040879473206403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_51
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2de3fb1d6ef9300800000000000000
+      internalID: 261181091941896931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_52
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85aa138e07d26ac0800000000000000
+      internalID: -3863289073001388659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_53
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721a3a8489991390800000000000000
+      internalID: -7847072081182584202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_54
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5178cf3a84e6690800000000000000
+      internalID: -7607062851428608602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f017ee81217ea0800000000000000
+      internalID: -5876879141096065600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c805c356dec090800000000000000
+      internalID: -8012231031769216679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd54fe4915a184a0800000000000000
+      internalID: -6592806851376292399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_58
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44bd13110c860e0800000000000000
+      internalID: -2276358431552355152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d8cd22f5b421560800000000000000
+      internalID: 7282966419390369126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_60
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1e346545bae870800000000000000
+      internalID: 8712975738740808560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_61
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443a2abc1af15770800000000000000
+      internalID: 8597928164916343876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_62
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0c801e9d8a6480800000000000000
+      internalID: -8905149603149771568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_63
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f083ee0ac82b35e10800000000000000
+      internalID: 2185286561269954575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_64
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e441eab004cbf00800000000000000
+      internalID: 1133851625099906690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_65
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c01e3bca947d26c0800000000000000
+      internalID: -4166545872064212793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a356fe62672740800000000000000
+      internalID: 5127174929503199650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f17c39da8c3560800000000000000
+      internalID: 7294858162059997977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b0380d17878c240800000000000000
+      internalID: 4812228632070261517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_69
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bddb6c62718b080800000000000000
+      internalID: -9171555185829487785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_70
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09280d5936708c2c0800000000000000
+      internalID: -4411267710712774000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_71
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091304dd73813a960800000000000000
+      internalID: 7611954423400509840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_72
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd05ce9816f0a630800000000000000
+      internalID: 3936416659925175760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_73
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca6d1cf1c34205f0800000000000000
+      internalID: -791996084026250552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_74
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a571746cdb4a40800000000000000
+      internalID: 5353614906018342150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_75
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb9cc1da28b05210800000000000000
+      internalID: 1319757184867539899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_76
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61986f5d69e8ecbe0800000000000000
+      internalID: -1455068851108148970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c37d3d08c135a10800000000000000
+      internalID: 1896891207688600612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06226f5fc35fb10800000000000000
+      internalID: 2014583435412267227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_79
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc66dd9316caf100800000000000000
+      internalID: 142644125770345666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_80
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afbad324895cdd0800000000000000
+      internalID: -2466397810645534146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_81
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb6983cbfbe0b90800000000000000
+      internalID: -7273665533032611848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_82
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f198102b9a5c6aff0800000000000000
+      internalID: -25115415277369057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_83
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8063d8747772b40800000000000000
+      internalID: 5415428226131822837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_84
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b174f6ee1645b0800000000000000
+      internalID: -5384582327182444798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_85
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca77b1738eaf9d0800000000000000
+      internalID: -2739622099919852439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_86
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92040a096b39f210800000000000000
+      internalID: 1367189284209296028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_87
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4001fed80c070780800000000000000
+      internalID: -8716985321512697780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef234e0bbb36c30800000000000000
+      internalID: 4351528033387216497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c708df1d5509716f0800000000000000
+      internalID: -713943317645262724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_90
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14257fef790de6e0800000000000000
+      internalID: -1806777430422772708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_91
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cab986f63480690800000000000000
+      internalID: -7635779022431212451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_92
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408ad689e4ed2b90800000000000000
+      internalID: -7264898932237762495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_93
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96131dcac418410800000000000000
+      internalID: 1477546457881995686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_94
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb684c99ed9a0f230800000000000000
+      internalID: 3670620469834581691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_95
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cf11ae6156db480800000000000000
+      internalID: -8881831741014016964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_96
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b492aec7e35ba650800000000000000
+      internalID: 6245177563348636850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1387fb75320ac0800000000000000
+      internalID: -3890488321544873079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f70463619e69d0800000000000000
+      internalID: -2779124063974983277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_99
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d2a311a7fc3110800000000000000
+      internalID: 1242139868438647971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_100
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092da998086cfa10800000000000000
+      internalID: 1944543525264501004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf5d638f3025150800000000000000
+      internalID: 5859750429769202895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_102
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6bfd4a7b2cddb0800000000000000
+      internalID: -4765886501370499717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_103
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a8ee9dfd173a60800000000000000
+      internalID: 7653619066869424289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_104
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da935305cf70af0800000000000000
+      internalID: -430097817970037485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleKakje_105
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231049aaaee0e3bc0800000000000000
+      internalID: -3801584634407157454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
