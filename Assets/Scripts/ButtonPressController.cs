@@ -10,9 +10,14 @@ public class ButtonPressController : MonoBehaviour
 
     public SerialController serialController;
 
+    private AudioSource hitSound;
+
+    Animator anim;
+    int hithash = Animator.StringToHash("Ishit");
 
     void Start()
     {
+        anim = gameObject.GetComponentInParent<Animator>();
         //getting serial controller for arduino connection
         serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
     }
@@ -25,7 +30,7 @@ public class ButtonPressController : MonoBehaviour
             //Get keyinputs For the 1st player
 
             //1ste row of object
-            if (Input.GetKeyDown("q"))
+            if (Input.GetKeyUp("q"))
             {
                 //find item that you want to activate with the key and select the script
                 ActiveElement = GameObject.Find("BL-Popup");
@@ -34,9 +39,18 @@ public class ButtonPressController : MonoBehaviour
                 //if the item is up, it can be hit so add score to corresponding player
                 if (ActiveElementButton.Down == false)
                 {
-                    //deactivate the object and move it down
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //deactivate the object and move it down
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
 
                     //get the player score and add a point
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -53,14 +67,24 @@ public class ButtonPressController : MonoBehaviour
             }
             //repeat for every gameobject and button
 
-            if (Input.GetKeyDown("w"))
+            if (Input.GetKeyUp("w"))
             {
                 ActiveElement = GameObject.Find("BM-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -73,14 +97,24 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //2nd row of objects
-            if (Input.GetKeyDown("e"))
+            if (Input.GetKeyUp("e"))
             {
                 ActiveElement = GameObject.Find("BR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -92,14 +126,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("r"))
+            if (Input.GetKeyUp("r"))
             {
                 ActiveElement = GameObject.Find("M1L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -111,14 +155,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("t"))
+            if (Input.GetKeyUp("t"))
             {
                 ActiveElement = GameObject.Find("M1R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -131,14 +185,24 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //3rd row of objects
-            if (Input.GetKeyDown("y"))
+            if (Input.GetKeyUp("y"))
             {
                 ActiveElement = GameObject.Find("M2L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -150,14 +214,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("u"))
+            if (Input.GetKeyUp("u"))
             {
                 ActiveElement = GameObject.Find("M2M-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -169,14 +243,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("i"))
+            if (Input.GetKeyUp("i"))
             {
                 ActiveElement = GameObject.Find("M2R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -189,14 +273,24 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //4th row of objects
-            if (Input.GetKeyDown("o"))
+            if (Input.GetKeyUp("o"))
             {
                 ActiveElement = GameObject.Find("TL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -208,14 +302,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("p"))
+            if (Input.GetKeyUp("p"))
             {
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -231,14 +335,24 @@ public class ButtonPressController : MonoBehaviour
 
             // get keyinputs for the 2nd player
             //1ste row of object 
-            if (Input.GetKeyDown("a"))
+            if (Input.GetKeyUp("a"))
             {
                 ActiveElement = GameObject.Find("BL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -250,14 +364,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("s"))
+            if (Input.GetKeyUp("s"))
             {
                 ActiveElement = GameObject.Find("BM-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -270,14 +394,24 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //2nd row of objects
-            if (Input.GetKeyDown("d"))
+            if (Input.GetKeyUp("d"))
             {
                 ActiveElement = GameObject.Find("BR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -288,14 +422,24 @@ public class ButtonPressController : MonoBehaviour
                     PlayerPrefs.Save();
                 }
             }
-            if (Input.GetKeyDown("f"))
+            if (Input.GetKeyUp("f"))
             {
                 ActiveElement = GameObject.Find("M1L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -306,14 +450,24 @@ public class ButtonPressController : MonoBehaviour
                     PlayerPrefs.Save();
                 }
             }
-            if (Input.GetKeyDown("g"))
+            if (Input.GetKeyUp("g"))
             {
                 ActiveElement = GameObject.Find("M1R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -326,14 +480,24 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //3rd row of objects
-            if (Input.GetKeyDown("h"))
+            if (Input.GetKeyUp("h"))
             {
                 ActiveElement = GameObject.Find("M2L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                  
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -345,14 +509,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("j"))
+            if (Input.GetKeyUp("j"))
             {
                 ActiveElement = GameObject.Find("M2M-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+      
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -364,14 +538,24 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown("k"))
+            if (Input.GetKeyUp("k"))
             {
                 ActiveElement = GameObject.Find("M2R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+              
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -384,14 +568,23 @@ public class ButtonPressController : MonoBehaviour
             }
 
             //4th row of objects
-            if (Input.GetKeyDown("l"))
+            if (Input.GetKeyUp("l"))
             {
                 ActiveElement = GameObject.Find("TL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -403,14 +596,23 @@ public class ButtonPressController : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown(","))
+            if (Input.GetKeyUp(","))
             {
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
-            
+                {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -419,6 +621,7 @@ public class ButtonPressController : MonoBehaviour
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
                     PlayerPrefs.Save();
+                }
                 }
             }
         }
