@@ -68,6 +68,7 @@ public class GameController : MonoBehaviour
 
         if (timerController.gameEnded == true)
         {
+            gameIsActive = false;
             endScreen.SetActive(true);
             endPlayer1Score.text = Player1Score.ToString();
             endPlayer2Score.text = Player2Score.ToString();

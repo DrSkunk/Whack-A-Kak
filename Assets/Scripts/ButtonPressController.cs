@@ -10,9 +10,14 @@ public class ButtonPressController : MonoBehaviour
 
     public SerialController serialController;
 
+    private AudioSource hitSound;
+
+    Animator anim;
+    int hithash = Animator.StringToHash("Ishit");
 
     void Start()
     {
+        anim = gameObject.GetComponentInParent<Animator>();
         //getting serial controller for arduino connection
         serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
     }
@@ -34,9 +39,18 @@ public class ButtonPressController : MonoBehaviour
                 //if the item is up, it can be hit so add score to corresponding player
                 if (ActiveElementButton.Down == false)
                 {
-                    //deactivate the object and move it down
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //deactivate the object and move it down
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
 
                     //get the player score and add a point
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -60,7 +74,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -80,7 +104,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -99,7 +133,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -118,7 +162,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -138,7 +192,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -157,7 +221,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -176,7 +250,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -196,7 +280,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -215,7 +309,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
@@ -238,7 +342,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -257,7 +371,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -277,7 +401,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -295,7 +429,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -313,7 +457,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.Down = true;
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -333,7 +487,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                  
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -352,7 +516,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+      
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -371,7 +545,17 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+              
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -391,7 +575,16 @@ public class ButtonPressController : MonoBehaviour
                 if (ActiveElementButton.Down == false)
                 {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -408,9 +601,18 @@ public class ButtonPressController : MonoBehaviour
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
-            
+                {
                     ActiveElementButton.Down = true;
-                    ActiveElementButton.active = false;
+
+                    //play animation and add sound
+                    anim = ActiveElement.GetComponentInParent<Animator>();
+                    hitSound = ActiveElement.GetComponent<AudioSource>();
+                    anim.SetTrigger(hithash);
+                    hitSound.Play();
+
+                    //ActiveElementButton.active = false;
+                    ActiveElementButton.isHit = true;
+
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
                     P2Score++;
 
@@ -419,6 +621,7 @@ public class ButtonPressController : MonoBehaviour
 
                     PlayerPrefs.SetInt("Player2Score", P2Score);
                     PlayerPrefs.Save();
+                }
                 }
             }
         }

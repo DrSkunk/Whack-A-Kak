@@ -1,0 +1,1174 @@
+fileFormatVersion: 2
+guid: 3e33e1ebb723542caa55e64be5156f0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3375811846370307910
+    second: SmakKakje_0
+  - first:
+      213: 4906707551322608556
+    second: SmakKakje_1
+  - first:
+      213: 2208691184935569879
+    second: SmakKakje_2
+  - first:
+      213: -6575904993166370023
+    second: SmakKakje_3
+  - first:
+      213: 8375545176824322879
+    second: SmakKakje_4
+  - first:
+      213: 8317307251565564073
+    second: SmakKakje_5
+  - first:
+      213: -273253924923607203
+    second: SmakKakje_6
+  - first:
+      213: 4964782973513129044
+    second: SmakKakje_7
+  - first:
+      213: -7082382243727990828
+    second: SmakKakje_8
+  - first:
+      213: -7782205537227821651
+    second: SmakKakje_9
+  - first:
+      213: -2242613890320587147
+    second: SmakKakje_10
+  - first:
+      213: -1009051113167809170
+    second: SmakKakje_11
+  - first:
+      213: 2332690943713545736
+    second: SmakKakje_12
+  - first:
+      213: -3448736040523081771
+    second: SmakKakje_13
+  - first:
+      213: 7970747951150150177
+    second: SmakKakje_14
+  - first:
+      213: -6690021054379952774
+    second: SmakKakje_15
+  - first:
+      213: -6861409160948926936
+    second: SmakKakje_16
+  - first:
+      213: 6955960347948687312
+    second: SmakKakje_17
+  - first:
+      213: 3830761495220732003
+    second: SmakKakje_18
+  - first:
+      213: -855574575973902252
+    second: SmakKakje_19
+  - first:
+      213: -1705817575294668812
+    second: SmakKakje_20
+  - first:
+      213: 4400226327624304080
+    second: SmakKakje_21
+  - first:
+      213: 8788006217285860080
+    second: SmakKakje_22
+  - first:
+      213: 1249712502754894713
+    second: SmakKakje_23
+  - first:
+      213: -2449210749407815651
+    second: SmakKakje_24
+  - first:
+      213: 7781665246259220592
+    second: SmakKakje_25
+  - first:
+      213: -3279356770620024851
+    second: SmakKakje_26
+  - first:
+      213: 4553501053752095436
+    second: SmakKakje_27
+  - first:
+      213: 3638061327937292851
+    second: SmakKakje_28
+  - first:
+      213: -5805888223819436342
+    second: SmakKakje_29
+  - first:
+      213: 56950013548227730
+    second: SmakKakje_30
+  - first:
+      213: -9178684170995628889
+    second: SmakKakje_31
+  - first:
+      213: -3377801819725124160
+    second: SmakKakje_32
+  - first:
+      213: 8383054782364399236
+    second: SmakKakje_33
+  - first:
+      213: -5134874073553195118
+    second: SmakKakje_34
+  - first:
+      213: -1544128841998853494
+    second: SmakKakje_35
+  - first:
+      213: -888938016027600381
+    second: SmakKakje_36
+  - first:
+      213: -344933894130264871
+    second: SmakKakje_37
+  - first:
+      213: -3244475220249028888
+    second: SmakKakje_38
+  - first:
+      213: -1478869362269967896
+    second: SmakKakje_39
+  - first:
+      213: -4225736635589245848
+    second: SmakKakje_40
+  - first:
+      213: -1653251307467711052
+    second: SmakKakje_0
+  - first:
+      213: 3821815729280056441
+    second: SmakKakje_1
+  - first:
+      213: -5350831037235864030
+    second: SmakKakje_2
+  - first:
+      213: -7571138813435630395
+    second: SmakKakje_3
+  - first:
+      213: -1503689168914740316
+    second: SmakKakje_4
+  - first:
+      213: -4507810962163907423
+    second: SmakKakje_5
+  - first:
+      213: 8738886343959140338
+    second: SmakKakje_6
+  - first:
+      213: -7588744100491142081
+    second: SmakKakje_7
+  - first:
+      213: 6213622530472715314
+    second: SmakKakje_8
+  - first:
+      213: 8006895666275305087
+    second: SmakKakje_9
+  - first:
+      213: -1454379477983802682
+    second: SmakKakje_10
+  - first:
+      213: 4058891262214073537
+    second: SmakKakje_11
+  - first:
+      213: 1390155253115280333
+    second: SmakKakje_12
+  - first:
+      213: -7025880847301422108
+    second: SmakKakje_13
+  - first:
+      213: -3340038663375990193
+    second: SmakKakje_14
+  - first:
+      213: -4549528730706391368
+    second: SmakKakje_15
+  - first:
+      213: 6545687816699653781
+    second: SmakKakje_16
+  - first:
+      213: -3666035807791307988
+    second: SmakKakje_17
+  - first:
+      213: -1079139723131207986
+    second: SmakKakje_18
+  - first:
+      213: 5793120625991134749
+    second: SmakKakje_19
+  - first:
+      213: 7758823600858656436
+    second: SmakKakje_20
+  - first:
+      213: 2736082677471957405
+    second: SmakKakje_21
+  - first:
+      213: -9038693994337360146
+    second: SmakKakje_22
+  - first:
+      213: -3057622572625930892
+    second: SmakKakje_23
+  - first:
+      213: -1329183363048531105
+    second: SmakKakje_24
+  - first:
+      213: 7181377674632877908
+    second: SmakKakje_25
+  - first:
+      213: -3670832959743559400
+    second: SmakKakje_26
+  - first:
+      213: 3952400933249785102
+    second: SmakKakje_27
+  - first:
+      213: -3482547721830673821
+    second: SmakKakje_28
+  - first:
+      213: 1793703327997672099
+    second: SmakKakje_29
+  - first:
+      213: 6065472405830438903
+    second: SmakKakje_30
+  - first:
+      213: -4975875762234794460
+    second: SmakKakje_31
+  - first:
+      213: -5353039098940435604
+    second: SmakKakje_32
+  - first:
+      213: 7906348674169416016
+    second: SmakKakje_33
+  - first:
+      213: 9111432286982645375
+    second: SmakKakje_34
+  - first:
+      213: 3525550289231931805
+    second: SmakKakje_35
+  - first:
+      213: 3528496553781911814
+    second: SmakKakje_36
+  - first:
+      213: -8458847230107000895
+    second: SmakKakje_37
+  - first:
+      213: -6207274122122019547
+    second: SmakKakje_38
+  - first:
+      213: 6641862457650607242
+    second: SmakKakje_39
+  - first:
+      213: 7349919874099175851
+    second: SmakKakje_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmakKakje_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bddfe5f1b87e09e0800000000000000
+      internalID: -1653251307467711052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfcbc2821d90530800000000000000
+      internalID: 3821815729280056441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22edb6485870eb5b0800000000000000
+      internalID: -5350831037235864030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2fffdc59ede690800000000000000
+      internalID: -7571138813435630395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3694
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0c32faa2d12be0800000000000000
+      internalID: -1503689168914740316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cb9530d90171c0800000000000000
+      internalID: -4507810962163907423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7523844d2c64970800000000000000
+      internalID: 8738886343959140338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c52ee827d5fa690800000000000000
+      internalID: -7588744100491142081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a03135c83b3650800000000000000
+      internalID: 6213622530472715314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3292
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7644f5af253e1f60800000000000000
+      internalID: 8006895666275305087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca4826029101dbe0800000000000000
+      internalID: -1454379477983802682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce43a1914145830800000000000000
+      internalID: 4058891262214073537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb549c56d2da4310800000000000000
+      internalID: 1390155253115280333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_13
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d066189e0f7e90800000000000000
+      internalID: -7025880847301422108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2890
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42576d288cc5a1d0800000000000000
+      internalID: -3340038663375990193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8becfce49b3dcd0c0800000000000000
+      internalID: -4549528730706391368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2cf48364f6da50800000000000000
+      internalID: 6545687816699653781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23acb63bdf9f1dc0800000000000000
+      internalID: -3666035807791307988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece30cba3202601f0800000000000000
+      internalID: -1079139723131207986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2488
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea03d148c456050800000000000000
+      internalID: 5793120625991134749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee81cf4f0ecab60800000000000000
+      internalID: 7758823600858656436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91d0d2e2b488f520800000000000000
+      internalID: 2736082677471957405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a01283bb109280800000000000000
+      internalID: -9038693994337360146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755a6d58742195d0800000000000000
+      internalID: -3057622572625930892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_24
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2086
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b122c06cacd8de0800000000000000
+      internalID: -1329183363048531105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d96e42f069a360800000000000000
+      internalID: 7181377674632877908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81970bc3fd49e0dc0800000000000000
+      internalID: -3670832959743559400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d964445bfb9d630800000000000000
+      internalID: 3952400933249785102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_28
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362dfee5c418bafc0800000000000000
+      internalID: -3482547721830673821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1684
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabcb16ca384e810800000000000000
+      internalID: 1793703327997672099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff05705403ec2450800000000000000
+      internalID: 6065472405830438903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1282
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed4898b5322fab0800000000000000
+      internalID: -4975875762234794460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d0e61d4f26b5b0800000000000000
+      internalID: -5353039098940435604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 880
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059af32ca3ef8bd60800000000000000
+      internalID: 7906348674169416016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7620acf36f427e70800000000000000
+      internalID: 9111432286982645375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 478
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99e1731f454de030800000000000000
+      internalID: 3525550289231931805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6016c5fbbecb7f030800000000000000
+      internalID: 3528496553781911814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmakKakje_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 76
+        width: 352
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfdc28d2432c9a80800000000000000
+      internalID: -8458847230107000895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

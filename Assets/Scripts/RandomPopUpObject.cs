@@ -8,8 +8,9 @@ public class RandomPopUpObject : MonoBehaviour
 
     public bool active = false;
     public bool Down = true;
+    public bool isHit = false;
 
-    private float loadTimer;
+    public float loadTimer;
 
     public SerialController serialController;
 
@@ -77,21 +78,42 @@ public class RandomPopUpObject : MonoBehaviour
 
 
             //Use Couroutine to make code wait
-            StartCoroutine(function());
+            StartCoroutine(MoveDownAfterTime());
+
+        }
+        if (isHit == true)
+        {
+            StopAllCoroutines();
+            loadTimer = 1f;
+            StartCoroutine(MoveDownAfterTime());
+            isHit = false;
+            Debug.Log(Down.ToString() + " name of the object is : " + gameObject.name);
+
         }
 
     }
 
 
-    IEnumerator function()
+    IEnumerator MoveDownAfterTime()
     {
-        if(Down == false)
+        if (Down == true && isHit == true)
         {
-            //IEnumerator waits at this line untill timer has run out
-            yield return new WaitForSeconds(loadTimer);
-            //active = false;
+            yield return new WaitForSeconds(1);
             gameObject.transform.Translate(Vector3.down * 2);
-            Down = true;
+        }
+
+
+        if (Down == false)
+        {
+
+                //IEnumerator waits at this line untill timer has run out
+                isHit = false;
+                Debug.Log("im whaiting this long to go down" + loadTimer);
+                yield return new WaitForSeconds(loadTimer);
+                Debug.Log("im done");
+                //active = false;
+                gameObject.transform.Translate(Vector3.down * 2);
+                Down = true;
 
                 //arduino
                 //schrijven wanneer low
@@ -135,8 +157,8 @@ public class RandomPopUpObject : MonoBehaviour
                     Debug.Log("Sending M");
                     serialController.SendSerialMessage("M");
                 }
-
         }
+             
     }
 }
 
