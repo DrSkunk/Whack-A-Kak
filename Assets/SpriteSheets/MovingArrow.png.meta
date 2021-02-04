@@ -68,6 +68,642 @@ TextureImporter:
   - first:
       213: 6658028919574780776
     second: MovingArrow_17
+  - first:
+      213: 1760527431834335014
+    second: MovingArrow_0
+  - first:
+      213: -3404885638288180169
+    second: MovingArrow_1
+  - first:
+      213: -2005359846337966255
+    second: MovingArrow_2
+  - first:
+      213: -8351120059830912293
+    second: MovingArrow_3
+  - first:
+      213: 4115160504568197818
+    second: MovingArrow_4
+  - first:
+      213: -8270141321834215480
+    second: MovingArrow_5
+  - first:
+      213: 1188780569714728232
+    second: MovingArrow_6
+  - first:
+      213: 570024967260995251
+    second: MovingArrow_7
+  - first:
+      213: -3927786768396647174
+    second: MovingArrow_8
+  - first:
+      213: -1313182971621501802
+    second: MovingArrow_9
+  - first:
+      213: -6424735277298685397
+    second: MovingArrow_10
+  - first:
+      213: -1744255759086095713
+    second: MovingArrow_11
+  - first:
+      213: 1568497077144609849
+    second: MovingArrow_12
+  - first:
+      213: 721889034131215815
+    second: MovingArrow_13
+  - first:
+      213: 3627743116998024938
+    second: MovingArrow_18
+  - first:
+      213: -6990590904232817218
+    second: MovingArrow_19
+  - first:
+      213: -2002074314623766790
+    second: MovingArrow_20
+  - first:
+      213: -8560126208699439477
+    second: MovingArrow_21
+  - first:
+      213: -3356038330441108941
+    second: MovingArrow_22
+  - first:
+      213: 7001447919969880920
+    second: MovingArrow_23
+  - first:
+      213: -7684744028818701512
+    second: MovingArrow_24
+  - first:
+      213: -3179302419317716639
+    second: MovingArrow_25
+  - first:
+      213: 3647265654775911459
+    second: MovingArrow_26
+  - first:
+      213: 853536545144328150
+    second: MovingArrow_27
+  - first:
+      213: 4606002301405904143
+    second: MovingArrow_28
+  - first:
+      213: 7723060919597097809
+    second: MovingArrow_29
+  - first:
+      213: -3449489693544626924
+    second: MovingArrow_30
+  - first:
+      213: 2515125858313849588
+    second: MovingArrow_31
+  - first:
+      213: -7960008123829573664
+    second: MovingArrow_32
+  - first:
+      213: -376336467928967808
+    second: MovingArrow_33
+  - first:
+      213: 4117999053671541822
+    second: MovingArrow_34
+  - first:
+      213: -7094458995047273850
+    second: MovingArrow_35
+  - first:
+      213: 3291978984957924202
+    second: MovingArrow_36
+  - first:
+      213: -6664027651566887477
+    second: MovingArrow_37
+  - first:
+      213: -2613646019904169021
+    second: MovingArrow_38
+  - first:
+      213: -7282489970846688883
+    second: MovingArrow_39
+  - first:
+      213: 288548743486127476
+    second: MovingArrow_40
+  - first:
+      213: -4383010045514671005
+    second: MovingArrow_41
+  - first:
+      213: 1153942930296945304
+    second: MovingArrow_42
+  - first:
+      213: -8455659128802706898
+    second: MovingArrow_43
+  - first:
+      213: 3746109514918579950
+    second: MovingArrow_44
+  - first:
+      213: 294456964465393495
+    second: MovingArrow_45
+  - first:
+      213: -3628303978875408959
+    second: MovingArrow_46
+  - first:
+      213: -7375233593608847558
+    second: MovingArrow_47
+  - first:
+      213: -4879640303135361764
+    second: MovingArrow_48
+  - first:
+      213: -7026621384614591439
+    second: MovingArrow_49
+  - first:
+      213: -1488470365768699827
+    second: MovingArrow_50
+  - first:
+      213: 8996188083079248251
+    second: MovingArrow_51
+  - first:
+      213: -5576144604749355698
+    second: MovingArrow_52
+  - first:
+      213: 789028896125371793
+    second: MovingArrow_53
+  - first:
+      213: -6478680588816742363
+    second: MovingArrow_54
+  - first:
+      213: 440888729721606308
+    second: MovingArrow_55
+  - first:
+      213: -4708026819354094319
+    second: MovingArrow_56
+  - first:
+      213: -5420791587470525879
+    second: MovingArrow_57
+  - first:
+      213: -5059441655561732806
+    second: MovingArrow_58
+  - first:
+      213: -3020898260122714019
+    second: MovingArrow_59
+  - first:
+      213: 7197829787272957881
+    second: MovingArrow_60
+  - first:
+      213: 3205027599571284254
+    second: MovingArrow_61
+  - first:
+      213: 1898114903451901724
+    second: MovingArrow_62
+  - first:
+      213: 8645230054433992471
+    second: MovingArrow_63
+  - first:
+      213: -1790038597031302354
+    second: MovingArrow_64
+  - first:
+      213: -8823617963577696462
+    second: MovingArrow_65
+  - first:
+      213: -7857983848612262834
+    second: MovingArrow_66
+  - first:
+      213: -5752974584656993555
+    second: MovingArrow_67
+  - first:
+      213: 74170964664525968
+    second: MovingArrow_68
+  - first:
+      213: 1821776164535941024
+    second: MovingArrow_69
+  - first:
+      213: -2755331177139221813
+    second: MovingArrow_70
+  - first:
+      213: -4914151206412527218
+    second: MovingArrow_71
+  - first:
+      213: -7587536502738601561
+    second: MovingArrow_72
+  - first:
+      213: -309024808578150661
+    second: MovingArrow_73
+  - first:
+      213: 5539384644941766845
+    second: MovingArrow_74
+  - first:
+      213: -337932092180688059
+    second: MovingArrow_75
+  - first:
+      213: -5761148951384543940
+    second: MovingArrow_76
+  - first:
+      213: -5443466907382700871
+    second: MovingArrow_77
+  - first:
+      213: 2091345596374049842
+    second: MovingArrow_78
+  - first:
+      213: 3873284510120584510
+    second: MovingArrow_79
+  - first:
+      213: 4732900978774554673
+    second: MovingArrow_80
+  - first:
+      213: 7087747854444849030
+    second: MovingArrow_81
+  - first:
+      213: 1340204143650830163
+    second: MovingArrow_82
+  - first:
+      213: -1248185997947930419
+    second: MovingArrow_83
+  - first:
+      213: -6909849086411349198
+    second: MovingArrow_84
+  - first:
+      213: 6535663365304592560
+    second: MovingArrow_85
+  - first:
+      213: 6581812929843676063
+    second: MovingArrow_86
+  - first:
+      213: 2860194636260873860
+    second: MovingArrow_87
+  - first:
+      213: 875839001093693281
+    second: MovingArrow_88
+  - first:
+      213: -8807346356496365430
+    second: MovingArrow_89
+  - first:
+      213: -4115351484676537948
+    second: MovingArrow_90
+  - first:
+      213: -7587376000192058225
+    second: MovingArrow_91
+  - first:
+      213: -7432268319893768625
+    second: MovingArrow_92
+  - first:
+      213: -182177076274067143
+    second: MovingArrow_93
+  - first:
+      213: -6464980008847015119
+    second: MovingArrow_94
+  - first:
+      213: 4778822018315514271
+    second: MovingArrow_95
+  - first:
+      213: -4816414875695794151
+    second: MovingArrow_96
+  - first:
+      213: -4886396019340035608
+    second: MovingArrow_97
+  - first:
+      213: 6151452236623893291
+    second: MovingArrow_98
+  - first:
+      213: -8524429673646798642
+    second: MovingArrow_99
+  - first:
+      213: 1191854450343224304
+    second: MovingArrow_100
+  - first:
+      213: -7814609232368633616
+    second: MovingArrow_101
+  - first:
+      213: 4647369632346714231
+    second: MovingArrow_102
+  - first:
+      213: -4342304479356146729
+    second: MovingArrow_103
+  - first:
+      213: -6848586164203017117
+    second: MovingArrow_104
+  - first:
+      213: 1516864376545202263
+    second: MovingArrow_105
+  - first:
+      213: -3512080640060701650
+    second: MovingArrow_106
+  - first:
+      213: -1743358262223778213
+    second: MovingArrow_107
+  - first:
+      213: 5159235174366784066
+    second: MovingArrow_108
+  - first:
+      213: -7610838571659679610
+    second: MovingArrow_109
+  - first:
+      213: -2200604412464840733
+    second: MovingArrow_110
+  - first:
+      213: -1262014375271132029
+    second: MovingArrow_111
+  - first:
+      213: -5837518118270193126
+    second: MovingArrow_112
+  - first:
+      213: -6795102084931029295
+    second: MovingArrow_113
+  - first:
+      213: 7417640570678307315
+    second: MovingArrow_114
+  - first:
+      213: 6953279609704378147
+    second: MovingArrow_115
+  - first:
+      213: 8836139296745486729
+    second: MovingArrow_116
+  - first:
+      213: -3320474535757653655
+    second: MovingArrow_117
+  - first:
+      213: 8737714625854019123
+    second: MovingArrow_118
+  - first:
+      213: 2965144767168019874
+    second: MovingArrow_119
+  - first:
+      213: 5217669118655502472
+    second: MovingArrow_120
+  - first:
+      213: -5300407249606328230
+    second: MovingArrow_121
+  - first:
+      213: -3454195478954261921
+    second: MovingArrow_122
+  - first:
+      213: 9008994797879175017
+    second: MovingArrow_123
+  - first:
+      213: 6226369407144469960
+    second: MovingArrow_124
+  - first:
+      213: 4373535160974360149
+    second: MovingArrow_125
+  - first:
+      213: 7733754714063387967
+    second: MovingArrow_126
+  - first:
+      213: 471901524964887054
+    second: MovingArrow_127
+  - first:
+      213: 1185751260182133213
+    second: MovingArrow_128
+  - first:
+      213: -8643830958335268868
+    second: MovingArrow_129
+  - first:
+      213: -3097901905668343832
+    second: MovingArrow_130
+  - first:
+      213: 927077392964208849
+    second: MovingArrow_131
+  - first:
+      213: -6377411623920219514
+    second: MovingArrow_132
+  - first:
+      213: -1288061408663749961
+    second: MovingArrow_133
+  - first:
+      213: -1997509438519184540
+    second: MovingArrow_134
+  - first:
+      213: 4960816384312104733
+    second: MovingArrow_135
+  - first:
+      213: -8341705887592810217
+    second: MovingArrow_136
+  - first:
+      213: -8596571657523403540
+    second: MovingArrow_137
+  - first:
+      213: -8847732352900748670
+    second: MovingArrow_138
+  - first:
+      213: -4570954815795622326
+    second: MovingArrow_139
+  - first:
+      213: -6204723674620598050
+    second: MovingArrow_140
+  - first:
+      213: 8622125415368513215
+    second: MovingArrow_141
+  - first:
+      213: 1810099780553779703
+    second: MovingArrow_142
+  - first:
+      213: 3002578296387260138
+    second: MovingArrow_143
+  - first:
+      213: -252131400256505120
+    second: MovingArrow_144
+  - first:
+      213: 2070584347129108067
+    second: MovingArrow_145
+  - first:
+      213: 6608562059682547291
+    second: MovingArrow_146
+  - first:
+      213: 6006526937512385283
+    second: MovingArrow_147
+  - first:
+      213: 4198179223070419128
+    second: MovingArrow_148
+  - first:
+      213: -8712069002394496486
+    second: MovingArrow_149
+  - first:
+      213: -7256997188556587583
+    second: MovingArrow_150
+  - first:
+      213: 4433696908533906676
+    second: MovingArrow_151
+  - first:
+      213: -7158821410786803326
+    second: MovingArrow_152
+  - first:
+      213: -7301692782889915741
+    second: MovingArrow_153
+  - first:
+      213: 8463596073319550882
+    second: MovingArrow_154
+  - first:
+      213: 4481084258002999067
+    second: MovingArrow_155
+  - first:
+      213: 1829393937170658597
+    second: MovingArrow_156
+  - first:
+      213: -194315778223031671
+    second: MovingArrow_157
+  - first:
+      213: 5667588498594615201
+    second: MovingArrow_158
+  - first:
+      213: 8768038231292088347
+    second: MovingArrow_159
+  - first:
+      213: -6645852246592052370
+    second: MovingArrow_160
+  - first:
+      213: 4987340198785669815
+    second: MovingArrow_161
+  - first:
+      213: -337345626621847393
+    second: MovingArrow_162
+  - first:
+      213: 3318148340178725555
+    second: MovingArrow_163
+  - first:
+      213: -3143257365547397982
+    second: MovingArrow_164
+  - first:
+      213: -3974396132176703545
+    second: MovingArrow_165
+  - first:
+      213: -2981303063310524694
+    second: MovingArrow_166
+  - first:
+      213: -2966085213818333477
+    second: MovingArrow_167
+  - first:
+      213: 7880158125785774469
+    second: MovingArrow_168
+  - first:
+      213: 8083469371194206259
+    second: MovingArrow_169
+  - first:
+      213: -8254246790382085422
+    second: MovingArrow_170
+  - first:
+      213: -4136047486716931546
+    second: MovingArrow_171
+  - first:
+      213: -2072883166158235327
+    second: MovingArrow_172
+  - first:
+      213: 6162258627524946637
+    second: MovingArrow_173
+  - first:
+      213: 5464405716403432373
+    second: MovingArrow_174
+  - first:
+      213: 710634633459313559
+    second: MovingArrow_175
+  - first:
+      213: -827782925555666738
+    second: MovingArrow_176
+  - first:
+      213: -6180158677062858875
+    second: MovingArrow_177
+  - first:
+      213: 4025239212029750171
+    second: MovingArrow_178
+  - first:
+      213: 6964582593040672677
+    second: MovingArrow_179
+  - first:
+      213: -6474108426115165508
+    second: MovingArrow_180
+  - first:
+      213: -4299646848701437933
+    second: MovingArrow_181
+  - first:
+      213: -1889660159732054261
+    second: MovingArrow_182
+  - first:
+      213: 7414414353253134009
+    second: MovingArrow_183
+  - first:
+      213: -5391644481266465562
+    second: MovingArrow_184
+  - first:
+      213: -4053467114706208244
+    second: MovingArrow_185
+  - first:
+      213: 5507790212667435910
+    second: MovingArrow_186
+  - first:
+      213: -7059991448138884960
+    second: MovingArrow_187
+  - first:
+      213: 5356760987262923282
+    second: MovingArrow_188
+  - first:
+      213: 5880505316919950407
+    second: MovingArrow_189
+  - first:
+      213: 3626555045128665778
+    second: MovingArrow_190
+  - first:
+      213: 2820973288174714499
+    second: MovingArrow_191
+  - first:
+      213: 7091940619475135686
+    second: MovingArrow_192
+  - first:
+      213: 7275044542414442128
+    second: MovingArrow_193
+  - first:
+      213: -8491116642675719232
+    second: MovingArrow_194
+  - first:
+      213: -3572091339371089365
+    second: MovingArrow_195
+  - first:
+      213: -8971970375488044413
+    second: MovingArrow_196
+  - first:
+      213: -3462651131192946954
+    second: MovingArrow_197
+  - first:
+      213: 5062671835880919624
+    second: MovingArrow_198
+  - first:
+      213: 4924596283945818306
+    second: MovingArrow_199
+  - first:
+      213: 861143831389463783
+    second: MovingArrow_200
+  - first:
+      213: -750517603500600335
+    second: MovingArrow_201
+  - first:
+      213: 958534475968798763
+    second: MovingArrow_202
+  - first:
+      213: 5716644925247914205
+    second: MovingArrow_203
+  - first:
+      213: -2277733236146189298
+    second: MovingArrow_204
+  - first:
+      213: -4280829260733328759
+    second: MovingArrow_205
+  - first:
+      213: 4346049539375551015
+    second: MovingArrow_206
+  - first:
+      213: -5630084280126848577
+    second: MovingArrow_207
+  - first:
+      213: 334597036721050991
+    second: MovingArrow_208
+  - first:
+      213: -1533159841519742393
+    second: MovingArrow_209
+  - first:
+      213: 4887363996661575980
+    second: MovingArrow_210
+  - first:
+      213: 2134849790600438996
+    second: MovingArrow_211
+  - first:
+      213: -4318853939763663887
+    second: MovingArrow_212
+  - first:
+      213: -1613961835141622128
+    second: MovingArrow_213
+  - first:
+      213: -3532757738237980181
+    second: MovingArrow_214
+  - first:
+      213: -426978161150111862
+    second: MovingArrow_215
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -179,307 +815,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MovingArrow_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 198
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77d20c9926b899650800000000000000
-      internalID: 6240172014301097335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_1
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 198
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b9e5eea92bc38c70800000000000000
-      internalID: 8972238262540560820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_2
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 198
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eac747c6b10c5f6f0800000000000000
-      internalID: -651403347068945234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_3
-      rect:
-        serializedVersion: 2
-        x: 1173
-        y: 198
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a99fa5344be58550800000000000000
-      internalID: 6162590343317395878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_4
-      rect:
-        serializedVersion: 2
-        x: 1564
-        y: 198
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03601635e1c0fdd20800000000000000
-      internalID: 3305373975900653104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 140
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f89cd153cd28fdc0800000000000000
-      internalID: -3605081184794797836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_6
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 140
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 358c8e7d93eff9bf0800000000000000
-      internalID: -315253924503697325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_7
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 140
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15163c542944c7c90800000000000000
-      internalID: -7170781111654325935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_8
-      rect:
-        serializedVersion: 2
-        x: 1173
-        y: 140
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e49d6e7aa93d379c0800000000000000
-      internalID: -3930565388568962738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_9
-      rect:
-        serializedVersion: 2
-        x: 1564
-        y: 140
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1f2c98befe06ba00800000000000000
-      internalID: 771820873322344223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 82
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 737651f923a1f2e60800000000000000
-      internalID: 7939593472797140791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_11
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 82
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c404d5570ae901f0800000000000000
-      internalID: -1078073318552894266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_12
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 82
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67f15921ac01297a0800000000000000
-      internalID: -6372012062694629514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MovingArrow_13
-      rect:
-        serializedVersion: 2
-        x: 1173
-        y: 82
-        width: 391
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 688d3841ccf2708d0800000000000000
-      internalID: -2880280883116124026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: MovingArrow_14
       rect:
         serializedVersion: 2
         x: 0
-        y: 24
-        width: 391
-        height: 58
+        y: 16
+        width: 392
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,10 +839,10 @@ TextureImporter:
       name: MovingArrow_15
       rect:
         serializedVersion: 2
-        x: 391
-        y: 24
-        width: 391
-        height: 58
+        x: 392
+        y: 16
+        width: 392
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,10 +860,10 @@ TextureImporter:
       name: MovingArrow_16
       rect:
         serializedVersion: 2
-        x: 782
-        y: 24
-        width: 391
-        height: 58
+        x: 784
+        y: 16
+        width: 392
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +881,10 @@ TextureImporter:
       name: MovingArrow_17
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 24
-        width: 391
-        height: 58
+        x: 1176
+        y: 16
+        width: 392
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,6 +894,300 @@ TextureImporter:
       bones: []
       spriteID: 86b588fc602166c50800000000000000
       internalID: 6658028919574780776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f0df1f56ae6810800000000000000
+      internalID: 1760527431834335014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf0054d8a6fb0d0800000000000000
+      internalID: -3404885638288180169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 196
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f813838d78b24e0800000000000000
+      internalID: -2005359846337966255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_3
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 196
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab32d3d8cda1c80800000000000000
+      internalID: -8351120059830912293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 196
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab231840dacfb1930800000000000000
+      internalID: 4115160504568197818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7cacde84e8a3d80800000000000000
+      internalID: -8270141321834215480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 136
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d9bb531a56f7010800000000000000
+      internalID: 1188780569714728232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 136
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef1b600b229e700800000000000000
+      internalID: 570024967260995251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 136
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af40d349eb2bd79c0800000000000000
+      internalID: -3927786768396647174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_9
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 136
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694986b7b03a6cde0800000000000000
+      internalID: -1313182971621501802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae0b41e41c6d6a0800000000000000
+      internalID: -6424735277298685397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927e3ae0a82bc7e0800000000000000
+      internalID: -1744255759086095713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 76
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934617a08cb64c510800000000000000
+      internalID: 1568497077144609849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingArrow_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 76
+        width: 392
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c514a6704aa40a00800000000000000
+      internalID: 721889034131215815
       vertices: []
       indices: 
       edges: []
