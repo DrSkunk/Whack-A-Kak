@@ -838,6 +838,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11442534, guid: a65acf0cbf56b80419f74ebf0bc845f4, type: 3}
+      propertyPath: baudRate
+      value: 115200
+      objectReference: {fileID: 0}
+    - target: {fileID: 11442534, guid: a65acf0cbf56b80419f74ebf0bc845f4, type: 3}
       propertyPath: portName
       value: /dev/tty.usbmodemHIDPC1
       objectReference: {fileID: 0}
@@ -1775,6 +1779,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!212 &724227361
 SpriteRenderer:
@@ -3121,6 +3127,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!212 &1248383041
 SpriteRenderer:
@@ -4122,6 +4130,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!212 &1559122572
 SpriteRenderer:
@@ -4843,6 +4853,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!95 &1640650441
 Animator:
@@ -5086,6 +5098,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!212 &1668954938
 SpriteRenderer:
@@ -5745,6 +5759,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!95 &1744866914
 Animator:
@@ -6039,6 +6055,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!95 &1748216168
 Animator:
@@ -6203,6 +6221,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!212 &1757367116
 SpriteRenderer:
@@ -6896,6 +6916,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!95 &1867608742
 Animator:
@@ -7060,6 +7082,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   Down: 0
+  isHit: 0
+  loadTimer: 0
   serialController: {fileID: 0}
 --- !u!212 &1902018146
 SpriteRenderer:

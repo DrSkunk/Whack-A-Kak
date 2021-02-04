@@ -127,35 +127,35 @@ public class RandomPopUpObject : MonoBehaviour
                 }
                 if(gameObject.name == "BL-Popup"){
                     Debug.Log("Sending D");
-                    serialController.SendSerialMessage("D");
+                    serialController.SendSerialMessage("D0");
                 }
                 if(gameObject.name == "M1R-Popup"){
                     Debug.Log("Sending F");
-                    serialController.SendSerialMessage("F");
+                    serialController.SendSerialMessage("F0");
                 }
                 if(gameObject.name == "M1L-Popup"){
                     Debug.Log("Sending G");
-                    serialController.SendSerialMessage("G");
+                    serialController.SendSerialMessage("G0");
                 }
                 if(gameObject.name == "M2L-Popup"){
                     Debug.Log("Sending H");
-                    serialController.SendSerialMessage("H");
+                    serialController.SendSerialMessage("H0");
                 }
                 if(gameObject.name == "M2M-Popup"){
                     Debug.Log("Sending J");
-                    serialController.SendSerialMessage("J");
+                    serialController.SendSerialMessage("J0");
                 }
                 if(gameObject.name == "M2R-Popup"){
                     Debug.Log("Sending K");
-                    serialController.SendSerialMessage("K");
+                    serialController.SendSerialMessage("K0");
                 }
                 if(gameObject.name == "TR-Popup"){
                     Debug.Log("Sending L");
-                    serialController.SendSerialMessage("L");
+                    serialController.SendSerialMessage("L0");
                 }
                 if(gameObject.name == "TL-Popup"){
                     Debug.Log("Sending M");
-                    serialController.SendSerialMessage("M");
+                    serialController.SendSerialMessage("M0");
                 }
         }
              
