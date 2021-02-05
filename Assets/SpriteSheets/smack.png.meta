@@ -1,0 +1,2968 @@
+fileFormatVersion: 2
+guid: 286978364a5434531bcf41aab07c89bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1214552738444490668
+    second: smack_0
+  - first:
+      213: -5743434259554286831
+    second: smack_1
+  - first:
+      213: 5806598791984463351
+    second: smack_2
+  - first:
+      213: 5240666183730949078
+    second: smack_3
+  - first:
+      213: -6427491261683032298
+    second: smack_4
+  - first:
+      213: -4385341364579566550
+    second: smack_5
+  - first:
+      213: -5695762621508230995
+    second: smack_6
+  - first:
+      213: 3072935733216172749
+    second: smack_7
+  - first:
+      213: -3858661010769092854
+    second: smack_8
+  - first:
+      213: 7267920835917359081
+    second: smack_9
+  - first:
+      213: 626146286882636789
+    second: smack_10
+  - first:
+      213: -4186517315605304837
+    second: smack_11
+  - first:
+      213: -8514121403868890201
+    second: smack_12
+  - first:
+      213: 8473248553518637217
+    second: smack_13
+  - first:
+      213: -4601101211901321394
+    second: smack_14
+  - first:
+      213: -6448093627016797736
+    second: smack_15
+  - first:
+      213: -2732458742291669532
+    second: smack_16
+  - first:
+      213: -6428204049451407834
+    second: smack_17
+  - first:
+      213: -5836240465537220136
+    second: smack_18
+  - first:
+      213: 3686418203444024274
+    second: smack_19
+  - first:
+      213: -569821097843073685
+    second: smack_20
+  - first:
+      213: -1780825931111598879
+    second: smack_21
+  - first:
+      213: -4872989450902555841
+    second: smack_22
+  - first:
+      213: 8213586123699699769
+    second: smack_23
+  - first:
+      213: 6290299746818406110
+    second: smack_24
+  - first:
+      213: 6617749439193989911
+    second: smack_25
+  - first:
+      213: 7039830758244108708
+    second: smack_26
+  - first:
+      213: -8606860626702420884
+    second: smack_27
+  - first:
+      213: -3200419250453051286
+    second: smack_28
+  - first:
+      213: 109800836267915612
+    second: smack_29
+  - first:
+      213: 4525741982044555446
+    second: smack_30
+  - first:
+      213: 8035225050245823637
+    second: smack_31
+  - first:
+      213: 5780530391822662426
+    second: smack_32
+  - first:
+      213: 6750330177736048675
+    second: smack_33
+  - first:
+      213: 4871941167613912324
+    second: smack_34
+  - first:
+      213: 1715914732615224043
+    second: smack_35
+  - first:
+      213: 1925653141450689313
+    second: smack_36
+  - first:
+      213: 8773884997128827713
+    second: smack_37
+  - first:
+      213: -3881222387172755923
+    second: smack_38
+  - first:
+      213: -2106745477136087924
+    second: smack_39
+  - first:
+      213: 4871460107651874246
+    second: smack_40
+  - first:
+      213: 6126338085435892316
+    second: smack_41
+  - first:
+      213: -9189965971370870402
+    second: smack_42
+  - first:
+      213: 6573650784434125121
+    second: smack_43
+  - first:
+      213: -8406968967898593195
+    second: smack_44
+  - first:
+      213: -3894635813030052674
+    second: smack_45
+  - first:
+      213: 6198295044617394349
+    second: smack_46
+  - first:
+      213: -6654537978225174959
+    second: smack_47
+  - first:
+      213: 9014071658202219422
+    second: smack_48
+  - first:
+      213: 6763416638203511311
+    second: smack_49
+  - first:
+      213: 5455899769253602616
+    second: smack_50
+  - first:
+      213: -7251290488298119932
+    second: smack_51
+  - first:
+      213: 6838211339179564220
+    second: smack_52
+  - first:
+      213: -186741662081141988
+    second: smack_53
+  - first:
+      213: 779974643625095289
+    second: smack_54
+  - first:
+      213: 8762281021489510863
+    second: smack_55
+  - first:
+      213: 4727700694861637202
+    second: smack_56
+  - first:
+      213: -597397631764763591
+    second: smack_57
+  - first:
+      213: 1236777260561947086
+    second: smack_58
+  - first:
+      213: -6348923765185204069
+    second: smack_59
+  - first:
+      213: -2808142778529342388
+    second: smack_60
+  - first:
+      213: -6983434574359727874
+    second: smack_61
+  - first:
+      213: 6096385028034087838
+    second: smack_62
+  - first:
+      213: -890222904363709719
+    second: smack_63
+  - first:
+      213: -7257440198159090445
+    second: smack_64
+  - first:
+      213: -4495111967517620756
+    second: smack_65
+  - first:
+      213: 2726904054142426983
+    second: smack_66
+  - first:
+      213: 5988189293995195037
+    second: smack_67
+  - first:
+      213: -1880844733298549621
+    second: smack_68
+  - first:
+      213: 2654092901192460876
+    second: smack_69
+  - first:
+      213: 1288745461028565207
+    second: smack_70
+  - first:
+      213: 3075150007652247032
+    second: smack_71
+  - first:
+      213: -5231261035400196039
+    second: smack_72
+  - first:
+      213: 1052975817553459858
+    second: smack_73
+  - first:
+      213: -1770187301983596622
+    second: smack_74
+  - first:
+      213: 6436173248237385261
+    second: smack_75
+  - first:
+      213: 5352673421982663961
+    second: smack_76
+  - first:
+      213: 7216268282311504171
+    second: smack_77
+  - first:
+      213: -7588494023285027392
+    second: smack_78
+  - first:
+      213: -805823229882480336
+    second: smack_79
+  - first:
+      213: 5418292089553809377
+    second: smack_80
+  - first:
+      213: -4724220145560908111
+    second: smack_81
+  - first:
+      213: 1891570545675146399
+    second: smack_82
+  - first:
+      213: 2363807352277245365
+    second: smack_83
+  - first:
+      213: -6330061743025857798
+    second: smack_84
+  - first:
+      213: 5980032784666748991
+    second: smack_85
+  - first:
+      213: 4352321267672630914
+    second: smack_86
+  - first:
+      213: -6349643922157258053
+    second: smack_87
+  - first:
+      213: -305101550797550880
+    second: smack_88
+  - first:
+      213: -5215413276211609399
+    second: smack_89
+  - first:
+      213: 5346672199345861764
+    second: smack_90
+  - first:
+      213: -7514263910294291055
+    second: smack_91
+  - first:
+      213: 3289953537827894644
+    second: smack_92
+  - first:
+      213: 7714617435064076081
+    second: smack_93
+  - first:
+      213: 1844776734645960010
+    second: smack_94
+  - first:
+      213: 3027050245381773537
+    second: smack_95
+  - first:
+      213: -2744024942250262978
+    second: smack_96
+  - first:
+      213: -950300922933496918
+    second: smack_97
+  - first:
+      213: -3037206534069614126
+    second: smack_98
+  - first:
+      213: -5298523062536913244
+    second: smack_99
+  - first:
+      213: -5084698128627659153
+    second: smack_100
+  - first:
+      213: 5009830024597199471
+    second: smack_101
+  - first:
+      213: 4051086315542204616
+    second: smack_102
+  - first:
+      213: -573051234539294413
+    second: smack_103
+  - first:
+      213: 2213750206124988024
+    second: smack_104
+  - first:
+      213: 7310972494739068176
+    second: smack_105
+  - first:
+      213: -1530094874911979090
+    second: smack_0
+  - first:
+      213: 416868706923457771
+    second: smack_1
+  - first:
+      213: 5430412109629217903
+    second: smack_2
+  - first:
+      213: 4172133778812551741
+    second: smack_3
+  - first:
+      213: 1447609636227998962
+    second: smack_4
+  - first:
+      213: -500358227288124654
+    second: smack_5
+  - first:
+      213: 4342665170374962069
+    second: smack_6
+  - first:
+      213: 6538240282177945470
+    second: smack_7
+  - first:
+      213: -7137720548398557054
+    second: smack_8
+  - first:
+      213: 4916117388639029884
+    second: smack_9
+  - first:
+      213: -7483263132740972729
+    second: smack_10
+  - first:
+      213: -3363561769309808621
+    second: smack_11
+  - first:
+      213: -7709842040102701541
+    second: smack_12
+  - first:
+      213: 6559912597960709986
+    second: smack_13
+  - first:
+      213: 5240731785753883635
+    second: smack_14
+  - first:
+      213: 4930347499261181956
+    second: smack_15
+  - first:
+      213: -2911186483631325409
+    second: smack_16
+  - first:
+      213: -2154895165422737813
+    second: smack_17
+  - first:
+      213: 5342789761074878702
+    second: smack_18
+  - first:
+      213: -1523494036523226438
+    second: smack_19
+  - first:
+      213: 6335325962806599042
+    second: smack_20
+  - first:
+      213: -4138796663591285084
+    second: smack_21
+  - first:
+      213: -2884971750528540711
+    second: smack_22
+  - first:
+      213: 3223107947290567942
+    second: smack_23
+  - first:
+      213: -2316466550850243556
+    second: smack_24
+  - first:
+      213: 1245253841241715952
+    second: smack_25
+  - first:
+      213: -6042084275672175108
+    second: smack_26
+  - first:
+      213: -3388926395839191361
+    second: smack_27
+  - first:
+      213: -333269314905324989
+    second: smack_28
+  - first:
+      213: 518826306304037190
+    second: smack_29
+  - first:
+      213: 3114546453067894361
+    second: smack_30
+  - first:
+      213: -6259748069535624166
+    second: smack_31
+  - first:
+      213: 122631852721084363
+    second: smack_32
+  - first:
+      213: 2514463477178983614
+    second: smack_33
+  - first:
+      213: -4009486990178097242
+    second: smack_34
+  - first:
+      213: -7639269103005481919
+    second: smack_35
+  - first:
+      213: 7149598795542332896
+    second: smack_36
+  - first:
+      213: 622146289189245931
+    second: smack_37
+  - first:
+      213: 5631246713176201794
+    second: smack_38
+  - first:
+      213: 4931554385060864365
+    second: smack_39
+  - first:
+      213: -719364823538786440
+    second: smack_40
+  - first:
+      213: 6816288258057138089
+    second: smack_41
+  - first:
+      213: 7674075982148189523
+    second: smack_42
+  - first:
+      213: -6542036597550421089
+    second: smack_43
+  - first:
+      213: 2210448077660555261
+    second: smack_44
+  - first:
+      213: 7515170267481083776
+    second: smack_45
+  - first:
+      213: -8974238208099468132
+    second: smack_46
+  - first:
+      213: 3112842215943033895
+    second: smack_47
+  - first:
+      213: 676346383804149391
+    second: smack_48
+  - first:
+      213: -1664881514384638994
+    second: smack_49
+  - first:
+      213: -8882906026639055613
+    second: smack_50
+  - first:
+      213: 1415366525927532643
+    second: smack_51
+  - first:
+      213: -6978846775732354416
+    second: smack_52
+  - first:
+      213: -2055801618950493192
+    second: smack_53
+  - first:
+      213: 1178130033138529369
+    second: smack_54
+  - first:
+      213: 3133834488113042378
+    second: smack_55
+  - first:
+      213: -166967100442006801
+    second: smack_56
+  - first:
+      213: 2441408268495044675
+    second: smack_57
+  - first:
+      213: -8833116273826888021
+    second: smack_58
+  - first:
+      213: 4860764921520427233
+    second: smack_59
+  - first:
+      213: -5843538436960838297
+    second: smack_60
+  - first:
+      213: -5739128383551989394
+    second: smack_61
+  - first:
+      213: 803905034976758738
+    second: smack_62
+  - first:
+      213: -5504018666554691330
+    second: smack_63
+  - first:
+      213: 4182224727580554614
+    second: smack_64
+  - first:
+      213: 877381037018761476
+    second: smack_65
+  - first:
+      213: 833422905832777237
+    second: smack_66
+  - first:
+      213: -1850415771107746847
+    second: smack_67
+  - first:
+      213: 590550978529698845
+    second: smack_68
+  - first:
+      213: -5593245536776388148
+    second: smack_69
+  - first:
+      213: -7300141159272970519
+    second: smack_70
+  - first:
+      213: -5878983392085436227
+    second: smack_71
+  - first:
+      213: 1956141428017653913
+    second: smack_72
+  - first:
+      213: 3836941462004356083
+    second: smack_73
+  - first:
+      213: -1412007011675116145
+    second: smack_74
+  - first:
+      213: 43753452279386485
+    second: smack_75
+  - first:
+      213: -3290943598775020131
+    second: smack_76
+  - first:
+      213: 447692374171133394
+    second: smack_77
+  - first:
+      213: 870850758502971637
+    second: smack_78
+  - first:
+      213: 154572366886673840
+    second: smack_79
+  - first:
+      213: 1250861774589902133
+    second: smack_80
+  - first:
+      213: -7502920310216735529
+    second: smack_81
+  - first:
+      213: -3806860993162340437
+    second: smack_82
+  - first:
+      213: 2136843371254524267
+    second: smack_83
+  - first:
+      213: 7596136684373579552
+    second: smack_84
+  - first:
+      213: 8179556119321487246
+    second: smack_85
+  - first:
+      213: 4239091548809578891
+    second: smack_86
+  - first:
+      213: 3736420520631346963
+    second: smack_87
+  - first:
+      213: -1129310337468029273
+    second: smack_88
+  - first:
+      213: 4394295797842037394
+    second: smack_89
+  - first:
+      213: 3670854687955035338
+    second: smack_90
+  - first:
+      213: 2371209146628658554
+    second: smack_91
+  - first:
+      213: -1605839568300431700
+    second: smack_92
+  - first:
+      213: 690483470031679961
+    second: smack_93
+  - first:
+      213: -8502613800604705556
+    second: smack_94
+  - first:
+      213: 8888612263773690261
+    second: smack_95
+  - first:
+      213: 6848397615144305959
+    second: smack_96
+  - first:
+      213: 6414283436293344843
+    second: smack_97
+  - first:
+      213: 5259322082959893047
+    second: smack_98
+  - first:
+      213: 927223122943168271
+    second: smack_99
+  - first:
+      213: -636594453975887807
+    second: smack_100
+  - first:
+      213: 6684704100986547647
+    second: smack_101
+  - first:
+      213: -3828520673081767640
+    second: smack_102
+  - first:
+      213: 7690637352719373799
+    second: smack_103
+  - first:
+      213: 5801732090777664676
+    second: smack_104
+  - first:
+      213: -6665035888572048379
+    second: smack_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smack_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1651
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c93c61d204cae0800000000000000
+      internalID: -1530094874911979090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1651
+        width: 296
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec262a51e309c500800000000000000
+      internalID: 416868706923457771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1651
+        width: 296
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cdd6aca03bc5b40800000000000000
+      internalID: 5430412109629217903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1651
+        width: 297
+        height: 373
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c781219566e930800000000000000
+      internalID: 4172133778812551741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_4
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1651
+        width: 301
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46dcc5b41f61410800000000000000
+      internalID: 1447609636227998962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_5
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1651
+        width: 305
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131c02e7de5e09f0800000000000000
+      internalID: -500358227288124654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_6
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1651
+        width: 309
+        height: 322
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b29aac6fe344c30800000000000000
+      internalID: 4342665170374962069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_7
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1651
+        width: 313
+        height: 304
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fbd5345ee7cba50800000000000000
+      internalID: 6538240282177945470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_8
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1651
+        width: 318
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28892be7af8b1fc90800000000000000
+      internalID: -7137720548398557054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_9
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 1651
+        width: 324
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a43ffd7be893440800000000000000
+      internalID: 4916117388639029884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_10
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1651
+        width: 330
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f823c24db162890800000000000000
+      internalID: -7483263132740972729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_11
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 1651
+        width: 333
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185438446a3251d0800000000000000
+      internalID: -3363561769309808621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_12
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 1651
+        width: 334
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163e455383210590800000000000000
+      internalID: -7709842040102701541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_13
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1651
+        width: 341
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267de0f70cd790b50800000000000000
+      internalID: 6559912597960709986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_14
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1651
+        width: 341
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f375f4eac1dab840800000000000000
+      internalID: 5240731785753883635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_15
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 1651
+        width: 340
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c2b0bdec1c6440800000000000000
+      internalID: 4930347499261181956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_16
+      rect:
+        serializedVersion: 2
+        x: 5601
+        y: 1651
+        width: 338
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f7c3831536997d0800000000000000
+      internalID: -2911186483631325409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_17
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 1651
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6665c0a3464812e0800000000000000
+      internalID: -2154895165422737813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_18
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 1651
+        width: 332
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8567afaf6652a40800000000000000
+      internalID: 5342789761074878702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_19
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 1651
+        width: 332
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6b9fde367bdae0800000000000000
+      internalID: -1523494036523226438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_20
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 1651
+        width: 333
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d956da5699be750800000000000000
+      internalID: 6335325962806599042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_21
+      rect:
+        serializedVersion: 2
+        x: 7353
+        y: 1651
+        width: 334
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec11ddc5a0096c0800000000000000
+      internalID: -4138796663591285084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_22
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 1651
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df95b66a7586f7d0800000000000000
+      internalID: -2884971750528540711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1251
+        width: 335
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6052efee997cabc20800000000000000
+      internalID: 3223107947290567942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1251
+        width: 335
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143f76f1f14adfd0800000000000000
+      internalID: -2316466550850243556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_25
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1251
+        width: 335
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4376e55c7084110800000000000000
+      internalID: 1245253841241715952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_26
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1251
+        width: 335
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd26951d54362ca0800000000000000
+      internalID: -6042084275672175108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_27
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66f06f56d18f0d0800000000000000
+      internalID: -3388926395839191361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_28
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1251
+        width: 334
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c786e25dff5bf0800000000000000
+      internalID: -333269314905324989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_29
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1251
+        width: 334
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6415167d6cd333700800000000000000
+      internalID: 518826306304037190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_30
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1251
+        width: 334
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e809b5f77193b20800000000000000
+      internalID: 3114546453067894361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_31
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1454ebdb48e029a0800000000000000
+      internalID: -6259748069535624166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_32
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79693350da3b100800000000000000
+      internalID: 122631852721084363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_33
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb462f5d53b25e220800000000000000
+      internalID: 2514463477178983614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_34
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a762ea53d07b58c0800000000000000
+      internalID: -4009486990178097242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_35
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144cdb3b93ddbf590800000000000000
+      internalID: -7639269103005481919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_36
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58cde693a783360800000000000000
+      internalID: 7149598795542332896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_37
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d375f0ce42a800800000000000000
+      internalID: 622146289189245931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_38
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a147dcc05362e40800000000000000
+      internalID: 5631246713176201794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_39
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a210b596607440800000000000000
+      internalID: 4931554385060864365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_40
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f1f0d118d4406f0800000000000000
+      internalID: -719364823538786440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_41
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af69247e02589e50800000000000000
+      internalID: 6816288258057138089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_42
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dbc4f527bcf7a60800000000000000
+      internalID: 7674075982148189523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_43
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be66f20640635a0800000000000000
+      internalID: -6542036597550421089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_44
+      rect:
+        serializedVersion: 2
+        x: 7353
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7076fa0d61dae10800000000000000
+      internalID: 2210448077660555261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_45
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 1251
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f89cb8a8f3b4860800000000000000
+      internalID: 7515170267481083776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3e74b5e9157380800000000000000
+      internalID: -8974238208099468132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724df1bb089033b20800000000000000
+      internalID: 3112842215943033895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_48
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e24cfd37dd26900800000000000000
+      internalID: 676346383804149391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_49
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3df5651725e8e0800000000000000
+      internalID: -1664881514384638994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_50
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a00d480499b480800000000000000
+      internalID: -8882906026639055613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_51
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368a3ec3b5464a310800000000000000
+      internalID: 1415366525927532643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_52
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c79e35d7262f90800000000000000
+      internalID: -6978846775732354416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_53
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb68c5d1535873e0800000000000000
+      internalID: -2055801618950493192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_54
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f07ce50f895010800000000000000
+      internalID: 1178130033138529369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_55
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac398d8fcdd9d7b20800000000000000
+      internalID: 3133834488113042378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_56
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2af88e40deadf0800000000000000
+      internalID: -166967100442006801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_57
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340495392ef91e120800000000000000
+      internalID: 2441408268495044675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_58
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba683de7c877a6580800000000000000
+      internalID: -8833116273826888021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_59
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e097e351f7e47340800000000000000
+      internalID: 4860764921520427233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_60
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d9b9180c497eea0800000000000000
+      internalID: -5843538436960838297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_61
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69950274258a50b0800000000000000
+      internalID: -5739128383551989394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_62
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db00fabe5b082b00800000000000000
+      internalID: 803905034976758738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_63
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef073ee2f2ccd93b0800000000000000
+      internalID: -5504018666554691330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_64
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753b4a3b3f3a0a30800000000000000
+      internalID: 4182224727580554614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_65
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ca2497651d2c00800000000000000
+      internalID: 877381037018761476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_66
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51626d997b9e09b00800000000000000
+      internalID: 833422905832777237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_67
+      rect:
+        serializedVersion: 2
+        x: 7353
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb975cf8a00256e0800000000000000
+      internalID: -1850415771107746847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_68
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 851
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14a5017cfe023800800000000000000
+      internalID: 590550978529698845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc187ee81dcc062b0800000000000000
+      internalID: -5593245536776388148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_70
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6835f1b40b0ba90800000000000000
+      internalID: -7300141159272970519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_71
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8935ac0c7a96ea0800000000000000
+      internalID: -5878983392085436227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_72
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ea63c34c952b10800000000000000
+      internalID: 1956141428017653913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_73
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3dcb24eed8f3530800000000000000
+      internalID: 3836941462004356083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_74
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6eb0aa1b876ce0800000000000000
+      internalID: -1412007011675116145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_75
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715fc478817b9000800000000000000
+      internalID: 43753452279386485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_76
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955b2bab383452d0800000000000000
+      internalID: -3290943598775020131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_77
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d52f13a7d5863600800000000000000
+      internalID: 447692374171133394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_78
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f2f0a622e51c00800000000000000
+      internalID: 870850758502971637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_79
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1f5cafb6252200800000000000000
+      internalID: 154572366886673840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_80
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dbb891824fb5110800000000000000
+      internalID: 1250861774589902133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_81
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4c773eab540e790800000000000000
+      internalID: -7502920310216735529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_82
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79449a8105b2bc0800000000000000
+      internalID: -3806860993162340437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_83
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69264489b797ad10800000000000000
+      internalID: 2136843371254524267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_84
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02796618116ea6960800000000000000
+      internalID: 7596136684373579552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_85
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a78014fe938170800000000000000
+      internalID: 8179556119321487246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_86
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c721dd4744da30800000000000000
+      internalID: 4239091548809578891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_87
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31726b7caae6ad330800000000000000
+      internalID: 3736420520631346963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_88
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6aa0e3b32e350f0800000000000000
+      internalID: -1129310337468029273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_89
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29acd540fbcabfc30800000000000000
+      internalID: 4394295797842037394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_90
+      rect:
+        serializedVersion: 2
+        x: 7353
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac423a1c3ee71f230800000000000000
+      internalID: 3670854687955035338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_91
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 451
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7555f8d72a38e020800000000000000
+      internalID: 2371209146628658554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6af25bb69e6b9e0800000000000000
+      internalID: -1605839568300431700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_93
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17482ce07159900800000000000000
+      internalID: 690483470031679961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_94
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5f901cc5a00a80800000000000000
+      internalID: -8502613800604705556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_95
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599596092c1ba5b70800000000000000
+      internalID: 8888612263773690261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_96
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7250f4bb8556a0f50800000000000000
+      internalID: 6848397615144305959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_97
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ecfec0dcc140950800000000000000
+      internalID: 6414283436293344843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_98
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7322132c19ddcf840800000000000000
+      internalID: 5259322082959893047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_99
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f4e8684882edc00800000000000000
+      internalID: 927223122943168271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_100
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14098c887bc5a27f0800000000000000
+      internalID: -636594453975887807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_101
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd66e776f6d4cc50800000000000000
+      internalID: 6684704100986547647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_102
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c8b17bbc5edac0800000000000000
+      internalID: -3828520673081767640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_103
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e55031fce1aaba60800000000000000
+      internalID: 7690637352719373799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_104
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac79c00994e38050800000000000000
+      internalID: 5801732090777664676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smack_105
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 51
+        width: 334
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cde661c290183a0800000000000000
+      internalID: -6665035888572048379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

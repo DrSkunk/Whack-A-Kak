@@ -35,6 +35,8 @@ public class GameController : MonoBehaviour
 
     private string WinnerName;
 
+    public SerialController serialController;
+
     void Start()
     {
         // start with a clean score
@@ -43,6 +45,9 @@ public class GameController : MonoBehaviour
         // start the game timer
         beginScreen.SetActive(true);
         endScreen.SetActive(false);
+
+        //find the serial controller
+        serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
     }
 
     void Update()
@@ -68,6 +73,9 @@ public class GameController : MonoBehaviour
 
         if (timerController.gameEnded == true)
         {
+            //send command to arduino that leds need to be reset
+            serialController.SendSerialMessage("X0");
+
             gameIsActive = false;
             endScreen.SetActive(true);
             endPlayer1Score.text = Player1Score.ToString();
