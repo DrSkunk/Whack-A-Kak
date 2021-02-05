@@ -117,6 +117,11 @@ if(Serial.available())
      //read first character of msg, depending on character set certain led in array on or off
      switch (char1)
     {
+        case 'X':
+            for (int i=0; i<sizeof ledsOn/sizeof ledsOn[0]; i++) {
+              ledsOn[i] = 0;
+            }
+            break;
         case 'A':
             ledsOn[2] = 1;
             break;

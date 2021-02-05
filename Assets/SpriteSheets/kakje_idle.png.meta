@@ -1,0 +1,2968 @@
+fileFormatVersion: 2
+guid: 0a2e903c276a547ae9be600b7abe9a30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1051341563454631630
+    second: kakje_idle_0
+  - first:
+      213: -2435910623910006526
+    second: kakje_idle_1
+  - first:
+      213: 2533061200495048788
+    second: kakje_idle_2
+  - first:
+      213: 5540013640870312886
+    second: kakje_idle_3
+  - first:
+      213: -9068974255908675539
+    second: kakje_idle_4
+  - first:
+      213: 4313827187413609220
+    second: kakje_idle_5
+  - first:
+      213: 3183192462834595362
+    second: kakje_idle_6
+  - first:
+      213: 8301426355578170162
+    second: kakje_idle_7
+  - first:
+      213: -4269430280420619174
+    second: kakje_idle_8
+  - first:
+      213: -3741943306059886335
+    second: kakje_idle_9
+  - first:
+      213: -4036857190130348731
+    second: kakje_idle_10
+  - first:
+      213: -3675236821368541930
+    second: kakje_idle_11
+  - first:
+      213: 6684563388529383428
+    second: kakje_idle_12
+  - first:
+      213: -2180450890689971670
+    second: kakje_idle_13
+  - first:
+      213: 6685955593307779351
+    second: kakje_idle_14
+  - first:
+      213: 877818805596927973
+    second: kakje_idle_15
+  - first:
+      213: -6126079904308024340
+    second: kakje_idle_16
+  - first:
+      213: 5355535130938856095
+    second: kakje_idle_17
+  - first:
+      213: 3168069879134930894
+    second: kakje_idle_18
+  - first:
+      213: -2110707159048208635
+    second: kakje_idle_19
+  - first:
+      213: -639574810332805544
+    second: kakje_idle_20
+  - first:
+      213: -20318996348018771
+    second: kakje_idle_21
+  - first:
+      213: 124511654843720044
+    second: kakje_idle_22
+  - first:
+      213: -6833612555130966212
+    second: kakje_idle_23
+  - first:
+      213: 6947289614633645977
+    second: kakje_idle_24
+  - first:
+      213: -1697335164751875778
+    second: kakje_idle_25
+  - first:
+      213: 8232698669559226389
+    second: kakje_idle_26
+  - first:
+      213: -6807379572615082718
+    second: kakje_idle_27
+  - first:
+      213: -1841357613731278731
+    second: kakje_idle_28
+  - first:
+      213: 1665992806653441120
+    second: kakje_idle_29
+  - first:
+      213: -6812095627766248549
+    second: kakje_idle_30
+  - first:
+      213: -2652683240329284021
+    second: kakje_idle_31
+  - first:
+      213: 7206977805800248490
+    second: kakje_idle_32
+  - first:
+      213: 3285959461463685119
+    second: kakje_idle_33
+  - first:
+      213: 8244441433813282328
+    second: kakje_idle_34
+  - first:
+      213: -8721994960382377926
+    second: kakje_idle_35
+  - first:
+      213: 6843453939283876489
+    second: kakje_idle_36
+  - first:
+      213: -6616513897581081408
+    second: kakje_idle_37
+  - first:
+      213: 3459756934544809317
+    second: kakje_idle_38
+  - first:
+      213: 7071527649860333564
+    second: kakje_idle_39
+  - first:
+      213: 5365703077592381940
+    second: kakje_idle_40
+  - first:
+      213: -4577827998380827745
+    second: kakje_idle_41
+  - first:
+      213: -522923061868794801
+    second: kakje_idle_42
+  - first:
+      213: -1796786979687628434
+    second: kakje_idle_43
+  - first:
+      213: -7081590517474602511
+    second: kakje_idle_44
+  - first:
+      213: 6194883675522794100
+    second: kakje_idle_45
+  - first:
+      213: -3032292535141890303
+    second: kakje_idle_46
+  - first:
+      213: -2074970828152694944
+    second: kakje_idle_47
+  - first:
+      213: 7553647881808574265
+    second: kakje_idle_48
+  - first:
+      213: 9076756344014545651
+    second: kakje_idle_49
+  - first:
+      213: 8595021491110034522
+    second: kakje_idle_50
+  - first:
+      213: -1511559974574478381
+    second: kakje_idle_51
+  - first:
+      213: 6952003987997570268
+    second: kakje_idle_52
+  - first:
+      213: -1852009012596348008
+    second: kakje_idle_53
+  - first:
+      213: -1448291060649850467
+    second: kakje_idle_54
+  - first:
+      213: -923420147223534471
+    second: kakje_idle_55
+  - first:
+      213: -6304815641337912903
+    second: kakje_idle_56
+  - first:
+      213: 6462216051258311099
+    second: kakje_idle_57
+  - first:
+      213: 6839961323565229037
+    second: kakje_idle_58
+  - first:
+      213: -3174638220669066466
+    second: kakje_idle_59
+  - first:
+      213: 5771343412665367710
+    second: kakje_idle_60
+  - first:
+      213: 3028736230714055464
+    second: kakje_idle_61
+  - first:
+      213: 6080579274340326486
+    second: kakje_idle_62
+  - first:
+      213: 4466774691244516380
+    second: kakje_idle_63
+  - first:
+      213: 2052834605012848589
+    second: kakje_idle_64
+  - first:
+      213: -4553066771109071539
+    second: kakje_idle_65
+  - first:
+      213: 924663024686441929
+    second: kakje_idle_66
+  - first:
+      213: 5075197513309618099
+    second: kakje_idle_67
+  - first:
+      213: -8062072503846869803
+    second: kakje_idle_68
+  - first:
+      213: 1467011641006406524
+    second: kakje_idle_69
+  - first:
+      213: -1339784916585594532
+    second: kakje_idle_70
+  - first:
+      213: 3220157122605968695
+    second: kakje_idle_71
+  - first:
+      213: 1941916916008434081
+    second: kakje_idle_72
+  - first:
+      213: 360780130464007078
+    second: kakje_idle_73
+  - first:
+      213: 6213819645844335594
+    second: kakje_idle_74
+  - first:
+      213: 4616708849676823227
+    second: kakje_idle_75
+  - first:
+      213: -2155763073934319959
+    second: kakje_idle_76
+  - first:
+      213: 1820943703008077705
+    second: kakje_idle_77
+  - first:
+      213: 1591481199939485452
+    second: kakje_idle_78
+  - first:
+      213: -7602988567288193158
+    second: kakje_idle_79
+  - first:
+      213: 478458590424701797
+    second: kakje_idle_80
+  - first:
+      213: 1339443951664799659
+    second: kakje_idle_81
+  - first:
+      213: -8345710926774806869
+    second: kakje_idle_82
+  - first:
+      213: 1773192726551138343
+    second: kakje_idle_83
+  - first:
+      213: 7041423316357385564
+    second: kakje_idle_84
+  - first:
+      213: -126125154904086050
+    second: kakje_idle_85
+  - first:
+      213: -6842386137520431056
+    second: kakje_idle_86
+  - first:
+      213: 1174756293622522474
+    second: kakje_idle_87
+  - first:
+      213: 1547169714635952529
+    second: kakje_idle_88
+  - first:
+      213: -6357132579146379834
+    second: kakje_idle_89
+  - first:
+      213: 1670114019903383797
+    second: kakje_idle_90
+  - first:
+      213: 563716600039626389
+    second: kakje_idle_91
+  - first:
+      213: 8949459703334043665
+    second: kakje_idle_92
+  - first:
+      213: -4555807091385483040
+    second: kakje_idle_93
+  - first:
+      213: -1961811404231554172
+    second: kakje_idle_94
+  - first:
+      213: 384977871981669599
+    second: kakje_idle_95
+  - first:
+      213: 7050001015328264844
+    second: kakje_idle_96
+  - first:
+      213: 1901164488692321347
+    second: kakje_idle_97
+  - first:
+      213: 2579519787647613840
+    second: kakje_idle_98
+  - first:
+      213: 3131557164662859419
+    second: kakje_idle_99
+  - first:
+      213: 7584673622859264468
+    second: kakje_idle_100
+  - first:
+      213: 8655653076015590886
+    second: kakje_idle_101
+  - first:
+      213: -6605720569221025736
+    second: kakje_idle_102
+  - first:
+      213: 719636529858981746
+    second: kakje_idle_103
+  - first:
+      213: -5775386742987956788
+    second: kakje_idle_104
+  - first:
+      213: 8059913034300619269
+    second: kakje_idle_105
+  - first:
+      213: -2917969267677539860
+    second: kakje_idle_0
+  - first:
+      213: 4917155116060387105
+    second: kakje_idle_1
+  - first:
+      213: -1848343258958314842
+    second: kakje_idle_2
+  - first:
+      213: -5771826812179762772
+    second: kakje_idle_3
+  - first:
+      213: -8528113772329450387
+    second: kakje_idle_4
+  - first:
+      213: 3665533807436876450
+    second: kakje_idle_5
+  - first:
+      213: -2723940099577504950
+    second: kakje_idle_6
+  - first:
+      213: 3662912050874227748
+    second: kakje_idle_7
+  - first:
+      213: -3981635819757594662
+    second: kakje_idle_8
+  - first:
+      213: -6704216493412734699
+    second: kakje_idle_9
+  - first:
+      213: -3037049057663386390
+    second: kakje_idle_10
+  - first:
+      213: 3628274360940581234
+    second: kakje_idle_11
+  - first:
+      213: 8471696980003963041
+    second: kakje_idle_12
+  - first:
+      213: -1722378282909809731
+    second: kakje_idle_13
+  - first:
+      213: 549364872914838628
+    second: kakje_idle_14
+  - first:
+      213: -2474693378819651816
+    second: kakje_idle_15
+  - first:
+      213: 8819984670189355526
+    second: kakje_idle_16
+  - first:
+      213: 1983266304077438
+    second: kakje_idle_17
+  - first:
+      213: -3187414195887606846
+    second: kakje_idle_18
+  - first:
+      213: 4055122138181770810
+    second: kakje_idle_19
+  - first:
+      213: -8702977090080008537
+    second: kakje_idle_20
+  - first:
+      213: -6527695992769860282
+    second: kakje_idle_21
+  - first:
+      213: 7710253372644590439
+    second: kakje_idle_22
+  - first:
+      213: -6578673521820034188
+    second: kakje_idle_23
+  - first:
+      213: 5706751047810713702
+    second: kakje_idle_24
+  - first:
+      213: 3824645067262723344
+    second: kakje_idle_25
+  - first:
+      213: 2725322666018283864
+    second: kakje_idle_26
+  - first:
+      213: 7853402416182616649
+    second: kakje_idle_27
+  - first:
+      213: 3036696473986973771
+    second: kakje_idle_28
+  - first:
+      213: 2049519360383558964
+    second: kakje_idle_29
+  - first:
+      213: 70623637812574016
+    second: kakje_idle_30
+  - first:
+      213: 611793113079500142
+    second: kakje_idle_31
+  - first:
+      213: 3348988615049802142
+    second: kakje_idle_32
+  - first:
+      213: 5552516687218909642
+    second: kakje_idle_33
+  - first:
+      213: 2245889452523236633
+    second: kakje_idle_34
+  - first:
+      213: -4178903387837327091
+    second: kakje_idle_35
+  - first:
+      213: -3219256710104952020
+    second: kakje_idle_36
+  - first:
+      213: -6207161537321508712
+    second: kakje_idle_37
+  - first:
+      213: 7590805083305975419
+    second: kakje_idle_38
+  - first:
+      213: -7461716976256278248
+    second: kakje_idle_39
+  - first:
+      213: -7367536512612304840
+    second: kakje_idle_40
+  - first:
+      213: -1788048204141812456
+    second: kakje_idle_41
+  - first:
+      213: 273168606172676663
+    second: kakje_idle_42
+  - first:
+      213: 3917750851461304447
+    second: kakje_idle_43
+  - first:
+      213: -7134793924057376081
+    second: kakje_idle_44
+  - first:
+      213: -4146654367745265827
+    second: kakje_idle_45
+  - first:
+      213: 6027266903713530273
+    second: kakje_idle_46
+  - first:
+      213: 4150152888603536058
+    second: kakje_idle_47
+  - first:
+      213: 6424420829123421556
+    second: kakje_idle_48
+  - first:
+      213: -8395272671069758641
+    second: kakje_idle_49
+  - first:
+      213: 5047332455486924050
+    second: kakje_idle_50
+  - first:
+      213: 6774161655433283990
+    second: kakje_idle_51
+  - first:
+      213: -7292291430121554498
+    second: kakje_idle_52
+  - first:
+      213: -2475431680618618211
+    second: kakje_idle_53
+  - first:
+      213: 5837419874701031809
+    second: kakje_idle_54
+  - first:
+      213: 357928600213028722
+    second: kakje_idle_55
+  - first:
+      213: -1473025151568916719
+    second: kakje_idle_56
+  - first:
+      213: 3421521480697393046
+    second: kakje_idle_57
+  - first:
+      213: -7345591841638675473
+    second: kakje_idle_58
+  - first:
+      213: 697592713700713832
+    second: kakje_idle_59
+  - first:
+      213: -258171191714153804
+    second: kakje_idle_60
+  - first:
+      213: 5368772832739528156
+    second: kakje_idle_61
+  - first:
+      213: -7129973535662006150
+    second: kakje_idle_62
+  - first:
+      213: -1581748488736192057
+    second: kakje_idle_63
+  - first:
+      213: -4640217139786226007
+    second: kakje_idle_64
+  - first:
+      213: -466062774966228949
+    second: kakje_idle_65
+  - first:
+      213: -1646885627831522247
+    second: kakje_idle_66
+  - first:
+      213: -8765739404480140919
+    second: kakje_idle_67
+  - first:
+      213: 2422245860022561227
+    second: kakje_idle_68
+  - first:
+      213: -8360177822280257611
+    second: kakje_idle_69
+  - first:
+      213: 1283845065441116259
+    second: kakje_idle_70
+  - first:
+      213: 7081088196353160141
+    second: kakje_idle_71
+  - first:
+      213: 1512827084835511314
+    second: kakje_idle_72
+  - first:
+      213: 972584685903734495
+    second: kakje_idle_73
+  - first:
+      213: -5144690437865918130
+    second: kakje_idle_74
+  - first:
+      213: -7021584050035253516
+    second: kakje_idle_75
+  - first:
+      213: 5713824372666429613
+    second: kakje_idle_76
+  - first:
+      213: -4962202628150282299
+    second: kakje_idle_77
+  - first:
+      213: -7760417262204232606
+    second: kakje_idle_78
+  - first:
+      213: -8560714768672460345
+    second: kakje_idle_79
+  - first:
+      213: -7623722071834753847
+    second: kakje_idle_80
+  - first:
+      213: -6884574750955395841
+    second: kakje_idle_81
+  - first:
+      213: -4886527727561412751
+    second: kakje_idle_82
+  - first:
+      213: -5136331541339596427
+    second: kakje_idle_83
+  - first:
+      213: -190418224832952561
+    second: kakje_idle_84
+  - first:
+      213: -8064731313263647509
+    second: kakje_idle_85
+  - first:
+      213: -214294832799716913
+    second: kakje_idle_86
+  - first:
+      213: -1395054270228721611
+    second: kakje_idle_87
+  - first:
+      213: -4977940565894408316
+    second: kakje_idle_88
+  - first:
+      213: 5161335004270824548
+    second: kakje_idle_89
+  - first:
+      213: -219286862041540555
+    second: kakje_idle_90
+  - first:
+      213: -7691855362882384721
+    second: kakje_idle_91
+  - first:
+      213: 4535261321057020984
+    second: kakje_idle_92
+  - first:
+      213: 3420387756219141741
+    second: kakje_idle_93
+  - first:
+      213: -6750801139991991868
+    second: kakje_idle_94
+  - first:
+      213: -8275925980426514813
+    second: kakje_idle_95
+  - first:
+      213: 3856733562623360939
+    second: kakje_idle_96
+  - first:
+      213: -5086681316411250658
+    second: kakje_idle_97
+  - first:
+      213: 9146312746951443258
+    second: kakje_idle_98
+  - first:
+      213: 8689551067069077947
+    second: kakje_idle_99
+  - first:
+      213: -3881085392825770974
+    second: kakje_idle_100
+  - first:
+      213: 6051894428943955942
+    second: kakje_idle_101
+  - first:
+      213: -1577365564677287625
+    second: kakje_idle_102
+  - first:
+      213: -4955873933161917734
+    second: kakje_idle_103
+  - first:
+      213: 2957431443060779080
+    second: kakje_idle_104
+  - first:
+      213: -4870094063320964171
+    second: kakje_idle_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kakje_idle_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1651
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d29e396a4187d0800000000000000
+      internalID: -2917969267677539860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1651
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127264e968e3d3440800000000000000
+      internalID: 4917155116060387105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1651
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24dc2599d5956e0800000000000000
+      internalID: -1848343258958314842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1651
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca133f2481a56efa0800000000000000
+      internalID: -5771826812179762772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1651
+        width: 296
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64cf2c35bd06a980800000000000000
+      internalID: -8528113772329450387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1651
+        width: 296
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac578b3979ed230800000000000000
+      internalID: 3665533807436876450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_6
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 1651
+        width: 296
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b9d3759ee923ad0800000000000000
+      internalID: -2723940099577504950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1651
+        width: 296
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c1bd37a1745d230800000000000000
+      internalID: 3662912050874227748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1651
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7906a41536eb8c0800000000000000
+      internalID: -3981635819757594662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_9
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1651
+        width: 296
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a1d4ae96d5f2a0800000000000000
+      internalID: -6704216493412734699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_10
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 1651
+        width: 296
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecf98819fb3ad5d0800000000000000
+      internalID: -3037049057663386390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_11
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 1651
+        width: 296
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271558fce483a5230800000000000000
+      internalID: 3628274360940581234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_12
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 1651
+        width: 296
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c2e1b483819570800000000000000
+      internalID: 8471696980003963041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_13
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 1651
+        width: 296
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34056c312e818e0800000000000000
+      internalID: -1722378282909809731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_14
+      rect:
+        serializedVersion: 2
+        x: 4933
+        y: 1651
+        width: 296
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464aa26f07cbf9700800000000000000
+      internalID: 549364872914838628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_15
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 1651
+        width: 296
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178173cb7f18add0800000000000000
+      internalID: -2474693378819651816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_16
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 1651
+        width: 296
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020707c351e66a70800000000000000
+      internalID: 8819984670189355526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_17
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 1651
+        width: 296
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eac8b25cb070000800000000000000
+      internalID: 1983266304077438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_18
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 1651
+        width: 296
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3f41e2da704c3d0800000000000000
+      internalID: -3187414195887606846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_19
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 1651
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e95278910b64830800000000000000
+      internalID: 4055122138181770810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_20
+      rect:
+        serializedVersion: 2
+        x: 7033
+        y: 1651
+        width: 296
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61b696270d83780800000000000000
+      internalID: -8702977090080008537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_21
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 1651
+        width: 296
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d263d6417f865a0800000000000000
+      internalID: -6527695992769860282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_22
+      rect:
+        serializedVersion: 2
+        x: 7733
+        y: 1651
+        width: 296
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630dbc7792500b60800000000000000
+      internalID: 7710253372644590439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1251
+        width: 296
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b16a6894bd3b4a0800000000000000
+      internalID: -6578673521820034188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1251
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688852a7d3723f40800000000000000
+      internalID: 5706751047810713702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1251
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0150522cc6ed31530800000000000000
+      internalID: 3824645067262723344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1251
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851275e768a42d520800000000000000
+      internalID: 2725322666018283864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1251
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94262ce63e3ecfc60800000000000000
+      internalID: 7853402416182616649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1251
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ccae9a53842a20800000000000000
+      internalID: 3036696473986973771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_29
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 1251
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a2fbdffa517c10800000000000000
+      internalID: 2049519360383558964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_30
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1251
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047709c03d7eaf000800000000000000
+      internalID: 70623637812574016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_31
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1251
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d422d48968d7800800000000000000
+      internalID: 611793113079500142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_32
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1251
+        width: 296
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91fed4d66ff97e20800000000000000
+      internalID: 3348988615049802142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_33
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 1251
+        width: 296
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ac1f22808e0d40800000000000000
+      internalID: 5552516687218909642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_34
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 1251
+        width: 296
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da17ece800b2f10800000000000000
+      internalID: 2245889452523236633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_35
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 1251
+        width: 296
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099741728d8106c0800000000000000
+      internalID: -4178903387837327091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_36
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 1251
+        width: 296
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d6691417e253d0800000000000000
+      internalID: -3219256710104952020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_37
+      rect:
+        serializedVersion: 2
+        x: 4933
+        y: 1251
+        width: 296
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890eb70087bbbd9a0800000000000000
+      internalID: -6207161537321508712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_38
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 1251
+        width: 296
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9ea56105f75960800000000000000
+      internalID: 7590805083305975419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_39
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 1251
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112eb7a1f7a27890800000000000000
+      internalID: -7461716976256278248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_40
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 1251
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f500a39041c990800000000000000
+      internalID: -7367536512612304840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_41
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 1251
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152adeb1a39f27e0800000000000000
+      internalID: -1788048204141812456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_42
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 1251
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73206b6666d7ac300800000000000000
+      internalID: 273168606172676663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_43
+      rect:
+        serializedVersion: 2
+        x: 7033
+        y: 1251
+        width: 296
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d5db64a5ae5630800000000000000
+      internalID: 3917750851461304447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_44
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 1251
+        width: 296
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faad1f25abe1cfc90800000000000000
+      internalID: -7134793924057376081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_45
+      rect:
+        serializedVersion: 2
+        x: 7733
+        y: 1251
+        width: 296
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa83c82df1476c0800000000000000
+      internalID: -4146654367745265827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 851
+        width: 296
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1405aa05725a350800000000000000
+      internalID: 6027266903713530273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_47
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 851
+        width: 296
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba66c0501e489930800000000000000
+      internalID: 4150152888603536058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_48
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 851
+        width: 296
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a58fb4b0282950800000000000000
+      internalID: 6424420829123421556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_49
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 851
+        width: 296
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b97585cfffd7b80800000000000000
+      internalID: -8395272671069758641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_50
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 851
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152998502abb0640800000000000000
+      internalID: 5047332455486924050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_51
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 851
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994c237228a20e50800000000000000
+      internalID: 6774161655433283990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_52
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 851
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdbafc94939cca90800000000000000
+      internalID: -7292291430121554498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_53
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 851
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92aafa700085add0800000000000000
+      internalID: -2475431680618618211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_54
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 851
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893c54b27ea20150800000000000000
+      internalID: 5837419874701031809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_55
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 851
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f76ae5a2e97f400800000000000000
+      internalID: 357928600213028722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_56
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 851
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc487dd63ce8be0800000000000000
+      internalID: -1473025151568916719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_57
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 851
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2650a8afab7f20800000000000000
+      internalID: 3421521480697393046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_58
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 851
+        width: 296
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8e1e73273f0a90800000000000000
+      internalID: -7345591841638675473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_59
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 851
+        width: 296
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865280a80e85ea900800000000000000
+      internalID: 697592713700713832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_60
+      rect:
+        serializedVersion: 2
+        x: 4933
+        y: 851
+        width: 296
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba73a24baaca6cf0800000000000000
+      internalID: -258171191714153804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_61
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 851
+        width: 296
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd05374276b18a40800000000000000
+      internalID: 5368772832739528156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_62
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 851
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702ee478de3d0d90800000000000000
+      internalID: -7129973535662006150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_63
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 851
+        width: 296
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c94ed441208c0ae0800000000000000
+      internalID: -1581748488736192057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_64
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 851
+        width: 296
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ec56a813aa9fb0800000000000000
+      internalID: -4640217139786226007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_65
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 851
+        width: 296
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28ea1f10663889f0800000000000000
+      internalID: -466062774966228949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_66
+      rect:
+        serializedVersion: 2
+        x: 7033
+        y: 851
+        width: 296
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce76f3f361529e0800000000000000
+      internalID: -1646885627831522247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_67
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 851
+        width: 296
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989215a5476d95680800000000000000
+      internalID: -8765739404480140919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_68
+      rect:
+        serializedVersion: 2
+        x: 7733
+        y: 851
+        width: 296
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc92e4da6cb8d9120800000000000000
+      internalID: 2422245860022561227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 451
+        width: 296
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe2e3909eaafb80800000000000000
+      internalID: -8360177822280257611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 451
+        width: 296
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608140f84221d110800000000000000
+      internalID: 1283845065441116259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_71
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 451
+        width: 296
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc377d68234154260800000000000000
+      internalID: 7081088196353160141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_72
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 451
+        width: 296
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd536e734aef410800000000000000
+      internalID: 1512827084835511314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_73
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 451
+        width: 296
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e64d6e905f7d00800000000000000
+      internalID: 972584685903734495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_74
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 451
+        width: 296
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4137a3fd436a98b0800000000000000
+      internalID: -5144690437865918130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_75
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 451
+        width: 296
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe991922825e8e90800000000000000
+      internalID: -7021584050035253516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_76
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 451
+        width: 296
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da070c96ef49b4f40800000000000000
+      internalID: 5713824372666429613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_77
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 451
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b7952007b22bb0800000000000000
+      internalID: -4962202628150282299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_78
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 451
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd181dd957d4490800000000000000
+      internalID: -7760417262204232606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_79
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 451
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c176d5464b323980800000000000000
+      internalID: -8560714768672460345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_80
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 451
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c40cf9fa29133690800000000000000
+      internalID: -7623722071834753847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_81
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 451
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff42ea37db31570a0800000000000000
+      internalID: -6884574750955395841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_82
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 451
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fea95fbe09f2cb0800000000000000
+      internalID: -4886527727561412751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_83
+      rect:
+        serializedVersion: 2
+        x: 4933
+        y: 451
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57991d53da518b8b0800000000000000
+      internalID: -5136331541339596427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_84
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 451
+        width: 296
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07421622af7b5df0800000000000000
+      internalID: -190418224832952561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_85
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 451
+        width: 296
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be463ff6991541090800000000000000
+      internalID: -8064731313263647509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_86
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 451
+        width: 296
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc965c52cfba60df0800000000000000
+      internalID: -214294832799716913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_87
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 451
+        width: 296
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53010a45885c3ace0800000000000000
+      internalID: -1395054270228721611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_88
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 451
+        width: 296
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875bd8fd6dcaeab0800000000000000
+      internalID: -4977940565894408316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_89
+      rect:
+        serializedVersion: 2
+        x: 7033
+        y: 451
+        width: 296
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0a5827deb0a740800000000000000
+      internalID: 5161335004270824548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_90
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 451
+        width: 296
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5389a14c2cfe4fcf0800000000000000
+      internalID: -219286862041540555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_91
+      rect:
+        serializedVersion: 2
+        x: 7733
+        y: 451
+        width: 296
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac46b7fc4a014590800000000000000
+      internalID: -7691855362882384721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 296
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c2c25842c70fe30800000000000000
+      internalID: 4535261321057020984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_93
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 51
+        width: 296
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8983da88a77f20800000000000000
+      internalID: 3420387756219141741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_94
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 51
+        width: 296
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a97561265052a0800000000000000
+      internalID: -6750801139991991868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_95
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 51
+        width: 296
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e40452b21062d80800000000000000
+      internalID: -8275925980426514813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_96
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 51
+        width: 296
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baffd79cdbed58530800000000000000
+      internalID: 3856733562623360939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_97
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 51
+        width: 296
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e0b90b4a7869b0800000000000000
+      internalID: -5086681316411250658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_98
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 51
+        width: 296
+        height: 383
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330baeebfa3eee70800000000000000
+      internalID: 9146312746951443258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_99
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 51
+        width: 296
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d44208ac779870800000000000000
+      internalID: 8689551067069077947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_100
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 51
+        width: 296
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c99a9e56d932ac0800000000000000
+      internalID: -3881085392825770974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_101
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 51
+        width: 296
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7be573be5acf350800000000000000
+      internalID: 6051894428943955942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_102
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 51
+        width: 296
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7311a7c40621c1ae0800000000000000
+      internalID: -1577365564677287625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_103
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 51
+        width: 296
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad214464ae2393bb0800000000000000
+      internalID: -4955873933161917734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_104
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 51
+        width: 296
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84865337a38ea0920800000000000000
+      internalID: 2957431443060779080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kakje_idle_105
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 51
+        width: 296
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e3059043f96cb0800000000000000
+      internalID: -4870094063320964171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
