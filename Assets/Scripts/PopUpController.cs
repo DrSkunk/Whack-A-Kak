@@ -41,11 +41,11 @@ public class PopUpController : MonoBehaviour
                 {
                     //Debug.Log("randomChosen element = " + GameElement.name.ToString() + "this is the down state: " +randomElement.Down.ToString());
                         //if item is already active set it inactive else put it active so it pops up
-                        if(randomElement.Down == false)
+                        if(randomElement.Down == false && randomElement.isHit == false)
                         {
                             randomElement.active = false;
                         }
-                        else if (randomElement.Down)
+                        else if (randomElement.Down ^ randomElement.isHit)
                         {
                             randomElement.active = true;
 

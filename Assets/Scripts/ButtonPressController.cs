@@ -12,6 +12,8 @@ public class ButtonPressController : MonoBehaviour
 
     private AudioSource hitSound;
 
+    public GameObject plusOne;
+
     Animator anim;
     int hithash = Animator.StringToHash("Ishit");
 
@@ -47,9 +49,12 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
+
                     //deactivate the object and move it down
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     //get the player score and add a point
@@ -73,13 +78,16 @@ public class ButtonPressController : MonoBehaviour
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
                 if (ActiveElementButton.Down == false)
                 {
-                    ActiveElementButton.Down = true;
 
+                    ActiveElementButton.Down = true;
                     //play animation and add sound
                     anim = ActiveElement.GetComponentInParent<Animator>();
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
 
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
@@ -111,6 +119,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -140,6 +151,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -168,6 +182,9 @@ public class ButtonPressController : MonoBehaviour
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
 
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
@@ -199,6 +216,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -228,6 +248,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -256,6 +279,9 @@ public class ButtonPressController : MonoBehaviour
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
 
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
@@ -287,6 +313,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -315,6 +344,9 @@ public class ButtonPressController : MonoBehaviour
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
 
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
@@ -349,6 +381,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -377,6 +412,9 @@ public class ButtonPressController : MonoBehaviour
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
 
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
@@ -408,6 +446,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -436,6 +477,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
@@ -463,6 +507,9 @@ public class ButtonPressController : MonoBehaviour
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
 
                     //ActiveElementButton.Down = true;
                     //ActiveElementButton.active = false;
@@ -494,7 +541,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
-                  
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
@@ -523,7 +572,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
-      
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
@@ -552,7 +603,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
-              
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
@@ -582,6 +635,9 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(2, 1);
+
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
@@ -609,6 +665,9 @@ public class ButtonPressController : MonoBehaviour
                     hitSound = ActiveElement.GetComponent<AudioSource>();
                     anim.SetTrigger(hithash);
                     hitSound.Play();
+
+                    ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
+                    plusOne.transform.position += new Vector3(-2, -1);
 
                     //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;

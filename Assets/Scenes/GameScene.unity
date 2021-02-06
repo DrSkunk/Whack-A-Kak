@@ -1767,14 +1767,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!222 &604072462
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1406741065}
-  m_CullTransparentMesh: 0
 --- !u!1 &615215898
 GameObject:
   m_ObjectHideFlags: 0
@@ -2034,6 +2026,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!212 &724227361
 SpriteRenderer:
@@ -3579,6 +3572,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!212 &1248383041
 SpriteRenderer:
@@ -4269,37 +4263,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 1854453802099649875, guid: f34ab53bfeae046b98e6ed265319feab, type: 3}
   m_PrefabInstance: {fileID: 1389923632}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1406741065
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1406741066}
-  - component: {fileID: 604072462}
-  m_Layer: 0
-  m_Name: Recovery GameObject (604072462)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1406741066
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1406741065}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1459274748
 GameObject:
   m_ObjectHideFlags: 0
@@ -4688,6 +4651,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!212 &1559122572
 SpriteRenderer:
@@ -5384,6 +5348,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!95 &1640650441
 Animator:
@@ -5629,6 +5594,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!212 &1668954938
 SpriteRenderer:
@@ -6054,6 +6020,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!95 &1744866914
 Animator:
@@ -6350,6 +6317,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!95 &1748216168
 Animator:
@@ -6516,6 +6484,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!212 &1757367116
 SpriteRenderer:
@@ -6973,6 +6942,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameController: {fileID: 1829995627}
   serialController: {fileID: 0}
+  plusOne: {fileID: 1412691260923095125, guid: 38ae9b3489f524b4fa5edbde4fb2ef47, type: 3}
 --- !u!114 &1829995627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7216,6 +7186,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!95 &1867608742
 Animator:
@@ -7382,6 +7353,7 @@ MonoBehaviour:
   Down: 0
   isHit: 0
   loadTimer: 0
+  plusOne: {fileID: 0}
   serialController: {fileID: 0}
 --- !u!212 &1902018146
 SpriteRenderer:

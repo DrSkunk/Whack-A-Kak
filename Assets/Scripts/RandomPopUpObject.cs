@@ -11,6 +11,7 @@ public class RandomPopUpObject : MonoBehaviour
     public bool isHit = false;
 
     public float loadTimer;
+    public GameObject plusOne;
 
     public SerialController serialController;
 
@@ -36,43 +37,43 @@ public class RandomPopUpObject : MonoBehaviour
             //arduino
                 //schrijven wanneer high 
                 if(gameObject.name == "BR-Popup"){
-                    Debug.Log("Sending A");
+                    //Debug.Log("Sending A");
                     serialController.SendSerialMessage("A0");
                 }
                 if(gameObject.name == "BM-Popup"){
-                    Debug.Log("Sending Z");
+                    //Debug.Log("Sending Z");
                     serialController.SendSerialMessage("Z0");
                 }
                 if(gameObject.name == "BL-Popup"){
-                    Debug.Log("Sending E");
+                    //Debug.Log("Sending E");
                     serialController.SendSerialMessage("E0");
                 }
                 if(gameObject.name == "M1R-Popup"){
-                    Debug.Log("Sending R");
+                    //Debug.Log("Sending R");
                     serialController.SendSerialMessage("R0");
                 }
                 if(gameObject.name == "M1L-Popup"){
-                    Debug.Log("Sending T");
+                    //Debug.Log("Sending T");
                     serialController.SendSerialMessage("T0");
                 }
                 if(gameObject.name == "M2L-Popup"){
-                    Debug.Log("Sending Y");
+                   //Debug.Log("Sending Y");
                     serialController.SendSerialMessage("Y0");
                 }
                 if(gameObject.name == "M2M-Popup"){
-                    Debug.Log("Sending U");
+                    //Debug.Log("Sending U");
                     serialController.SendSerialMessage("U0");
                 }
                 if(gameObject.name == "M2R-Popup"){
-                    Debug.Log("Sending I");
+                    //Debug.Log("Sending I");
                     serialController.SendSerialMessage("I0");
                 }
                 if(gameObject.name == "TR-Popup"){
-                    Debug.Log("Sending O");
+                    //Debug.Log("Sending O");
                     serialController.SendSerialMessage("O0");
                 }
                 if(gameObject.name == "TL-Popup"){
-                    Debug.Log("Sending P");
+                    //Debug.Log("Sending P");
                     serialController.SendSerialMessage("P0");
                 }
 
@@ -87,7 +88,6 @@ public class RandomPopUpObject : MonoBehaviour
             loadTimer = 1f;
             StartCoroutine(MoveDownAfterTime());
             isHit = false;
-            Debug.Log(Down.ToString() + " name of the object is : " + gameObject.name);
 
         }
 
@@ -101,6 +101,62 @@ public class RandomPopUpObject : MonoBehaviour
             yield return new WaitForSeconds(1);
             gameObject.transform.Translate(Vector3.down * 2);
             isHit = false;
+            Destroy(plusOne);
+            Down = true;
+
+            //arduino
+            //schrijven wanneer low
+            if (gameObject.name == "BR-Popup")
+            {
+                // Debug.Log("Sending Q");
+                serialController.SendSerialMessage("Q0");
+            }
+            if (gameObject.name == "BM-Popup")
+            {
+                //Debug.Log("Sending S");
+                serialController.SendSerialMessage("S0");
+            }
+            if (gameObject.name == "BL-Popup")
+            {
+                //Debug.Log("Sending D");
+                serialController.SendSerialMessage("D0");
+            }
+            if (gameObject.name == "M1R-Popup")
+            {
+                //Debug.Log("Sending F");
+                serialController.SendSerialMessage("F0");
+            }
+            if (gameObject.name == "M1L-Popup")
+            {
+                //Debug.Log("Sending G");
+                serialController.SendSerialMessage("G0");
+            }
+            if (gameObject.name == "M2L-Popup")
+            {
+                //Debug.Log("Sending H");
+                serialController.SendSerialMessage("H0");
+            }
+            if (gameObject.name == "M2M-Popup")
+            {
+                //Debug.Log("Sending J");
+                serialController.SendSerialMessage("J0");
+            }
+            if (gameObject.name == "M2R-Popup")
+            {
+                //Debug.Log("Sending K");
+                serialController.SendSerialMessage("K0");
+            }
+            if (gameObject.name == "TR-Popup")
+            {
+                //Debug.Log("Sending L");
+                serialController.SendSerialMessage("L0");
+            }
+            if (gameObject.name == "TL-Popup")
+            {
+                //Debug.Log("Sending M");
+                serialController.SendSerialMessage("M0");
+            }
+
         }
 
 
@@ -119,43 +175,43 @@ public class RandomPopUpObject : MonoBehaviour
                 //arduino
                 //schrijven wanneer low
                 if(gameObject.name == "BR-Popup"){
-                    Debug.Log("Sending Q");
+                   // Debug.Log("Sending Q");
                     serialController.SendSerialMessage("Q0");
                 }
                 if(gameObject.name == "BM-Popup"){
-                    Debug.Log("Sending S");
+                    //Debug.Log("Sending S");
                     serialController.SendSerialMessage("S0");
                 }
                 if(gameObject.name == "BL-Popup"){
-                    Debug.Log("Sending D");
+                    //Debug.Log("Sending D");
                     serialController.SendSerialMessage("D0");
                 }
                 if(gameObject.name == "M1R-Popup"){
-                    Debug.Log("Sending F");
+                    //Debug.Log("Sending F");
                     serialController.SendSerialMessage("F0");
                 }
                 if(gameObject.name == "M1L-Popup"){
-                    Debug.Log("Sending G");
+                    //Debug.Log("Sending G");
                     serialController.SendSerialMessage("G0");
                 }
                 if(gameObject.name == "M2L-Popup"){
-                    Debug.Log("Sending H");
+                    //Debug.Log("Sending H");
                     serialController.SendSerialMessage("H0");
                 }
                 if(gameObject.name == "M2M-Popup"){
-                    Debug.Log("Sending J");
+                    //Debug.Log("Sending J");
                     serialController.SendSerialMessage("J0");
                 }
                 if(gameObject.name == "M2R-Popup"){
-                    Debug.Log("Sending K");
+                    //Debug.Log("Sending K");
                     serialController.SendSerialMessage("K0");
                 }
                 if(gameObject.name == "TR-Popup"){
-                    Debug.Log("Sending L");
+                   //Debug.Log("Sending L");
                     serialController.SendSerialMessage("L0");
                 }
                 if(gameObject.name == "TL-Popup"){
-                    Debug.Log("Sending M");
+                    //Debug.Log("Sending M");
                     serialController.SendSerialMessage("M0");
                 }
         }
