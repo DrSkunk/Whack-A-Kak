@@ -26,9 +26,11 @@ public class GameController : MonoBehaviour
     public GameObject beginScreen;
     public GameObject endScreen;
 
+    //Get the position for the end score 
     public Image Player1Image;
     public Image Player2Image;
 
+    //the sprites for the winner and loser
     public Sprite WonImage;
     public Sprite LostImage;
 
@@ -37,10 +39,12 @@ public class GameController : MonoBehaviour
 
     private float endTimer = 100f;
 
+    //public bool the see if the game is active
     public bool gameIsActive = false;
 
     private string WinnerName;
 
+    //serialController to communicate with the arduino
     public SerialController serialController;
 
     void Start()
@@ -58,7 +62,7 @@ public class GameController : MonoBehaviour
 
     void Update()
     {
-
+        //get the score to display when it changes
         Player1Score = PlayerPrefs.GetInt("Player1Score");
         Player2Score = PlayerPrefs.GetInt("Player2Score");
 
@@ -66,10 +70,12 @@ public class GameController : MonoBehaviour
         TPlayer1Score.text = Player1Score.ToString();
         TPlayer2Score.text = Player2Score.ToString();
 
+        //start the starttimer for the information and display it in seconds
         startTimer -= Time.deltaTime;
         int seconds = Mathf.FloorToInt(startTimer);
         StartTimer.text = seconds.ToString();
 
+        //if the starttimer runs out start the game
         if (startTimer <= 0)
         {
             beginScreen.SetActive(false);
@@ -77,6 +83,7 @@ public class GameController : MonoBehaviour
             gameIsActive = true;
         }
 
+        //if the timer runs out show the end screen
         if (timerController.gameEnded == true)
         {
             //send command to arduino that leds need to be reset
@@ -87,6 +94,7 @@ public class GameController : MonoBehaviour
             endPlayer1Score.text = Player1Score.ToString() + "x";
             endPlayer2Score.text = Player2Score.ToString() + "x";
             endTimer -= Time.deltaTime;
+
             if (Player1Score > Player2Score)
             {
 

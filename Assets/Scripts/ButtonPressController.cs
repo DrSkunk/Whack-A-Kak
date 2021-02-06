@@ -49,7 +49,7 @@ public class ButtonPressController : MonoBehaviour
                     anim.SetTrigger(hithash);
                     hitSound.Play();
 
-
+                    //spawn object that shows the hit
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
@@ -61,8 +61,7 @@ public class ButtonPressController : MonoBehaviour
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
                     P1Score++;
 
-                    //send to arduino that hit happened
-                    //Debug.Log("Sending 0");
+                    //send to arduino that hit has happened
                     serialController.SendSerialMessage("01");
 
                     //save the score in the PlayerPrefs for display of the score
@@ -89,8 +88,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -122,8 +119,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -154,8 +149,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -186,8 +179,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -219,8 +210,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -250,9 +239,7 @@ public class ButtonPressController : MonoBehaviour
 
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
-
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
+ 
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -283,8 +270,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -316,8 +301,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -348,8 +331,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P1Score = PlayerPrefs.GetInt("Player1Score");
@@ -384,8 +365,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -416,8 +395,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -449,8 +426,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -480,8 +455,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -511,8 +484,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.Down = true;
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -544,7 +515,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -575,7 +545,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -606,7 +575,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -638,7 +606,6 @@ public class ButtonPressController : MonoBehaviour
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(2, 1);
 
-                    //ActiveElementButton.active = false;
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");
@@ -668,8 +635,7 @@ public class ButtonPressController : MonoBehaviour
 
                     ActiveElementButton.plusOne = Instantiate(plusOne, ActiveElement.transform.position, Quaternion.identity);
                     plusOne.transform.position += new Vector3(-2, -1);
-
-                    //ActiveElementButton.active = false;
+                     
                     ActiveElementButton.isHit = true;
 
                     int P2Score = PlayerPrefs.GetInt("Player2Score");

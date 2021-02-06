@@ -12,8 +12,6 @@ public class PopUpController : MonoBehaviour
     private bool hasSetActive = false;
     private RandomPopUpObject randomElement;
 
-
-
     void Update()
     {
         if (gameController.gameIsActive == true)
@@ -39,7 +37,6 @@ public class PopUpController : MonoBehaviour
                 //get the RandomPopUpObject script to check active variables on true
                 if (GameElement.GetComponent<RandomPopUpObject>() == randomElement)
                 {
-                    //Debug.Log("randomChosen element = " + GameElement.name.ToString() + "this is the down state: " +randomElement.Down.ToString());
                         //if item is already active set it inactive else put it active so it pops up
                         if(randomElement.Down == false && randomElement.isHit == false)
                         {
@@ -49,9 +46,6 @@ public class PopUpController : MonoBehaviour
                         {
                             randomElement.active = true;
 
-                        //Debug.Log("randomChosen element = " + GameElement.name.ToString() + "this is the down state: " + randomElement.Down.ToString());
-                        //Debug.Log("item already active");
-                            //activeElement.active = true;
                        }
                 }
             }

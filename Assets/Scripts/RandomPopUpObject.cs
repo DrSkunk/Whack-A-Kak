@@ -5,20 +5,25 @@ using UnityEngine;
 public class RandomPopUpObject : MonoBehaviour
 {
     //public variables so that you can acces them in other files.
-
     public bool active = false;
     public bool Down = true;
-    public bool isHit = false;
 
+    //bool to check it the object is hit
+    public bool isHit = false;
     public float loadTimer;
+
+    //the plusone object that popup on hit
     public GameObject plusOne;
 
+    //serial controller for the arduino
     public SerialController serialController;
 
     void Start()
     {
+        //setting the variables at the start of the game
         active = false;
         Down = true;
+
         //getting serial controller for arduino connection
         serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
     }
@@ -29,13 +34,14 @@ public class RandomPopUpObject : MonoBehaviour
         if (active)
         {
             active = false;
+            //move object up
             gameObject.transform.Translate(Vector3.up * 2);
             Down = false;
             // choose a random time to be active
             loadTimer = Random.Range(1.0f, 1.0f);
 
             //arduino
-                //schrijven wanneer high 
+                //Write to arduino when high
                 if(gameObject.name == "BR-Popup"){
                     //Debug.Log("Sending A");
                     serialController.SendSerialMessage("A0");
@@ -82,6 +88,7 @@ public class RandomPopUpObject : MonoBehaviour
             StartCoroutine(MoveDownAfterTime());
 
         }
+        //if the object it hit the timer needs to stop and be 1 sec
         if (isHit == true)
         {
             StopAllCoroutines();
@@ -96,16 +103,20 @@ public class RandomPopUpObject : MonoBehaviour
 
     IEnumerator MoveDownAfterTime()
     {
+        //if the timer is hit the time to wait should only be 1 sec for the animation and sound
         if (Down == true && isHit == true)
         {
             yield return new WaitForSeconds(1);
             gameObject.transform.Translate(Vector3.down * 2);
             isHit = false;
+
+            //destroy the plusone object after the object goes down
             Destroy(plusOne);
+
             Down = true;
 
             //arduino
-            //schrijven wanneer low
+            //Write to arduino when low
             if (gameObject.name == "BR-Popup")
             {
                 // Debug.Log("Sending Q");
@@ -165,16 +176,13 @@ public class RandomPopUpObject : MonoBehaviour
 
                 //IEnumerator waits at this line untill timer has run out
                 isHit = false;
-                Debug.Log("im whaiting this long to go down" + loadTimer);
                 yield return new WaitForSeconds(loadTimer);
-                Debug.Log("im done");
-                //active = false;
                 gameObject.transform.Translate(Vector3.down * 2);
                 Down = true;
 
-                //arduino
-                //schrijven wanneer low
-                if(gameObject.name == "BR-Popup"){
+            //arduino
+            //Write to arduino when low
+            if (gameObject.name == "BR-Popup"){
                    // Debug.Log("Sending Q");
                     serialController.SendSerialMessage("Q0");
                 }
