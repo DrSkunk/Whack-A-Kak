@@ -100,6 +100,7 @@ public class RandomPopUpObject : MonoBehaviour
         {
             yield return new WaitForSeconds(1);
             gameObject.transform.Translate(Vector3.down * 2);
+            isHit = false;
         }
 
 

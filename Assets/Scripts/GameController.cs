@@ -26,6 +26,12 @@ public class GameController : MonoBehaviour
     public GameObject beginScreen;
     public GameObject endScreen;
 
+    public Image Player1Image;
+    public Image Player2Image;
+
+    public Sprite WonImage;
+    public Sprite LostImage;
+
     public float startTimer = 10f;
     public Text StartTimer;
 
@@ -78,18 +84,24 @@ public class GameController : MonoBehaviour
 
             gameIsActive = false;
             endScreen.SetActive(true);
-            endPlayer1Score.text = Player1Score.ToString();
-            endPlayer2Score.text = Player2Score.ToString();
+            endPlayer1Score.text = Player1Score.ToString() + "x";
+            endPlayer2Score.text = Player2Score.ToString() + "x";
             endTimer -= Time.deltaTime;
             if (Player1Score > Player2Score)
             {
 
                 WinnerName = "SPELER 1";
+                Player1Image.sprite = WonImage;
+                Player2Image.sprite = LostImage;
+
 
             }
             else
             {
                 WinnerName = "SPELER 2";
+                Player1Image.sprite = LostImage;
+                Player2Image.sprite = WonImage;
+
             }
             winnerText.text = "PROFICIAT " + WinnerName + "!";
 
