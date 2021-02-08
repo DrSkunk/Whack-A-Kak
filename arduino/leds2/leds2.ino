@@ -279,7 +279,7 @@ if(Serial.available())
       //show led changes
       //FastLED.show();
 
-      //FastLED.clear();wwwwwwwwwrrrrraaaaqqq
+      //FastLED.clear();wwwwwwwwwrrrrraaaqqqaqqq
   }
   //run over millis array
   for (int i=0; i<sizeof startMillis/sizeof startMillis[0]; i++) {
