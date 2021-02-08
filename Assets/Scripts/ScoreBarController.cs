@@ -23,14 +23,18 @@ public class ScoreBarController : MonoBehaviour
     private int maxBrickCountLeft;
     private int maxBrickCountRight;
 
+    private int randomIntL;
+    private int randomIntR;
+
+
     // Start is called before the first frame update
     void Start()
     {
         //setting variables at the beginning
         scoreP1 = 0;
         scoreP2 = 0;
-        addValueL = 36;
-        addValueR = 36;
+        addValueL = 34;
+        addValueR = 34;
         leftPosition.transform.position -= new Vector3(0, 36) * 2;
         rightPosition.transform.position -= new Vector3(0, 36) * 2;
      }
@@ -48,9 +52,18 @@ public class ScoreBarController : MonoBehaviour
 
             //spawn the brick and move it on top of the previous one
             GameObject newBrickL = Instantiate(brickPrefab, leftPosition);
-            int randomIntL = Mathf.FloorToInt(Random.Range(0f, 5f));
+
+            //checks if the brick is an even brick
+            if (maxBrickCountLeft % 2 == 0)
+            {
+               randomIntL = 10;
+            }
+            else
+            {
+               randomIntL = -10;
+            }
             newBrickL.transform.position += new Vector3(randomIntL , addValueL);
-            addValueL += 34;
+            addValueL += 32;
 
             maxBrickCountLeft++;
         }
@@ -62,9 +75,18 @@ public class ScoreBarController : MonoBehaviour
 
             //spawn the brick and move it on top of the previous one
             GameObject newBrickR =  Instantiate(brickPrefab, rightPosition);
-            int randomIntR = Mathf.FloorToInt(Random.Range(0f, 5f));
+
+            //checks if the brick is an even brick
+            if (maxBrickCountRight % 2 == 0)
+            {
+                randomIntR = 10;
+            }
+            else
+            {
+                randomIntR = -10;
+            }
             newBrickR.transform.position += new Vector3(randomIntR, addValueR);
-            addValueR += 34;
+            addValueR += 32;
 
             maxBrickCountRight++;
         }
