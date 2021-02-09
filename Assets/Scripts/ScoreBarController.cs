@@ -23,16 +23,24 @@ public class ScoreBarController : MonoBehaviour
     private int maxBrickCountLeft;
     private int maxBrickCountRight;
 
+    private int randomIntL;
+    private int randomIntR;
+
+    private int BrickPaternCounterL;
+    private int BrickPaternCounterR;
+
     // Start is called before the first frame update
     void Start()
     {
         //setting variables at the beginning
         scoreP1 = 0;
         scoreP2 = 0;
-        addValueL = 36;
-        addValueR = 36;
+        addValueL = 28;
+        addValueR = 28;
         leftPosition.transform.position -= new Vector3(0, 36) * 2;
         rightPosition.transform.position -= new Vector3(0, 36) * 2;
+        BrickPaternCounterL = 1;
+        BrickPaternCounterR = 1;
      }
 
     // Update is called once per frame
@@ -42,30 +50,70 @@ public class ScoreBarController : MonoBehaviour
         scoreP2Preff = PlayerPrefs.GetInt("Player2Score");
 
         //if someone score 2 points there should appear a brick in the scorebar if there are 22 bricks no more brick should spawn
-        if (scoreP1 + 2 == scoreP1Preff && maxBrickCountLeft < 22){
+        if (scoreP1 + 1 == scoreP1Preff && maxBrickCountLeft < 65){
 
             scoreP1 = scoreP1Preff;
 
             //spawn the brick and move it on top of the previous one
             GameObject newBrickL = Instantiate(brickPrefab, leftPosition);
-            int randomIntL = Mathf.FloorToInt(Random.Range(0f, 5f));
-            newBrickL.transform.position += new Vector3(randomIntL , addValueL);
-            addValueL += 34;
 
+            //checks if the brick is an even brick
+            if (BrickPaternCounterL == 1)
+            {
+                if(maxBrickCountLeft > 0)
+                {
+                    addValueL += 18;
+                }
+                randomIntL = -20;
+                BrickPaternCounterL = 2;
+            }
+            else if (BrickPaternCounterL == 2)
+            {
+                randomIntL = 20;
+                BrickPaternCounterL = 3;
+            }
+            else
+            {
+                randomIntL = 0;
+                addValueL += 18;
+                BrickPaternCounterL = 1;
+            }
+
+            newBrickL.transform.position += new Vector3(randomIntL , addValueL);
             maxBrickCountLeft++;
         }
 
         //if someone score 2 points there should appear a brick in the scorebar if there are 22 bricks no more brick should spawn
-        if (scoreP2 + 2 == scoreP2Preff && maxBrickCountRight < 22){ 
+        if (scoreP2 + 1 == scoreP2Preff && maxBrickCountRight < 65){ 
         
             scoreP2 = scoreP2Preff;
 
             //spawn the brick and move it on top of the previous one
             GameObject newBrickR =  Instantiate(brickPrefab, rightPosition);
-            int randomIntR = Mathf.FloorToInt(Random.Range(0f, 5f));
-            newBrickR.transform.position += new Vector3(randomIntR, addValueR);
-            addValueR += 34;
 
+            //checks if the brick is an even brick
+            if (BrickPaternCounterR == 1)
+            {
+                if (maxBrickCountRight > 0)
+                {
+                    addValueR += 18;
+                }
+                randomIntR = -20;
+                BrickPaternCounterR = 2;
+            }
+            else if (BrickPaternCounterR == 2)
+            {
+                randomIntR = 20;
+                BrickPaternCounterR = 3;
+            }
+            else
+            {
+                randomIntR = 0;
+                addValueR += 18;
+                BrickPaternCounterR = 1;
+            }
+
+            newBrickR.transform.position += new Vector3(randomIntR, addValueR);
             maxBrickCountRight++;
         }
     }
