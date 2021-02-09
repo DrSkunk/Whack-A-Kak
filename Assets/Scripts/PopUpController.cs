@@ -38,11 +38,11 @@ public class PopUpController : MonoBehaviour
                 if (GameElement.GetComponent<RandomPopUpObject>() == randomElement)
                 {
                         //if item is already active set it inactive else put it active so it pops up
-                        if(randomElement.Down == false && randomElement.isHit == false)
+                        if(randomElement.Down == false && (randomElement.isHit == false ^ randomElement.isHit == true))
                         {
                             randomElement.active = false;
                         }
-                        else if (randomElement.Down ^ randomElement.isHit)
+                        else if (randomElement.Down && randomElement.isHit == false)
                         {
                             randomElement.active = true;
 
