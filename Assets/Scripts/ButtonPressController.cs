@@ -41,7 +41,7 @@ public class ButtonPressController : MonoBehaviour
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
 
                 //if the item is up, it can be hit so add score to corresponding player
-                if (ActiveElementButton.Down == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
                 {
                     ActiveElementButton.Down = true;
 

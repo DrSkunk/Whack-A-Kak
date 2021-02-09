@@ -14,7 +14,7 @@ public class OnScreenTimerController : MonoBehaviour
     // time duration of the game in frames
     public bool timeGoing;
     public bool gameEnded = false;
-    private float timeRemaining = 90.0f;
+    private float timeRemaining = 60.0f;
     // Start is called before the first frame update
     void Start()
     {
