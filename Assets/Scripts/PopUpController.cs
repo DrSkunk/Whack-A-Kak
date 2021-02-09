@@ -37,18 +37,20 @@ public class PopUpController : MonoBehaviour
                 //get the RandomPopUpObject script to check active variables on true
                 if (GameElement.GetComponent<RandomPopUpObject>() == randomElement)
                 {
-                        //if item is already active set it inactive else put it active so it pops up
-                        if(randomElement.Down == false && (randomElement.isHit == false ^ randomElement.isHit == true))
-                        {
-                            randomElement.active = false;
-                        }
-                        else if (randomElement.Down && randomElement.isHit == false)
+                    //if item is already active set it inactive else put it active so it pops up
+                    if (randomElement.Down && randomElement.isHit == false && randomElement.inloop == false)
                         {
                             randomElement.active = true;
+                        }
+                        else 
+                        {
+                            //randomElement.active = false;
 
                        }
                 }
             }
+
+            //randomElement.Down == false ^ randomElement.isHit == true ^ randomElement.active == true
             //prevent infinite cycle without timer
             hasSetActive = true;
             }

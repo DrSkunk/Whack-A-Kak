@@ -7,6 +7,7 @@ public class RandomPopUpObject : MonoBehaviour
     //public variables so that you can acces them in other files.
     public bool active = false;
     public bool Down = true;
+    public bool inloop = false;
 
     //bool to check it the object is hit
     public bool isHit = false;
@@ -116,16 +117,16 @@ public class RandomPopUpObject : MonoBehaviour
     IEnumerator MoveDownAfterTime()
     {
         //if the timer is hit the time to wait should only be 1 sec for the animation and sound
-        if (Down == true && isHit == true)
+        if (isHit == true && Down == true)
         {
+            inloop = true;
             yield return new WaitForSeconds(1);
             gameObject.transform.Translate(Vector3.down * 2);
             isHit = false;
+            Down = true;
 
             //destroy the plusone object after the object goes down
             Destroy(plusOne);
-
-            Down = true;
 
             //arduino
             //Write to arduino when low
@@ -189,15 +190,16 @@ public class RandomPopUpObject : MonoBehaviour
                 serialController.SendSerialMessage("M0");
                 serialController2.SendSerialMessage("M0");
             }
-
+            inloop = false;
         }
 
 
-        if (Down == false)
+        if (Down == false && isHit == false)
         {
+            inloop = true;
 
-                //IEnumerator waits at this line untill timer has run out
-                isHit = false;
+            //IEnumerator waits at this line untill timer has run out
+            isHit = false;
                 yield return new WaitForSeconds(loadTimer);
                 gameObject.transform.Translate(Vector3.down * 2);
                 Down = true;
@@ -254,6 +256,7 @@ public class RandomPopUpObject : MonoBehaviour
                     serialController.SendSerialMessage("M0");
                     serialController2.SendSerialMessage("M0");
                 }
+            inloop = false;
         }
              
     }
