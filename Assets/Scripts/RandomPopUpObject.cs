@@ -117,95 +117,22 @@ public class RandomPopUpObject : MonoBehaviour
 
     IEnumerator MoveDownAfterTime()
     {
-        //if the timer is hit the time to wait should only be 1 sec for the animation and sound
-        if (isHit == true && Down == true)
-        {
-            inloop = true;
-            yield return new WaitForSeconds(1);
-            gameObject.transform.Translate(Vector3.down * 2);
-            isHit = false;
-            Down = true;
+        inloop = true;
 
-            //destroy the plusone object after the object goes down
-            Destroy(plusOne);
-
-            //arduino
-            //Write to arduino when low
-            if (gameObject.name == "BR-Popup")
-            {
-                // Debug.Log("Sending Q");
-                serialController.SendSerialMessage("Q0");
-                serialController2.SendSerialMessage("Q0");
-            }
-            if (gameObject.name == "BM-Popup")
-            {
-                //Debug.Log("Sending S");
-                serialController.SendSerialMessage("S0");
-                serialController2.SendSerialMessage("S0");
-            }
-            if (gameObject.name == "BL-Popup")
-            {
-                //Debug.Log("Sending D");
-                serialController.SendSerialMessage("D0");
-                serialController2.SendSerialMessage("D0");
-            }
-            if (gameObject.name == "M1R-Popup")
-            {
-                //Debug.Log("Sending F");
-                serialController.SendSerialMessage("F0");
-                serialController2.SendSerialMessage("F0");
-            }
-            if (gameObject.name == "M1L-Popup")
-            {
-                //Debug.Log("Sending G");
-                serialController.SendSerialMessage("G0");
-                serialController2.SendSerialMessage("G0");
-            }
-            if (gameObject.name == "M2L-Popup")
-            {
-                //Debug.Log("Sending H");
-                serialController.SendSerialMessage("H0");
-                serialController2.SendSerialMessage("H0");
-            }
-            if (gameObject.name == "M2M-Popup")
-            {
-                //Debug.Log("Sending J");
-                serialController.SendSerialMessage("J0");
-                serialController2.SendSerialMessage("J0");
-            }
-            if (gameObject.name == "M2R-Popup")
-            {
-                //Debug.Log("Sending K");
-                serialController.SendSerialMessage("K0");
-                serialController2.SendSerialMessage("K0");
-            }
-            if (gameObject.name == "TR-Popup")
-            {
-                //Debug.Log("Sending L");
-                serialController.SendSerialMessage("L0");
-                serialController2.SendSerialMessage("L0");
-            }
-            if (gameObject.name == "TL-Popup")
-            {
-                //Debug.Log("Sending M");
-                serialController.SendSerialMessage("M0");
-                serialController2.SendSerialMessage("M0");
-            }
-            inloop = false;
-        }
+        //IEnumerator waits at this line untill timer has run ou
+        yield return new WaitForSeconds(loadTimer);
+        inloop = false;
+        Down = true;
+        gameObject.transform.Translate(Vector3.down * 2);
 
 
-        if (Down == false && isHit == false)
-        {
-            inloop = true;
+        //destroy the plusone object after the object goes down
+        Destroy(plusOne);
 
-            //IEnumerator waits at this line untill timer has run ou
-            yield return new WaitForSeconds(loadTimer);
-            gameObject.transform.Translate(Vector3.down * 2);
-
-            //arduino
-            //Write to arduino when low
-            if (gameObject.name == "BR-Popup"){
+        isHit = false;
+        //arduino
+        //Write to arduino when low
+        if (gameObject.name == "BR-Popup"){
                    // Debug.Log("Sending Q");
                     serialController.SendSerialMessage("Q0");
                     serialController2.SendSerialMessage("Q0");
@@ -254,11 +181,7 @@ public class RandomPopUpObject : MonoBehaviour
                     //Debug.Log("Sending M");
                     serialController.SendSerialMessage("M0");
                     serialController2.SendSerialMessage("M0");
-                }
-            inloop = false;
-            Down = true;
-        }
-             
+                }  
     }
 }
 
