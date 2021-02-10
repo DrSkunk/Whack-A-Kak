@@ -8,7 +8,11 @@ Links to the other games in this serie are found here:
 -[Shitwassen](https://github.com/Moongirl1207/Shitwassen)
 
 ## Build The Game In Unity
-After downloading the latest release, go to file -  build settings then choose your platform and click on "build"
+Before building you will have to look in the game scene for the serialController objects and set the portname to the port your arduino is on.
+You can find the right port by entering ls /dev/tty.* in your terminal.
+After doing this, go to file -  build settings then choose your platform and click on "build"
+
 
 
 ## Arduino setup for the installation
+Upload the [Arduino sketches](https://github.com/Moongirl1207/Wack-A-Kak/tree/develop/arduino) to you arduino, plug the arduino into you pc and you're good to go.
