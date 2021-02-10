@@ -8,7 +8,7 @@ Links to the other games in this serie are found here:
 -[Shitwassen](https://github.com/Moongirl1207/Shitwassen)
 
 ## Build The Game In Unity
-After downloading the latest release , go to file -  build settings then choose your platform and click on "build"
+After downloading the latest release, go to file -  build settings then choose your platform and click on "build"
 
 
 ## Arduino setup for the installation
