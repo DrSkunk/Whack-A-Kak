@@ -42,15 +42,8 @@ public class PopUpController : MonoBehaviour
                         {
                             randomElement.active = true;
                         }
-                        else 
-                        {
-                            //randomElement.active = false;
-
-                       }
                 }
             }
-
-            //randomElement.Down == false ^ randomElement.isHit == true ^ randomElement.active == true
             //prevent infinite cycle without timer
             hasSetActive = true;
             }

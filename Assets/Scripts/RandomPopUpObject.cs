@@ -25,6 +25,7 @@ public class RandomPopUpObject : MonoBehaviour
         //setting the variables at the start of the game
         active = false;
         Down = true;
+        inloop = false;
 
         //getting serial controller for arduino connection
         serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
@@ -39,8 +40,8 @@ public class RandomPopUpObject : MonoBehaviour
             active = false;
             //move object up
             gameObject.transform.Translate(Vector3.up * 2);
-            Down = false;
             // choose a random time to be active
+            Down = false;
             loadTimer = Random.Range(1.0f, 1.0f);
 
             //arduino
@@ -198,11 +199,9 @@ public class RandomPopUpObject : MonoBehaviour
         {
             inloop = true;
 
-            //IEnumerator waits at this line untill timer has run out
-            isHit = false;
-                yield return new WaitForSeconds(loadTimer);
-                gameObject.transform.Translate(Vector3.down * 2);
-                Down = true;
+            //IEnumerator waits at this line untill timer has run ou
+            yield return new WaitForSeconds(loadTimer);
+            gameObject.transform.Translate(Vector3.down * 2);
 
             //arduino
             //Write to arduino when low
@@ -257,6 +256,7 @@ public class RandomPopUpObject : MonoBehaviour
                     serialController2.SendSerialMessage("M0");
                 }
             inloop = false;
+            Down = true;
         }
              
     }

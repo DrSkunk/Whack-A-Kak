@@ -41,7 +41,7 @@ public class ButtonPressController : MonoBehaviour
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
 
                 //if the item is up, it can be hit so add score to corresponding player
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -78,7 +78,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("BM-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
 
                     ActiveElementButton.Down = true;
@@ -110,7 +110,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("BR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -141,7 +141,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M1L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -172,7 +172,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M1R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -204,7 +204,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M2L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -235,7 +235,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M2M-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -266,7 +266,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M2R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -298,7 +298,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("TL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -329,7 +329,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -364,7 +364,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("BL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -395,7 +395,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("BM-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -427,7 +427,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("BR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -457,7 +457,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M1L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -487,7 +487,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M1R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -519,7 +519,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M2L-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -550,7 +550,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M2M-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -581,7 +581,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("M2R-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -614,7 +614,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("TL-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
@@ -645,7 +645,7 @@ public class ButtonPressController : MonoBehaviour
             {
                 ActiveElement = GameObject.Find("TR-Popup");
                 ActiveElementButton = ActiveElement.GetComponent<RandomPopUpObject>();
-                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false)
+                if (ActiveElementButton.Down == false && ActiveElementButton.isHit == false && ActiveElementButton.inloop == true)
                 {
                     ActiveElementButton.Down = true;
 
