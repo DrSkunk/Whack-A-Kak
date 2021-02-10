@@ -106,7 +106,7 @@ public class RandomPopUpObject : MonoBehaviour
         if (isHit == true)
         {
             StopAllCoroutines();
-            loadTimer = 1f;
+            loadTimer = 0.5f;
             StartCoroutine(MoveDownAfterTime());
             isHit = false;
 
