@@ -1,4 +1,6 @@
 
+//sketch uploaded to arduino of player one
+//include all the libraries
 #include <Wire.h>
 #include "Keyboard.h"
 #include <FastLED.h>
@@ -8,14 +10,13 @@
 #define NUM_LEDS 10
 //defining pins ledstrips
 #define DATA_PIN 10
-//defining pin start buttonhewq
+//defining pin start button
 #define buttonPin 12
 
 //set leds
 CRGB leds[NUM_LEDS];
 
 //set bools to track if button was pressed (make sure you can't keep pushing button and printing character)
-//player1
 bool pressed = false;
 bool pressed2 = false;
 bool pressed3 = false;
@@ -26,17 +27,6 @@ bool pressed7 = false;
 bool pressed8 = false;
 bool pressed9 = false;
 bool pressed10 = false;
-//player2
-/*bool pressed11 = false;
-bool pressed12 = false;
-bool pressed13 = false;
-bool pressed14 = false;
-bool pressed15 = false;
-bool pressed16 = false;
-bool pressed17 = false;
-bool pressed18 = false;
-bool pressed19 = false;
-bool pressed20 = false;*/
 //start button
 bool pressedStart = false;
 
@@ -45,7 +35,7 @@ int ledsOn[10];
 //start millis to time leds later
 long startMillis[10];
 
-//set button state  opiuyyyyytrqwelhjk,gsfad
+//set button state
 int buttonState = 0;
 
 void setup()
@@ -54,7 +44,7 @@ void setup()
   Wire.begin();         // join i2c bus (address optional for master)
   Serial.begin(115200); // start serial to get input
 
-  //start up keyboard simulation hfasgdiitryupoweqqeeeewwt
+  //start up keyboard simulation
   Keyboard.begin();
 
   //add leds to fastleds with number of leds and datapins
@@ -76,7 +66,6 @@ void loop()
   if (buttonState == HIGH && pressedStart == false)
   {
     Keyboard.press(32);
-    //delay(10);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressedStart = true;
   }
@@ -84,7 +73,6 @@ void loop()
   if (buttonState == LOW)
   {
     pressedStart = false;
-    //delay(10);
   }
 
   //check if serial is available
@@ -92,19 +80,14 @@ void loop()
   {
     char char1;
     char char2;
-    //Serial.println(msg);
+
     while (Serial.available() > 0)
     {
-      //Serial.println("in while");
-      //add characters comming through serial into msg string
+      //read both characters coming through serial
       char1 = Serial.read();
       char2 = Serial.read();
-      //Serial.print("char1: ");
-      //Serial.println(char1);
-      //Serial.print("char2: ");
-      //Serial.println(char2);
 
-      //read first character of msg, depending on character set certain led in array on or off
+      //depending on character set certain led in array on or off in ledOn array
       switch (char1)
       {
       case 'X':
@@ -291,7 +274,7 @@ void loop()
 
   //clear all leds at beginning loop to start with clean slate
   FastLED.clear();
-  //run over led array to see which led needs which color
+  //run over led array to see which led needs which color and turn leds on or off
   for (int i = 0; i < sizeof ledsOn / sizeof ledsOn[0]; i++)
   {
     if (ledsOn[i] == 1)
@@ -311,7 +294,7 @@ void loop()
     }
     else if (ledsOn[i] == 3)
     {
-      //if ledsOn on place i is 1, turn led to green (player 2 scored)
+      //if ledsOn on place i is 1, turn led to red (player 2 scored)
       leds[i] = CRGB(225, 0, 0);
       //set start value of millis if it's 0
       if (startMillis[i] == 0)
@@ -321,7 +304,7 @@ void loop()
     }
   }
 
-  //run over millis array
+  //loop over millis array
   for (int i = 0; i < sizeof startMillis / sizeof startMillis[0]; i++)
   {
     Serial.println("millis checken");
@@ -338,7 +321,7 @@ void loop()
   FastLED.show();
   delay(10);
 
-  //PCF8574 number3
+  //PCF8574 number1
   Wire.beginTransmission(0x3A); // transmit to device #8
   Wire.write(255);              // sends five bytes
   Wire.endTransmission();
@@ -346,35 +329,29 @@ void loop()
   Wire.requestFrom(0x3A, 1); // request 6 bytes from slave device #8
 
   while (Wire.available())
-  {                      // slave may send less than requested
+  {
     int c = Wire.read(); // receive a byte as character
-                         //Serial.println(c);         // print the character
-
-    //if(c > 0){
+    //see which button is pressed by reading the number
     if (c == 251 && pressed9 == false)
     {
-      Keyboard.press('o');
-      //delay(10);
+      Keyboard.press('o');   //depending on character read, press right key on keyboard
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
-      pressed9 = true;
+      pressed9 = true;       //set pressed to true so you can't keep holding the key and printing the letter
     }
     else if (c != 251)
     {
-      pressed9 = false;
-      //delay(10);
+      pressed9 = false; //set pressed back to false when character read is something else than the corresponding number
     }
 
     if (c == 247 && pressed10 == false)
     {
       Keyboard.press('p');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed10 = true;
     }
     else if (c != 247)
     {
       pressed10 = false;
-      //delay(10);
     }
   }
   //}
@@ -387,118 +364,97 @@ void loop()
   Wire.requestFrom(0x38, 1); // request 6 bytes from slave device #8
 
   while (Wire.available())
-  { // slave may send less than requested
-    //Serial.println("in while buttons");
+  {
     int c = Wire.read(); // receive a byte as character
-    Serial.println(c);   // print the character
-    //if c is right character, and the button isn't pressed yet press right key on keyboard
-    //if(c > 0){
+
+    //see which button is pressed by reading the number
     if (c == 1 && pressed == false)
     {
-      Keyboard.press('e');
-      //delay(10);
+      Keyboard.press('e');   //depending on character read, press right key on keyboard
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
-      pressed = true;
-      //if the button is wrong character, put pressed back to false because button has been released
+      pressed = true;        //set pressed to true so you can't keep holding the key and printing the letter
     }
     else if (c != 1)
     {
-      pressed = false;
-      //delay(10);
+      pressed = false; //set pressed back to false when character read is something else than the corresponding number
     }
 
     if (c == 4 && pressed2 == false)
     {
       Keyboard.press('z');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed2 = true;
     }
     else if (c != 4)
     {
       pressed2 = false;
-      //delay(10);
     }
 
     if (c == 8 && pressed3 == false)
     {
       Keyboard.press('r');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed3 = true;
     }
     else if (c != 8)
     {
       pressed3 = false;
-      //delay(10);
     }
 
     if (c == 16 && pressed4 == false)
     {
       Keyboard.press('t');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed4 = true;
     }
     else if (c != 16)
     {
       pressed4 = false;
-      //delay(10);
     }
 
     if (c == 2 && pressed5 == false)
     {
       Keyboard.press('a');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed5 = true;
     }
     else if (c != 2)
     {
       pressed5 = false;
-      //delay(10);
     }
 
     if (c == 32 && pressed6 == false)
     {
       Keyboard.press('y');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed6 = true;
     }
     else if (c != 32)
     {
       pressed6 = false;
-      //delay(10);
     }
 
     if (c == 64 && pressed7 == false)
     {
       Keyboard.press('u');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed7 = true;
     }
     else if (c != 64)
     {
       pressed7 = false;
-      //delay(10);
     }
 
     if (c == 128 && pressed8 == false)
     {
       Keyboard.press('i');
-      //delay(10);
       Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
       pressed8 = true;
     }
     else if (c != 128)
     {
       pressed8 = false;
-      //delay(10);
     }
   }
-
-  //}
   delay(10);
 }
