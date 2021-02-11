@@ -15,4 +15,4 @@ After doing this, go to file -  build settings then choose your platform and cli
 
 
 ## Arduino setup for the installation
-Upload the [Arduino sketches](https://github.com/Moongirl1207/Wack-A-Kak/tree/develop/arduino) to you arduino, plug the arduino into you pc and you're good to go.
+Upload the [Arduino sketches](https://github.com/Moongirl1207/Wack-A-Kak/tree/master/arduino) to you arduino, plug the arduino into you pc and you're good to go.
