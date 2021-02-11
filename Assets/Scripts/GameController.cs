@@ -21,6 +21,7 @@ public class GameController : MonoBehaviour
     public Text endPlayer1Score;
     public Text endPlayer2Score;
     public Text winnerText;
+    public Text explainText;
 
     // The popscreens for the info
     public GameObject beginScreen;
@@ -109,8 +110,10 @@ public class GameController : MonoBehaviour
                 WinnerName = "GELIJKSPEL";
                 Player1Image.sprite = WonImage;
                 Player2Image.sprite = WonImage;
+                explainText.text = "";
 
-            }else
+            }
+            else
             {
                 WinnerName = "SPELER 2";
                 Player1Image.sprite = LostImage;
