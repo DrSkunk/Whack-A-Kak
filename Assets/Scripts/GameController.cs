@@ -104,12 +104,17 @@ public class GameController : MonoBehaviour
 
 
             }
-            else
+            else if (Player1Score == Player2Score)
+            {
+                WinnerName = "GELIJKSPEL";
+                Player1Image.sprite = WonImage;
+                Player2Image.sprite = WonImage;
+
+            }else
             {
                 WinnerName = "SPELER 2";
                 Player1Image.sprite = LostImage;
                 Player2Image.sprite = WonImage;
-
             }
             winnerText.text = "PROFICIAT " + WinnerName + "!";
 
