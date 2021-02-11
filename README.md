@@ -1,5 +1,5 @@
-# Wack-A-Kak
-Wack-A-Kak is a wack-a-mol game made in unity as a part in a 3 series bachelorproject from [Ellen Sierens](https://www.sierensellen.be/ "Ellen Sierens Portfolio"), [Julia Anseele](https://juliaanseele.myportfolio.com/ "Julia Anseele Protfolio") and [Amber Pérard](http://amberperard-devine.be/ "Amber Perard Portfolio"). 
+# Whack-A-Kak
+Whack-A-Kak is a whack-a-mol game made in unity as a part in a 3 series bachelorproject from [Ellen Sierens](https://www.sierensellen.be/ "Ellen Sierens Portfolio"), [Julia Anseele](https://juliaanseele.myportfolio.com/ "Julia Anseele Protfolio") and [Amber Pérard](http://amberperard-devine.be/ "Amber Perard Portfolio"). 
 
 Links to the other games in this serie are found here:
 
