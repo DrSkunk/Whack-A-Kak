@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using static PlayerPorts;
 using UnityEngine;
 
 public class ButtonPressController : MonoBehaviour
@@ -23,7 +24,9 @@ public class ButtonPressController : MonoBehaviour
         anim = gameObject.GetComponentInParent<Animator>();
         //getting serial controller for arduino connection
         serialController = GameObject.Find("SerialController").GetComponent<SerialController>();
+        serialController.portName = PlayerPorts.player1ComPort;
         serialController2 = GameObject.Find("SerialController2").GetComponent<SerialController>();
+        serialController2.portName = PlayerPorts.player2ComPort;
     }
  
     void Update()

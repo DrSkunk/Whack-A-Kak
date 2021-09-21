@@ -2617,6 +2617,17 @@ RectTransform:
   m_AnchoredPosition: {x: -0.000045776367, y: 5.0000153}
   m_SizeDelta: {x: 187.73877, y: 187.73877}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &916739217 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 11442534, guid: a65acf0cbf56b80419f74ebf0bc845f4, type: 3}
+  m_PrefabInstance: {fileID: 732229378}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc5f48af2cffd747a079fe8c632e2c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &923309192
 GameObject:
   m_ObjectHideFlags: 0
@@ -5694,6 +5705,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1642002675 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 11442534, guid: a65acf0cbf56b80419f74ebf0bc845f4, type: 3}
+  m_PrefabInstance: {fileID: 312576295}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc5f48af2cffd747a079fe8c632e2c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1649777338
 GameObject:
   m_ObjectHideFlags: 0
@@ -7179,8 +7201,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameController: {fileID: 1829995627}
-  serialController: {fileID: 0}
-  serialController2: {fileID: 0}
+  serialController: {fileID: 1642002675}
+  serialController2: {fileID: 916739217}
   plusOne: {fileID: 1327045793102889523, guid: d72e915d172ac479c815e88b42f392d4, type: 3}
 --- !u!114 &1829995627
 MonoBehaviour:
