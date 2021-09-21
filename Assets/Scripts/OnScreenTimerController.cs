@@ -92,7 +92,7 @@ public class OnScreenTimerController : MonoBehaviour
             else
             {
                 sec1 = seconds.ToString()[0].ToString();
-                Debug.Log(sec2 = seconds.ToString()[1].ToString());
+                //Debug.Log(sec2 = seconds.ToString()[1].ToString());
             }
 
             //If the numbers are lower then dubble digits
@@ -105,7 +105,7 @@ public class OnScreenTimerController : MonoBehaviour
             else
             {
                 min1 = minutes.ToString()[0].ToString();
-                Debug.Log(min2 = minutes.ToString()[1].ToString());
+                //Debug.Log(min2 = minutes.ToString()[1].ToString());
 
             }
 

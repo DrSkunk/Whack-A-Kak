@@ -19,7 +19,7 @@ public class ButtonPressController : MonoBehaviour
     Animator anim;
     int hithash = Animator.StringToHash("Ishit");
 
-    void Start()
+    void OnEnable()
     {
         anim = gameObject.GetComponentInParent<Animator>();
         //getting serial controller for arduino connection
